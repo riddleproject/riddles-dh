@@ -1,3 +1,5 @@
+# replace dates in the unformatted metadata sheet with datetime objects
+
 import pandas as pd
 import datetime
 
