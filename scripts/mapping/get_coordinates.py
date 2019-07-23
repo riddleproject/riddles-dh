@@ -10,13 +10,15 @@ from progress.bar import Bar
 def get_loc(place):
     try:
         location = geolocator.geocode(place)
-        try:
-            coord = (location.latitude, location.longitude)
-        except:
-            coord = None
-    except GeocoderTimedOut:
-        return(get_loc(place))
-    return coord
+        
+        if location is None:
+            return None
+
+        coord = (location.latitude, location.longitude)
+        
+        return coord
+    except:
+        return get_loc(place)
 
 
 meta = pd.read_csv("/Users/ndrezn/OneDrive - McGill University/Github/riddles-project/workset/mapping/master_locations.csv")
@@ -30,23 +32,20 @@ states = meta['State/Province']
 cities = meta['City']
 
 coords = []
+
+places = []
+for city,state,country in zip(cities,states,countries):
+    place = str(city)+ " " +str(state)+ " " + str(country)
+    places.append(place)
+
+meta['Coordinates'] = places
+
 geolocator = Nominatim(user_agent='ndrezn')
 
-bar = Bar('Processing...', max=len(cities))
-for city,state,country in zip(cities,states,countries):
-    try:
-        place = str(city)+ " " +str(state)+ " " + str(country)
-        coord = get_loc(place)   
-        coords.append(coord)
-    except GeocoderTimedOut:
-        sleep(30)
-        geolocator = Nominatim(user_agent='ndrezn')
-        coord = get_loc(place)
-        coords.append(coord)
+print("Doing the thing.")
 
-bar.finish()
+meta['Coordinates'] = meta['Coordinates'].apply(get_loc)
 
 print("Coordinates collected.")
-print(broken)
-meta['Coordinates'] = coords
+
 meta.to_csv("/Users/ndrezn/OneDrive - McGill University/Github/riddles-project/workset/mapping/with_coordinates.csv")
