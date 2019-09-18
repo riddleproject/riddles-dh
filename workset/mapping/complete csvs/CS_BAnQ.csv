@@ -1,0 +1,40 @@
+﻿Unique_Reference_Number,Newspaper,Date,Event_Date,Country,State/Province,City,Organization_Hosting,Event_Location,Persons,Price_Event,Revenue,Attendance,Contains_BOF,Aditional_Comments,Archive
+R_3,Sherbrooke Daily Record,13-Jan-14,6-Jan-14,Canada,Quebec,Sherbrooke,I.O.G.T.,Temperance Hall,F. E. Dyer; Homer Ingalls; Rev. F. J. Hayden; Eugene Dyer; Glenna Griggs; Frederick Olmstead,n/a,19$ CAD,50,N,,BAnQ
+R_4,Sherbrooke Daily Record,1-Apr-20,1-Apr-20,Canada,Quebec,Sherbrooke,Philathea class,Douglas Hall,n/a,n/a,n/a,n/a,N,,BAnQ
+R_5,Sherbrooke Daily Record,27-Apr-36,23-Apr-36,Canada,Quebec,Island Brook,Women's Association,Town Hall,n/a,n/a,n/a,n/a,N,,BAnQ
+R_6,Sherbrooke Daily Record,22-Dec-14,"~December 15, 1914",Canada,Quebec,Martinville,Mr. J. J. Parsons; Mrs. J. J. Parsons,Home residence of hosts,Laurel Merril; Pearl Martin; John Martin,n/a,~40$ CAD,n/a,N,,BAnQ
+R_7,Sherbrooke Daily Record,27-Dec-32,21-Dec-32,Canada,Quebec,Cowansville,Ladies' Community Guild,School room of United Church,n/a,n/a,n/a,n/a,N,,BAnQ
+R_8,Sherbrooke Daily Record,31-Dec-13,2-Jan-14,Canada,Quebec,Sutton,n/a,Temperance Hall,n/a,n/a,n/a,n/a,N,,BAnQ
+R_9,Sherbrooke Daily Record,2-Feb-21,8-Feb-21,Canada,Quebec,West Shefford,Ladies' Guild of St. John's Church,Elm Grove Hall,n/a,n/a,n/a,n/a,N,,BAnQ
+R_10,Sherbrooke Daily Record,4-Feb-11,31-Jan-11,Canada,Quebec,Stanbridge East,Willing Workers,n/a,Mrs. E. L. Hodge; Mrs. C. S. Moore; Miss Ethel Struthers; Miss Curie; Master Lawrence Overing; Mrs. Ethel Paquette; Mrs. C. H. Hibbard; Miss Mamie Currie; Rev. R. Y. Overing; Miss Alice McKinney; Mr. G. W. Currigan; Miss Hazel Dyke; Miss Miriam Blinn; Edith Boffin; Rev. Rural Dean Robinson,n/a,n/a,n/a,Y,"Both Conundrum Event and Conundrum Tea referenced in newspaper (2 events that follow ione another); Conundrum tea given by ""the young ladies of the society""",BAnQ
+R_11,Sherbrooke Daily Record,7-Feb-13,30-Jan-13,Canada,Quebec,East Angus,Choral Society,n/a,Mrs. C. N. Andrews; Mr. R. McCrae; Mr. H. Thompson; Mr. L. MacKey,n/a,n/a,n/a,N,,BAnQ
+R_12,Sherbrooke Daily Record,14-Feb-21,8-Feb-21,Canada,Quebec,West Shefford,n/a,Elm Grove Hall,n/a,n/a,31$ CAD,n/a,N,,BAnQ
+R_13,Sherbrooke Daily Record,21-Jan-32,14-Jan-32,Canada,Quebec,n/a,Woman's Institue Members,"Gordon Terrace, home of Miss Jessie Corey",Miss Jessie Corey; Miss McCain; Mrs. Percy Rhicard; Mrs. E. C. Knight; Mrs. Frank Corey; Mr. Lloyd Harris; Miss Dolena Nicholson; Miss Maude Fortin; Mr. Clifford Rhicard; Mrs. F. J. Laraway; Mrs. Raymond Wescott; Miss Sarach Yates; Mr. F. J. Laraway; Billy Rhicard,n/a,n/a,32,N,,BAnQ
+R_14,Sherbrooke Daily Record,14-Jan-13,17-Jan-13,Canada,Quebec,East Farnham,Ladies' Aid Society,Hurlburd and Stevens' Hall,n/a,n/a,n/a,n/a,N,,BAnQ
+R_15,Sherbrooke Daily Record,21-Jan-13,30-Jan-13,Canada,Quebec,East Angus,Choral Society,I.O.O.F. Hall,n/a,n/a,n/a,n/a,n,,BAnQ
+R_16,Sherbrooke Daily Record,8-May-14,12-May-14,Canada,Quebec,Mansonville,The Guiding Star Lodge No. 83,Methodist Church Vestry,n/a,n/a,n/a,n/a,n,,BAnQ
+R_17,Sherbrooke Daily Record,12-May-14,12-May-14,Canada,Quebec,Mansonville,I.O.G.T.,Methodist Church Vestry,n/a,n/a,n/a,n/a,n,This newspaper references the same event as R_16,BAnQ
+R_18,Sherbrooke Daily Record,15-May-11,23-May-11,Canada,Quebec,Waterville,Willing Workers,"Congregational Church, basement",n/a,n/a,n/a,n/a,n,,BAnQ
+R_19,Sherbrooke Daily Record,18-May-11,16-May-11,Canada,Quebec,Waterville,Willing Workers,"Congregational Church, lecture room",n/a,n/a,n/a,n/a,n,,BAnQ
+R_20,Sherbrooke Daily Record,19-May-14,12-May-14,Canada,Quebec,Mansonville,I.O.G.T.,Methodist Church Vestry,Miss Agnes Crowell; F. Kel-Sisco; Dr. E. H. Henderson; Rev. G. W. Runnells; E. Davis; Mr. S. A. Mason,n/a,n/a,"""well attended""",n,,BAnQ
+R_21,Sherbrooke Daily Record,21-May-36,n/a,Canada,Quebec,Dixville,Woman's Institue Members,n/a,Mrs. Gordon Bellows,n/a,n/a,n/a,n,"The newspaper mentions that at a certain event ""Plans were then made for a conundrum supper""",BAnQ
+R_22,Sherbrooke Daily Record,23-May-36,n/a,Canada,Quebec,Dixville,Woman's Institue Members,Hall,n/a,n/a,7$ CAD,n/a,n,Apparently is the event they planned in the newspaper reference R_21,BAnQ
+R_23,Sherbrooke Daily Record,10-Nov-13,31-Oct-13,Canada,Quebec,Hatley,"Amateur Dramatic and Literary Society, in connection with St. James Church",Foresters' Hall,n/a,n/a,n/a,"""very well attended""",n,,BAnQ
+R_24,Sherbrooke Daily Record,"Novermber 25, 1914",8-Dec-14,Canada,Quebec,Martinville,The Ladies' Aid; Willing Workers,Residence of Mr. and Mrs. J. J. Parsons,Mrs. J. J. Parsons; Mr. J. J. Parsons,n/a,n/a,n/a,n,,BAnQ
+R_25,Sherbrooke Daily Record,30-Oct-16,31-Oct-16,Canada,Quebec,Farnham,Ladies of St. James Church,St. James Hall,n/a,n/a,n/a,n/a,n,,BAnQ
+R_26,Sherbrooke Daily Record,18-May-11,16-May-11,Canada,Quebec,Waterville,Willing Workers,"Congregational Church, lecture room",n/a,n/a,n/a,"""not well attended"" but ""was quite a success""",n,References same event as R_19,BAnQ
+R_27,The Sherbrooke Examiner,25-Jun-02,2-Jul-02,Canada,Quebec,Erle,Ladies' Aid Society,Mr. Dawson's Hall,Mr. Lee Gorham,n/a,n/a,n/a,n,,BAnQ
+R_39,The Equity,26-Dec-01,31-Dec-01,Canada,Quebec,Shawville,"Willing Workers of the Presbyterian Chiurch, Portage du Fort",n/a,n/a,n/a,n/a,n/a,n,,BAnQ
+R_40,The Equity,27-Mar-24,1-Apr-24,Canada,Quebec,Shawville,Eleanor Parker; Myra Spencer,"Residence of Hosts, Eleanor Parker, Myra Spencer",Eleanor Parker; Myra Spencer,n/a,n/a,n/a,n,"Interesting rendition of a Conundrum Supper, not the same as usual - April Fools CS",BAnQ
+R_41,The Equity,14-Nov-07,20-Nov-19,Canada,Quebec,Shawville,The Ladies' Aid of the Presbyterian Church,Orange Hall,n/a,n/a,n/a,n/a,n,,BAnQ
+R_46,The Quebec Chronicle,"February 8, 1899",n/a,Canada,Quebec,Quebec City,n/a,n/a,Mrs. Snaggs; Mr. Snaggs,n/a,n/a,n/a,n,"""A recent society fad is called the conundrum supper""",BAnQ
+R_48,The Sherbrooke Examiner,"May 18, 1894","May 17, 1894",Canada,Quebec,Sherbrooke,n/a,n/a,n/a,n/a,n/a,n/a,n,,BAnQ
+R_49,The Sherbrooke Examiner,"December 15, 1899","December 8, 1899",Canada,Quebec,Farnham,Methodist Church choir,Church basement,Mr. McFarlane; Mrs. Jamieson; Mrs. Wm. Nixon; Miss Mitchell; Miss Nixon; Mr. Fraser; Mrs. Fraser; Miss Fraser; Mr. McKay; Miss Eager; Rev. Mr. Henderson; Mr. Pike,n/a,n/a,n/a,n,"Newspaper date is inconsitent, one page writes December 15, the other pages December 11",BAnQ
+R_50,The Sherbrooke Examiner,23-Sep-03,19-Sep-03,Canada,Quebec,South Dudswell,Miss Pearl Orr,Hall,Miss Pearl Orr,n/a,n/a,n/a,n,,BAnQ
+R_51,The Sherbrooke Record,30-May-72,17-May-72,Canada,Quebec,Maricourt,n/a,Melbourne Ridge,Mrs. Anette Malboeuf; Mrs. Lucille Taylor; Mrs. Paul Papineau; Mrs. Real Larochelle; Mrs. Raymond Gifford,n/a,n/a,n/a,n,Conundrum tea,BAnQ
+R_65,The Equity,28-Nov-57,"~November 27, 1907",Canada,Quebec,Sawville,The Ladies' Aid of the Presbyterian Congregation,Orange Hall,n/a,n/a,~90$ CAD,n/a,n,"""50 years ago"" section",BAnQ
+R_70,Montreal Gazette,"November 3, 1894",n/a,Canada,Quebec,Montreal,Ladies' Aid Society,St. James Methodist Church,n/a,n/a,n/a,n/a,n/a,n/a,BAnQ
+R_71,Montreal Gazette,14-Nov-03,14-Nov-03,Canada,Quebec,Montreal,Boys' Sunshine Club of Westmount,Victoria Hall,n/a,n/a,n/a,n/a,n/a,n/a,BAnQ
+R_72,Montreal Gazette,16-Nov-03,14-Nov-03,Canada,Quebec,Montreal,Boys' Sunshine Club of Westmount,Victoria Hall,n/a,n/a,n/a,n/a,y,References the same event as R_71,BAnQ
+R_73,Montreal Gazette,"Februray 6, 1893","February 2, 1893",Canada,Quebec,Longueil,Ladies' Aid Society of St. Marks,St. Mark's Schoolhouse,n/a,n/a,n/a,n/a,n/a,n/a,BAnQ
+R_75,Montreal Gazette,2-Nov-25,31-Oct-25,Canada,Quebec,Montreal,Boys Home of Montreal on Mountain,Boys Home of Montreal on Mountain,,n/a,n/a,n/a,n/a,n/a,BAnQ

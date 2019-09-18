@@ -39,3 +39,11 @@
 * Work on heatmap
 * Come back to classifier when the heatmap is done
 * Check for duplicates in the Gale dataset
+
+# 9-11-19
+* Add to wordpress
+* More data: B&A archive
+* Change titles
+* 
+* Handover documents
+* Build web app for ebofs

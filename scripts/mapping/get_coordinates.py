@@ -21,22 +21,23 @@ def get_loc(place):
         return get_loc(place)
 
 
-meta = pd.read_csv("/Users/ndrezn/OneDrive - McGill University/Github/riddles-project/workset/mapping/master_locations.csv")
-
-meta = meta.loc[:,'Newspaper':'Aditional_Comments']
+meta = pd.read_csv("/Users/ndrezn/OneDrive - McGill University/Github/riddles-project/workset/mapping/new/Conundrum_Social_CSV.csv")
 
 meta = meta.dropna(how='all')
+meta=meta.dropna(axis=1,how='all')
 
-countries = meta['Country']
-states = meta['State/Province']
-cities = meta['City']
+# countries = meta['Country']
+# states = meta['State/Province']
+# cities = meta['City']
 
-coords = []
+# coords = []
 
-places = []
-for city,state,country in zip(cities,states,countries):
-    place = str(city)+ " " +str(state)+ " " + str(country)
-    places.append(place)
+# places = []
+# for city,state,country in zip(cities,states,countries):
+#     place = str(country)+ " " +str(state)+ " " + str(city)
+#     places.append(place)
+
+places = meta['Publisher']
 
 meta['Coordinates'] = places
 
@@ -48,4 +49,5 @@ meta['Coordinates'] = meta['Coordinates'].apply(get_loc)
 
 print("Coordinates collected.")
 
-meta.to_csv("/Users/ndrezn/OneDrive - McGill University/Github/riddles-project/workset/mapping/with_coordinates.csv")
+meta.to_csv("/Users/ndrezn/OneDrive - McGill University/Github/riddles-project/workset/mapping/new/conundrum_social_with_coordinates.csv")
+
