@@ -1,0 +1,13 @@
+
+.DS_Store
+scripts/.DS_Store
+scripts/baseline_tests/.DS_Store
+scripts/baseline_tests/visuals/.DS_Store
+scripts/mapping/.DS_Store
+scripts/riddle_periods/.DS_Store
+visuals/.DS_Store
+workset/.DS_Store
+workset/mapping/.DS_Store
+workset/mapping/complete csvs/.DS_Store
+workset/mapping/new/.DS_Store
+workset/.DS_Store
