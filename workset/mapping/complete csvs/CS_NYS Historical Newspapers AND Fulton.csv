@@ -1,325 +1,325 @@
-﻿Unique_Reference_Number,Newspaper,Date,Event_Date,Country,State/Province,City,Organization_Hosting,Event_Location,Persons,Price_Event,Revenue,Attendance,Contains_BOF,Aditional_Comments
-R_2,Wyoming County Times Warsaw,23-Sep-03,2-Oct-03,U.S.,NY,Wyoming County,The Political Equality Club,n/a,Mrs. S. B. Whitlock,n/a,n/a,n/a,n,"Mentions ""a yellow tea held"" as another name for 'social gatherings' of the kind"
-R_54,Buffalo Evening News,"September 20, 1892",n/a,U.S.,NY,Buffalo,n/a,n/a,n/a,n/a,n/a,n/a,y,"References a text called ""Mary Fairfax in Housekeeper's Weekly"" - which has instructions on how to have a CS"
-R_55,Cleaveland Gazette,"March 7, 1891",n/a,U.S.,OH,Cleveland,The Ladies' Helping Hand society,Residence of Mr. and Mrs. George Thompson,Mr. George Thompson; Mrs. George Thompson;,n/a,10.14$ USD,30,y,
-R_56,Elmira Morning Telegram,"~February 11, 1906",8-Feb-06,U.S.,NY,Elmira,Mr. Courtland F. Carrier and Mrs. Courtland F. Carrier,Residence of Mr. Courtland F. Carrier and Mrs. Courtland F. Carrier,Mrs. Carrier's bible class at the First Presbyterian church; Rev. Arthur Dougall; Mrs. Arthur Dougall; Harrison S. Chapman; Mrs. Chapman,n/a,n/a,~31,n,
-R_57,The Farmer's Review,"October 5, 1898",n/a,U.S.,IL,Chicago,n/a,n/a,n/a,n/a,n/a,n/a,y,Quotes the Chicago Times Herald
-R_58,Gulfport Daily Herald,10-Feb-23,3-Feb-23,U.S.,MS,Gulfport,Presbyterian Choir,Woman's club rooms,George C. Poole; Mr. Jeffery; Mr. Devore; Mr. Scull; Mr. McCaskey; Mr. Estopinal; Mr. Frances; Vincent Tedford; Ross Thompson; W. R. Barber; Mrs. Archie Thompson; Mr. Martin; Mr. Bugna; Mr. Bugna; Mr. Anderson; Mr. Miller; Mrs. Ary W. Jones; Dr. H. A. Jones,n/a,80$ USD,n/a,n,"Claims the menu came from Miss Margaret Climie of Bowmanville, Canada"
-R_59,Lewiston Evening Journal,"January 21, 1893","January 19, 1893",U.S.,ME,Lewiston,King's Daughters,Presbyterian vestry,n/a,n/a,n/a,n/a,y,
-R_60,Lowell Daily Courier,"March 30, 1893","March 29, 1893",U.S.,MA,Lowell,Young People's Missionary society,Pawtucketville church vestry,Miss Lilian Morrison; Miss Alice Colton; Miss Margaret MacKenzie; Miss Laura Connell; Miss Victorial Connell; Miss Victoria Cuthbertson;Mrs. C. A. Richardsonl Mr. Arthur Stocks; Miss Vera Johnson; Miss Kneeland,n/a,n/a,n/a,n,
-R_61,Sea Cliff News,5-Aug-33,8-Aug-33,U.S.,NY,Sea Cliff,Ladies' Aid Society,Wesley Hall,n/a,5 cents,n/a,n/a,n,
-R_62,The St. Paul Daily Globe,"May 25, 1890","May 30, 1890",U.S.,MN,St. Paul,Ladoes of the Presbyterian Church,Residence of Mrs. A. B. Robbins,Mrs. A. B. Robbins,n/a,n/a,n/a,n,
-R_63,The Syracuse Daily Journal,"August 31, 1897",n/a,U.S.,NY,Syracuse,n/a,n/a,n/a,Under 10 or 15 cents per ticket,n/a,n/a,n,"Contains a detailed explanation of how the CS is hosted and conducted, and quotes the Chicago Record for information"
-R_64,The Daily News New Westminster,14-Dec-00,"~December 13, 1900",U.S.,NY,East Elma(?),n/a,Church,Mrs. Florence Kelsey; Mr. Frank Qickly; Mrs. Frank Qickly; Miss Carrie Dewey;,n/a,n/a,n/a,n,
-R_66,The Telegram,27-Feb-10,24-Feb-10,U.S.,NY,Elmira,Epworth League of Centenary Methodist Episcopal Church,Church Parlors,n/a,n/a,n/a,n/a,n,
-R_67,The Yonker's Statesman,21-Feb-02,20-Feb-02,U.S.,NY,Yonkers,Doreas Society of Westminster Church,Church Lecture Room,n/a,n/a,n/a,n/a,n,"Says that the ""ladies who conducted the affair"" were dressed in costume, ""such as Martha Washington might have worn"""
-R_68,Vermont Phoenix,"January 5, 1883","January 8, 1883",U.S.,VT,Brattleboro,Ladies' Aid Society,n/a,n/a,n/a,n/a,n/a,n,"""In place of an annual Christmas festival"""
-R_69,Watkins Express,8-Mar-22,11-Mar-22,U.S.,NY,Watkins,n/a,Kayutah Lake Grange Hall,n/a,n/a,n/a,n/a,n,
-R_74,Wyoming County Times Warsaw,"September 17, 1896","September 9, 1896",U.S.,NY,Pike,The Young People's Aid Society connected with the Baptist church,Residence of A. Lathrop,A. Lathrop; Mattie Scott; Fred Shay,10 cents,n/a,n/a,n,Also has a conundrum question competition with prizes 
-R_76,Allegany County News,25-Feb-15,24-Feb-15,U.S.,NY,West Bingham,n/a,n/a,Mr. Arlie Holbert; Mrs. Arlie Holbert; Mr. George Lewis; Mrs. George Lewis; Mr. Alva Horning; Mrs. Alva Horning; Mr. Selden Lewi; Mrs. Selden Lewi; Miss Cassie Chaffee; Miss Dorothy Grover; Dewert Grover; Clifford Lewis; Lee Barnes,n/a,n/a,n/a,n,
-R_77,Allegany County News,19-Nov-14,13-Nov-14,U.S.,NY,Bingham,W.C.T.U.,Church basement,Edna Wemple,n/a,n/a,n/a,n,
-R_78,Altamont Enterprise,"December 22, 1893","January 1, 1894",U.S.,NY,Altamont,Y.P.S.C.E. of the New Scotland Presbyterian Church,Church basement,n/a,n/a,n/a,n/a,n,
-R_79,Altamont Enterprise,"February 01, 1895","February 14, 1895",U.S.,NY,Delanson,Epworth League of Delanson,M.E. church,n/a,25 cents,n/a,n/a,n,
-R_80,Altamont Enterprise,"January 05, 1894","January 1, 1894",U.S.,NY,Altamont,Y.P.S.C.E. of the New Scotland Presbyterian Church,Church basement,n/a,n/a,n/a,n/a,n,Probably references the same event as R_78
-R_81,Altamont Enterprise,9-Jan-25,16-Jan-25,U.S.,NY,Delanson,The Ladies' Aid,M.E. church hall,n/a,n/a,n/a,n/a,n,
-R_82,Altamont Enterprise,8-Jun-00,16-Jun-00,U.S.,NY,Berue,n/a,Hallenbeck's hall,n/a,n/a,n/a,n/a,n,
-R_83,Altamont Enterprise,21-Mar-02,28-Mar-02,U.S.,NY,Boox,The Ladies of the Reformed Church,Hall,n/a,n/a,n/a,n/a,n,
-R_84,Altamont Enterprise,"March 27, 1896","March 23, 1896",U.S.,NY,Feurabush,Mr. Peter VanNatten and Mrs. Peter VanNatten,Residence of Mr. Peter VanNatten and Mrs. Peter VanNatten,Mr. Peter VanNatten; Mrs. Peter VanNatten; Mr. Charles Becker; Mrs. Charles Becker; Mr. George Mead; Mrs. George Mead; Mr. Clark Coughtry; Mrs. Clark Coughtry; Mr. Albert Van-Derzee; Mrs. Albert Van-Derzee;,n/a,n/a,n/a,n,
-R_85,Altamont Enterprise,28-Mar-02,28-Mar-02,U.S.,NY,Boox,n/a,n/a,n/a,n/a,n/a,n/a,n,
-R_86,Altamont Enterprise,"May 03, 1895","May 08, 1895",U.S.,NY,Wemple,n/a,First Reformed Church,n/a,n/a,n/a,n/a,n,
-R_87,Altamont Enterprise,3-May-01,14-May-01,U.S.,NY,Thompson's Lake,n/a,n/a,n/a,n/a,n/a,n/a,n,
-R_88,Altamont Enterprise,"November 16, 1894","November 16, 1894",U.S.,NY,Dormansville,The young ladies of this place,Gibbon's hall,n/a,n/a,n/a,n/a,n,
-R_89,Altamont Enterprise,"October 01, 1897","October 08, 1897",U.S.,NY,Gilford's(?),The Gleaner Society,Hall,Mrs. Stephen Ostrander,n/a,n/a,n/a,n,
-R_90,Altamont Enterprise,7-Oct-10,n/a,U.S.,NY,Knox,n/a,n/a,n/a,n/a,21.45$ USD,n/a,n,
-R_91,Altamont Enterprise,23-Sep-10,1-Oct-10,U.S.,NY,Knox,The ladies of the church,M.E. church hall,n/a,n/a,n/a,n/a,n,
-R_92,Cape Vincent Eagle,28-Feb-24,n/a,U.S.,NY,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n,General reference to the CSs popularity 'latest fad'
-R_93,Cape Vincent Eagle,5-Jul-06,n/a,U.S.,NY,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n,Exactly the same quote as R_92 with an 18 year difference
-R_94,Catskill Mountain News,27-Feb-14,4-Mar-14,U.S.,NY,Margaretteville,The Ladies' Aid Society of the M.E. church,E.H. Dickenson's Hall,n/a,n/a,n/a,n/a,n,
-R_95,Cattaraugus Republican,2-Nov-16,1-Nov-16,U.S.,NY,Cattaraugus (Little Valley),The Ladies of the H.S.C.,G.A.P. Hall,n/a,n/a,17$ USD,n/a,n,
-R_96,Cattaraugus Times,18-Sep-08,12-Sep-08,U.S.,NY,Cattaraugus,Cattaraugus Grange,Grange Hall,E.C. Richard; Mrs. M.N. Pepperdine; Mr. E.L. Waite; Mrs. E.L. Waite;,n/a,n/a,n/a,n,Also mentions a 'bean contest' that takes place at the same event - Twelth Night
-R_97,Cazenovia Republican,"February 20, 1896","~February 27, 1896",U.S.,NY,Stockbridge,The Aid Society,n/a,n/a,n/a,n/a,n/a,n,
-R_98,Cazenovia Republican,"July 16, 1896","July 16, 1896",U.S.,NY,Cazenovia,The Ladies' Aid Society of the Baptist Church,"Residence of W.H. Cruttenden, Seminary Street ",W.H. Cruttenden,n/a,n/a,n/a,n,
-R_99,Cazenovia Republican,6-Oct-10,29-Sep-10,U.S.,NY,Erieville,The Baptist Society,n/a,n/a,n/a,11$ USD,n/a,n,
-R_100,Cazenovia Republican,"October 27, 1892","October 22, 1892",U.S.,NY,De Ruyter,The Ladies U A.S. of the Baptist Church,Union Hall,n/a,n/a,n/a,n/a,n,
-R_101,Chatham Courier,12-Feb-13,19-Feb-13,U.S.,NY,Red Rock,M.E. Church,Residence of Joseph Jenkins ,n/a,n/a,n/a,n/a,n,
-R_102,Chatham Courier,"February 22, 1899","February 24, 1899",U.S.,NY,Claverack ,n/a,"Ingleside, Residence of Mr. and Mrs. Peter Cole",Mr. Peter Cole; Mrs. Peter Cole,n/a,n/a,n/a,n,
-R_103,Chatham Courier,26-Feb-13,19-Feb-13,U.S.,NY,Red Rock,M.E. Church,Residence of Joseph Jenkins ,Mr. Joseph Jenkins; Mrs. Joseph Jenkins; Mrs. Chester Ford; Miss Ruth Gibbins; Miss Sadie Goodrich; William D. Campbell,n/a,n/a,100,y,References same event as R_101
-R_104,Chatham Courier,27-Feb-01,1-Mar-01,U.S.,NY,Old Chatham,M.E. Church,n/a,n/a,n/a,n/a,n/a,n,
-R_105,Chatham Courier,6-May-14,13-May-14,U.S.,NY,New Britain,Church,Residence of Mrs. Determann,Mrs. Determann,25 cents,n/a,n/a,n,
-R_106,Chatham Courier,"November 30, 1892","December 1, 1892",U.S.,NY,New Lebanon,The Baptist Society,Residence of J.B. Shumway,J.B. Shumway,n/a,n/a,n/a,n,
-R_107,Chatham Courier,"October 18, 1893","October 25, 1893",U.S.,NY,Nassau,The C.E. Society of the Reformed Church,Chapel,n/a,n/a,n/a,n/a,n,
-R_108,Commercial Advertiser,"March 02, 1892",n/a,U.S.,NY,Potsdam Junction,n/a,n/a,n/a,n/a,n/a,n/a,n,"Does not reference an actual event but it's an early indication of the trend: ""A conundrum supper is the the latest fad in church entertainments. You guess what you are going to have for supper, and then guess how much change you are going to get out of a five-dollar bill"""
-R_109,Commercial Advertiser,23-Mar-09,30-Mar-09,U.S.,NY,North Stockholm,L.A.S. (Ladies Aid Society),Residence of Hermon Lewis,Hermon Lewis,n/a,n/a,n/a,n,
-R_110,The Whitesville News,22-Dec-04,20-Dec-04,U.S.,NY,Whitesville,Social Purity Band and Literary Club,Open house,n/a,n/a,n/a,n/a,y,
-R_111,Commercial Advertiser,"October 03, 1894","September 29, 1894",U.S.,NY,Potsdam Junction,I.O.G.T.,Hall of Hope Lodge,n/a,n/a,10$ USD,n/a,n,
-R_112,Cortland Standard,"December 23, 1892","December 30, 1892",U.S.,NY,Virgil,n/a,n/a,Mr. Shaw; Mrs. Gertie Elster; Miss Lillie Lang; Mrs. Kate McKinney; |Mrs. Eva Muncey; Mrs. Eva Gee; Mr. Frankchristman; Mr. Lou Christman; Merton; Mr. A.V. Rounds; Aldine Watros; Nora Bell; May Reese; Ina Stillman; Iva Berlou; Etta Oaks; Lelia Curtis; John Warwick; MRs. Clinton Sager; Mrs. E.A. Craine; A. II Bruce; Mrs. Rodolph Trice,n/a,n/a,n/a,n,
-R_113,Cortland Standard,"January 06, 1893","December 30, 1892",U.S.,NY,Virgil,n/a,M.E. Church,Mr. Shaw; Mrs. Gertie Elster; Miss Lillie Lang; Mrs. Kate McKinney; |Mrs. Eva Muncey; Mrs. Eva Gee; Mr. Frankchristman; Mr. Lou Christman; Merton; Mr. A.V. Rounds; Aldine Watros; Nora Bell; May Reese; Ina Stillman; Iva Berlou; Etta Oaks; Lelia Curtis; John Warwick; MRs. Clinton Sager; Mrs. E.A. Craine; A. II Bruce; Mrs. Rodolph Trice,n/a,n/a,300,n,"References the same event as R_112; interestingly has a ""conundrum song"" by Katie McKinney as part of the program."
-R_114,Cortland Standard,"April 05, 1898","April 06, 1898",U.S.,NY,Cortland(?),Young men of Rev. J.C.B. Moyer's class and Prof. L.J. Higgin's class of young ladies ,Homer-ave M.E. Church,Rev. J.C.B. Moyer; Prof. K.J. Higgin,n/a,n/a,n/a,n,
-R_115,Cortland Standard,11-Dec-00,14-Dec-00,U.S.,NY,Cortland(?),Young ladies of the Hough class,Memorial Baptist Church,n/a,10 cents,n/a,n/a,n,
-R_116,Cortland Standard,19-Feb-01,19-Feb-01,U.S.,NY,Cortland(?),The ladies of Grover Relief Corps,Grand Army Hall,n/a,10 cents,n/a,n/a,y,
-R_117,Cortland Standard,"February 24, 1893","February, 21 1893",U.S.,NY,Cortland(?),The young people,Homer-ave. church,n/a,10 cents,n/a,n/a,n,"Interestingly writes: ""Conundrum supper served on the European plan"""
-R_118,Cortland Standard,"January 12, 1894",n/a,U.S.,NY,Scott,The Ladies' Aid Society of the S.D.B. church,S.D.R. Church,n/a,n/a,n/a,n/a,n,
-R_119,Cortland Standard,"January 23, 1894",n/a,U.S.,NY,Scott,The Ladies' Aid Society of the S.D.B. church,S.D.R. Church,n/a,n/a,10.50$ USD,n/a,n,References the same event as R_118
-R_120,Cortland Standard,"March 03, 1893","March 07, 1893",U.S.,NY,McGrawville,Methodist Church,Residence of Mr. C.B. Warren,Mrs. H. K. Alexander; Mr. C.B. Warren,n/a,n/a,n/a,n,"writes ""on the European plan""; also has relics and a unique art exhibition"
-R_121,Cortland Standard,"March 03, 1896","March 05, 1896",U.S.,NY,McGrawville,The members of William H Tarbell W.R.C.,G.A.R. Hall,n/a,n/a,n/a,n/a,n,
-R_122,Cortland Standard,"November 24, 1896","November 21, 1896",U.S.,NY,McGrawville,Epworth league,M.E. Church,n/a,n/a,n/a,n/a,n,
-R_123,Cortland Standard,"September 22, 1893","September 15, 1893",U.S.,NY,Groton City,n/a,Residence of Francis Webster,Francis Webster,n/a,n/a,n/a,n,
-R_124,Courier and Freeman,2-Aug-22,4-Aug-22,U.S.,NY,Parishville,The ladies of the Eastern Star,The ladies of Eastern hall's banquet room,n/a,n/a,n/a,n/a,n,
-R_125,Courier and Freeman,20-Dec-11,15-Dec-11,U.S.,NY,Potsdam,Professor L.K. Russel,"Residence of Prof. L.K. Russel of the Tech, lawrence ave",Professor L.K. Russel,n/a,n/a,n/a,y,"Not a classical CS but a chemistry one, using conundrums from chemistry to describe menus. This newspaper has two references to CS events"
-R_126,Courier and Freeman,20-Dec-11,15-Dec-11,U.S.,NY,Potsdam,n/a,The Forget-me-not Birthday Club,Mrs. Benj. Thompson; Mrs. Benson,n/a,n/a,n/a,n,The sitting arrangment of this supper was through playing with conundrum cards. This is the second reference to a CS on the same newspaper as R_125
-R_127,Courier and Freeman,12-Feb-02,14-Feb-02,U.S.,NY,Raymondville,L.E. Barnett,Residence of L.E. Barnett,L.E. Barnett; Mrs. Babcock,n/a,n/a,n/a,n,
-R_128,Courier and Freeman,"November 30, 1892","November 26, 1892",U.S.,NY,Childwold,The church,A.M. Lonkey,A.M. Lonkey,n/a,n/a,n/a,n,
-R_129,Dunkirk Evening Observer,"December 6, 1892","December 6, 1892",U.S.,NY,Dunkirk,n/a,Union Hall,n/a,25 cents,n/a,n/a,n,
-R_130,Endicott Bulletin,2-Mar-28,1-Mar-28,U.S.,NY,Endicott,Employes of the administration department of the Endicott Johnson sales building,Ideal Home,Miss Anne Riley,n/a,n/a,n/a,n,
-R_131,Facts and Fallacies,23-Mar-16,28-Mar-16,U.S.,NY,Brushton,n/a,M.E. Church,n/a,n/a,n/a,n/a,y,
-R_132,Fayetteville Bulletin,12-Sep-24,26-Sep-24,U.S.,NY,Fayetteville,Epworth league,M.E. Church parlors,n/a,n/a,n/a,n/a,n,
-R_133,Geneva Advertiser,19-Feb-01,14-Feb-01,U.S.,NY,Geneva,n/a,St. Peter's Chapel,Mrs. Lena Watson,n/a,38.00$ USD,n/a,n,"Writes that ""There was a heap of amusement over the menu cards, and all of them were taken away as souvenirs. There were very prettily written by three young ladies of the Union School, and painted by Mrs. Lena Watson"""
-R_134,Geneva Advertiser,"November 01, 1892","late November, 1892",U.S.,NY,Geneva,The ladies of the M.E. church,n/a,n/a,around 5 cents per dish,n/a,n/a,n,"Writes: ""It is a supper on the European plan"""
-R_135,Geneva Advertiser-gazette,31-Jan-05,n/a,U.S.,NY,Geneva,The church of Mrs. Sally Watchorn (of Buffalo),Mrs. Sally Watchorn,n/a,n/a,n/a,n/a,n,
-R_136,Geneva Daily Times,11-Feb-01,14-Feb-01,U.S.,NY,Geneva,The Parish Aid Society,St. Peter's Chapel,n/a,n/a,n/a,n/a,n,
-R_137,Geneva Daily Times,13-Feb-01,14-Feb-01,U.S.,NY,Geneva,The Parish Aid Society,St. Peter's Chapel,n/a,n/a,n/a,n/a,n,References the same event as R_136
-R_138,Gouverneur Free Press,"March 11, 1896","March 9, 1896",U.S.,NY,Richville,The Congregational society of Richville,Residence of Wm. Walker,Rev. Jones; Mrs. Jones,n/a,n/a,n/a,y,Mentions that the menu cards were issued by the Free Press office of the villiage
-R_139,Gouverneur Free Press,"March 15, 1893","March 13, 1893",U.S.,NY,Edwards,The ladies of the M.e. society,Town Hall,n/a,n/a,18$ USD,n/a,n,
-R_140,Herkimer Democrat,15-Aug-00,n/a,U.S.,NY,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n,"Not an actual event reference but references a column in another magazine called ""The Designer"" for September 1900 that has a ""Conundrum Supper"" column"
-R_141,Herkimer Democrat,"March 11, 1891","March 4, 1891",U.S.,NY,Frankfort,n/a,Baptist Church,n/a,n/a,45$ USD,n/a,n,
-R_142,Herkimer Democrat,"March 16, 1892","March 18, 1892",U.S.,NY,Norway,Excelsior Lodge of Good Templars,Excelsior Lodge of Good Templars' rooms,n/a,10 cents,n/a,n/a,n,"Also called a ""cobweb social"""
-R_143,Herkimer Democrat,"October 12, 1892","October 14, 1892",U.S.,NY,Newville,The young people of Newville,Parlors of Mrs. J.A. Houpt,Mrs. J.A. Houpt; Rev. Mr. Taber,n/a,n/a,n/a,n,
-R_144,Herkimer Democrat,"October 23, 1895","October 26, 1895",U.S.,NY,Fairfield,Epworth league,n/a,n/a,n/a,n/a,n/a,n,
-R_145,Ithaca Daily Journal,25-Mar-04,25-Mar-04,U.S.,NY,Ithaca,Epworth league of the State Street Methodist Episcopal Church,Church parlors,n/a,n/a,n/a,n/a,n,
-R_146,Ithaca Daily Journal,"September 28, 1898",n/a,U.S.,NY,Ithaca,n/a,n/a,n/a,n/a,n/a,n/a,y,"Has the quote ""A clever woman has invented the conundrum supper..."". Also contains answers to the eBOF, not just the menu itself. "
-R_147,Lewis County Democrat,3-Feb-04,12-Feb-04,U.S.,NY,Lowville,n/a,Residence of Hiram Schell,Hiram Schell; Rev. A.F. Beebe,n/a,n/a,n/a,n,
-R_148,Mexico Independent,27-Mar-01,27-Mar-01,U.S.,NY,Mexico,The ladies of the Baptist church,Washington Hall,n/a,n/a,n/a,n/a,n,"Also called ""Mapple sugar and Conundrum Supper"""
-R_149,Mexico Independent,27-Mar-01,27-Mar-01,U.S.,NY,Mexico,The ladies of the Baptist church,Washington Hall,n/a,"Sugar 10 cents, supper extra",n/a,n/a,n,Two different ads on different pages in the same newspaper (R_148 + R_149)
-R_150,Mexico Independent,"March 28, 1894","March 28, 1894",U.S.,NY,Mexico,n/a,M.E. church,n/a,n/a,n/a,n/a,n,
-R_151,Mexico Independent,31-Oct-06,n/a,U.S.,NY,Mexico,n/a,n/a,n/a,n/a,n/a,n/a,n,"Not a specific event reference but interesting quote: ""'I see that the latest social novelty in the East is the conundrum supper.' 'Gracious, do they have to give it up if they don't guess it?'"""
-R_152,Monroe County Mail,20-Feb-08,14-Feb-08,U.S.,NY,Webster,The L.L.L. class of the German Evangelical Sunday school,Church parlors,n/a,n/a,n/a,n/a,n,
-R_153,Monroe County Mail,"October 19, 1893","October 20, 1893",U.S.,NY,Fairport,The Baptist young people's union,First baptist church,n/a,n/a,n/a,n/a,n,
-R_154,Monroe County Mail,"October 29, 1896","October 29, 1896",U.S.,NY,Webster,Y.P.S.C.E. of the baptist church,Residence of Miss Hattie Smith,Miss Hattie Smith,n/a,n/a,n/a,n,
-R_155,Nassau County Review,"January 27, 1899","January 18, 1899",U.S.,NY,Seaford,The ladies of the episcopal church,n/a,n/a,n/a,n/a,n/a,n,
-R_156,Nassau County Review,20-Nov-08,10-Dec-08,U.S.,NY,Valley Stream,The Ladies' Aid society of Grace Methodist Episcopal Church,Firemen's Hall,n/a,n/a,n/a,n/a,n,
-R_157,Norwood News,"February 26, 1895","February 26, 1895",U.S.,NY,East Brasher,n/a,Residence of R.W. Smith ,R.W. Smith; Rev. Funnel,n/a,n/a,n/a,n,
-R_158,Norwood News,27-Jan-03,27-Jan-03,U.S.,NY,Norwood,Court Prudence ,Foresters' Hall,n/a,n/a,n/a,n/a,y,
-R_159,Norwood News,5-Nov-07,25-Oct-07,U.S.,NY,Skinnerville,n/a,Residence of H. Munson,H. Munson,n/a,n/a,n/a,n,"Interestingly also called a ""pedro party"""
-R_160,Olean Herald,19-Feb-02,19-Feb-02,U.S.,NY,Olean,The church aid society of the A.M.E. church,n/a,n/a,n/a,n/a,n/a,n,
-R_161,On the St. Lawrence and Clayton Independent,"December 04, 1896","December 05, 1896",U.S.,NY,Depauville,Society fair and sale,Depauville fair,n/a,n/a,n/a,n/a,n,Conundrum supper at a local fair
-R_162,On the St. Lawrence and Clayton Independent,"September 20, 1895","September 25, 1895",U.S.,NY,Clayton(?),Epworth league,M.E. church,n/a,15 cents / 10 cents,n/a,n/a,y,Interestingly has a host called William O'Fare (Bill of Fare)
-R_163,Oswego Palladium,28-Oct-19,24-Oct-19,U.S.,NY,Minetto,Grange comittee ,Grange hall,n/a,n/a,n/a,n/a,n,mentions dressing in costume for the event
-R_164,Penn Yan Express,"April 15, 1896","April 22, 1896",U.S.,NY,Penn Yan,n/a,Hall,F.R. Andrews,n/a,n/a,n/a,n,
-R_165,Penn Yan Express,"April 27, 1892","April 29, 1892",U.S.,NY,Penn Yan,Ladies' Helping Hand Society,"Lounsbery's Hall, Potter Center",n/a,n/a,n/a,n/a,n,
-R_166,Penn Yan Express,"December 15, 1897","December 17, 1897",U.S.,NY,Bluff Point,n/a,Residence of Lee Baker,Lee Baker,n/a,n/a,n/a,n,
-R_167,Penn Yan Express,"March 02, 1892","March 08, 1892",U.S.,NY,Keuka College,Ladies' Aid Society of the Park,Chapel,n/a,n/a,n/a,n/a,n,"""This entertainment is entiery new and novel"""
-R_168,Penn Yan Express,"March 16, 1892","March 8, 1892",U.S.,NY,Keuka College,Ladies' Aid Society of the Park,Chapel,n/a,n/a,25$ USD,n/a,y,References the same event as R_167
-R_169,Penn Yan Express,"November 08, 1893","November 15, 1893",U.S.,NY,Penn Yan,Y.P.S.C.E. of Second Milo,Residence of F.B. Swarthout,F.B. Swarthout,n/a,n/a,n/a,n,
-R_170,Penn Yan Express,"November 23, 1898","November 25, 1898",U.S.,NY,Rushville,The Young Ladies of the Congregational Sunday School,Residence of Emory Green,Emory Green,n/a,n/a,n/a,n,
-R_171,Plattsburgh Daily Press,26-Apr-07,26-Apr-07,U.S.,NY,Plattsburgh,The Young Men of the M.E. Church of West Chazy,Residence of R.H. Carroll,R.H. Carroll,n/a,n/a,n/a,n,
-R_172,Poughkeepsie Eagle,"February 01, 1898","January 26, 1898",U.S.,NY,Viewmonte,The Members of the Lutheran Church,Church parlors,n/a,n/a,35$ USD,n/a,n,
-R_173,Poughkeepsie Eagle,31-Jul-03,8-Aug-03,U.S.,NY,Milan,The Ladies of the Christian Church,n/a,n/a,n/a,n/a,n/a,n,
-R_174,Poughkeepsie Eagle,20-Mar-00,21-Mar-00,U.S.,NY,Moore's Mills,n/a,Rooms of Floral Home ,Miss V. Gildersleeve,n/a,n/a,n/a,n,
-R_175,Poughkeepsie Eagle,21-Mar-11,21-Mar-11,U.S.,NY,Schultzville,n/a,Church hall,n/a,n/a,n/a,n/a,n,
-R_176,Poughkeepsie Eagle,5-May-03,1-May-03,U.S.,NY,Pleasant Valley,n/a,M.E. church,n/a,n/a,n/a,n/a,n,
-R_177,Poughkeepsie Eagle,18-Sep-08,8-Oct-08,U.S.,NY,Verbank,n/a,Church parlors,n/a,n/a,n/a,n/a,n,
-R_178,Queens County Review,"April 09, 1897","April 14, 1897",U.S.,NY,Freeport,Ladies' Aid Society of the M.E. Church,Church Lecture Room,n/a,25 cents,n/a,n/a,n,
-R_179,Queens County Review,"October 08, 1897","October 14, 1897",U.S.,NY,Bellmore,Dorcas Society of the M.E. Church,Parsonage,n/a,n/a,n/a,n/a,n,
-R_180,Richmond County Advance,23-Feb-01,22-Feb-01,U.S.,NY,West New Brighton(?),The Ladies of the Park Baptist Church of Port Richmond ,Church Lecture Room,n/a,n/a,n/a,n/a,n,
-R_181,Richmond County Advance,17-Jun-05,27-Jun-05,U.S.,NY,West New Brighton(?),The Ladies of Trinity M.E. Church,Church Lecture Room,n/a,n/a,n/a,n/a,n,
-R_182,Richmond County Advance,24-Jun-05,27-Jun-05,U.S.,NY,West New Brighton(?),The Ladies' Aid Society of the Trinity M.E. Church,Church Lecture Room,,25 cents,n/a,n/a,n,"References the same event as R_181.  Also contains a verse invitation (transcribed here): An invitation to all we now extend, / Our conundrum supper to attend. / Queer-titled(?) viands we'll serve Tuesday night. / And hope each one will taste all right. / Boiled roasted, and baked will these dainties be, / But named to test your inqunuity. / We'll serve nothing odd -no, not even hash-- / But familiar dainties we'll give for cash. / In each queerly-named dish you'll find a friend, . E'en though to detect it you're at your wit's end. / That you come to this supper--taste of each dish, / Our chuch ladies sincerely, cordially wish."
-R_183,Richmond County Advance,"November 05, 1892","November 10, 1892",U.S.,NY,West New Brighton(?),The Emanuel Circle of King's Daughters,"The Reformed Chapel, Mariner's Harbor",n/a,"Admission 10 cents, Supper 25 cents",n/a,n/a,n,
-R_184,Rockland County Journal,4-Feb-00,2-Feb-00,U.S.,NY,Suffers,Epworth League,n/a,n/a,n/a,n/a,n/a,n,
-R_185,Rockland County Journal,"February 20, 1892",n/a,U.S.,NY,Nyack,n/a,n/a,n/a,n/a,n/a,n/a,n,Does not reference an actual event; Exact same quote as R_108
-R_186,Rockland County Journal,21-Jan-00,26-Jan-00,U.S.,NY,Suffers,Epworth League of the M.E. Church,Church chapel,n/a,n/a,n/a,n/a,n,Possibly same event as R_184
-R_187,Rockland County Journal,"March 12, 1892","March 15, 1892",U.S.,NY,Nyack,The Ladies of the Dorcas Society,"The lecture room of the Clarkstown Reformed Church, Mont Moor",n/a,n/a,n/a,n/a,n,
-R_188,Sag-Harbor Express,"December 21, 1893",n/a,U.S.,NY,Sag-Harbor,n/a,n/a,Rebecca T. Dudley,n/a,n/a,n/a,y,"Does not reference an event, speaks of the CS practice in general"
-R_189,Sag-Harbor Express,4-Mar-09,n/a,U.S.,NY,Wainscott,The Ladies of the Sewing Society,n/a,n/a,n/a,n/a,n/a,y,
-R_190,Salamanca Inquirer,17-Feb-39,17-Feb-39,U.S.,NY,Steamburg,The Ladies' Aid Society,n/a,Mrs. John Monroe; Mrs. Minnie Gallagher; Mrs. Lemuel Oakes; Mrs. Campbell Putnam; Mrs. Bernice Hill; Mrs. Mable Stacey; Mrs. Cortez Jaquay; Mrs. Paul Arrance; Mrs. H.V. Lindquist; Mrs. L.E. Darling,n/a,n/a,n/a,n,
-R_191,Salamanca Inquirer,24-Feb-39,17-Feb-39,U.S.,NY,Steamburg,The Ladies' Aid Society,Grange Hall,n/a,n/a,n/a,n/a,n,"References the same event as R_190; Interestingly, this dinner is 'Americanized' American flags were mounted and the waiters and waitressess wore red white and blue"
-R_192,Sandy Creek News,30-Jan-13,13-Feb-13,U.S.,NY,Sandy Creek,B.Y.P.U. of the Baptist Church,TBD,n/a,n/a,n/a,n/a,n,
-R_193,South Side Signal,"December 03, 1892","December 01, 1892",U.S.,NY,Babylon,n/a,Woman's Exchange,n/a,n/a,n/a,n/a,n,17 appetizing items on the menu
-R_194,South Side Signal,"November 19, 1892","December 01, 1892",U.S.,NY,Babylon,n/a,Woman's Exchange,n/a,n/a,n/a,n/a,n,References the same event as R_193
-R_195,St. Lawrence Republican and Ogdensburgh Weekly Journal,20-Dec-11,15-Dec-11,U.S.,NY,Simpson,Professor L.K. Russel,"Residence of Prof. L.K. Russel of the Tech, lawrence ave",Professor L.K. Russel,n/a,n/a,n/a,y,"Chemistry eBOF, references the same event as R_125"
-R_196,St. Lawrence Republican and Ogdensburgh Weekly Journal,"January 25, 1899","January 31, 1899",U.S.,NY,Depeyster,The Young Ladies' Mission Circle,Residence of George Rounds,George Rounds; Miss Vera Fleetham,n/a,n/a,n/a,n,
-R_197,St. Lawrence Republican and Ogdensburgh Weekly Journal,6-Mar-01,8-Mar-01,U.S.,NY,Depeyster,Epworth League,Residence of J. Wesley Walker,J. Wesley Walker,n/a,n/a,n/a,n,"Not the first event to mention a picture gallery at the CS as well, reminds of the Satire tradition with Heath"
-R_198,St. Lawrence Republican and Ogdensburgh Weekly Journal,26-Oct-10,24-Oct-10,U.S.,NY,Madrin Grange,The Lecturer,n/a,Worthy Master Fulton; Mrs. B. Hesselgrave; Mrs. H.E. Partch,n/a,n/a,30,n,
-R_199,Sullivan County Record,8-Nov-00,18-Nov-00,U.S.,NY,Kenoza Lake,The Ladies of the M.E. church,Residence of E.E. Miller,n/a,n/a,n/a,n/a,n,
-R_200,Tarrytown Daily News ,19-Feb-15,17-Feb-15,U.S.,NY,Tarrytown,The young people of the parish,Hope Chapel,Miss ella Briggs; Miss Olive Walthew; Dr. Daniel Russell; Rev. George M. Whitmore;,n/a,n/a,n/a,n,
-R_201,Tarrytown Daily News ,30-Sep-14,1-Oct-14,U.S.,NY,Tarrytown,Epworth league of Asbury M.E. Church,Church parlors,n/a,n/a,n/a,n/a,n,
-R_202,The Adirondack Record-Elizabethtown Post,17-Jan-35,16-Jan-35,U.S.,NY,Upper Jay,The Ladies Guild,M.E. Parsonage,n/a,n/a,n/a,n/a,n,
-R_203,The Brockport Republic,21-Feb-07,n/a,U.S.,NY,Morton,Hamlin Grange,n/a,n/a,n/a,n/a,n/a,n,
-R_204,The Brockport Republic,10-Nov-10,11-Nov-10,U.S.,NY,Adams Basin,I.A. Brice,M.P. Church,I.A. Brice,n/a,n/a,n/a,n,
-R_205,The Brockport Republic,"October 22, 1891","October 16, 1891",U.S.,NY,Hamlin,n/a,Residence of F.B. Cary,F.B. Cary,42 cents,7.50$ USD,n/a,n,"(1) An early reference to CS calls them ""Conundrum Course"" and (2) This is an eBOF were not only food is served: ""as likely to get a toothbrush as a cup of coffee"""
-R_206,The Brookfield Courier,15-Jan-08,18-Jan-08,U.S.,NY,Brookfield,Ladies' Aid Society of the M.E. Church (south-west division),Residence of Mrs. Dayton Palmiter,Mrs. Dayton Palmiter,n/a,n/a,n/a,n,"Also called a ""stunt social"""
-R_207,The Brookfield Courier,"March 02, 1898","~February 23, 1898",U.S.,NY,Unadilla Forks,Gentlement of the F.B. Society,F.B. Church,n/a,8 dishes for 10 cents,n/a,n/a,y,
-R_208,The Brookfield Courier,29-Mar-22,6-Apr-22,U.S.,NY,Brookfield,M.E. Social,Residence of Jerome Prescott,n/a,n/a,n/a,n/a,n,"Also called a ""Daffy Social"" - Prozes awarded for those who solve the ""famous Cobweb puzzle"""
-R_209,The Brookfield Courier,6-Nov-18,"November 07, 1898",U.S.,NY,West Edmston,Ladies' Aid Society,Residence of E.A. Felton,n/a,n/a,n/a,n/a,n,"(1) Interesting because the newspaper is referencing an ""on this day"" piece of news from 20 years earlier. (2) Interesting because it mentions that the poorest dressed person will recieve a prize, and that everyone should ""put on old clothes and thinking caps"" for the CS"
-R_210,The Brooklyn Daily Eagle,"April 11, 1897","April 14, 1897",U.S.,NY,Freeport,The Aid Society of the Methodist Episcopal ,n/a,n/a,n/a,n/a,n/a,n,
-R_211,The Brooklyn Daily Eagle,"April 30, 1899","April 27, 1899",U.S.,NY,Bedford,The Bedford Progressive Euchre Club,Residence of Mrs. Frank Brown,Mrs. Frank Brown; Mrs. Drake; Mrs. Wills; Mr. and Mrs. J. W. Stopford; Mr. and Mrs. F. A. A. Horton; Mr. and Mrs. A. Drake; Mr. and Mrs. H. Barringer; Mr. and Mrs. W. Wills; Mr. and Mrs. J. Davis; Miss Annie Russell; Mrs. Elford; George Smith; Miss Grace Brown; Miss Rose Wills; Mrs. Chatles Benson; Miss Minnie Wills;,n/a,n/a,n/a,n,Long list of names listed
-R_212,The Brooklyn Daily Eagle,"December 07, 1897","December 09, 1897",U.S.,NY,Long Island,The Epworth League of the Moriches M. E. Church,n/a,n/a,n/a,n/a,n/a,n,
-R_213,The Brooklyn Daily Eagle,"December 17, 1897","December 15, 1897",U.S.,NY,Long Island,The Epworth League of the Moriches M. E. Church,Residence of Charles H. Thomas,n/a,n/a,n/a,n/a,n,Event referenced in R_212 but was postponed twice
-R_214,The Brooklyn Daily Eagle,"January 29, 1899",n/a,U.S.,NY,Brooklyn(?),Regular Encampment of General Henry W. Slocum Post No. 28,n/a,n/a,n/a,n/a,n/a,n,"""shortly"" will hold a supper"
-R_215,The Brooklyn Daily Eagle,26-Jul-01,24-Jul-01,U.S.,NY,Bay Ridge/ Fort Hamilton,The Young People's Society of the East End Baptist Church,Residence of George Closter (404 Hendrix Street),George Closter; William A. Closter; Miss Jennie Winan; Sadle Schievely; Henry George Jackson; Mr. Bedell; Mr. Ward; Mr. Broome;,n/a,n/a,n/a,n,
-R_216,The Brooklyn Daily Eagle,"May 18, 1893","May 17, 1893",U.S.,NY,Brooklyn(?),The Young People's Association of the Greene avenue Baptist church,The Sunday school room of the Greene avenue Baptist church,Miss Stone; Genevieve King; Master L. H. Schreiner; William Schreiner; Miss Depew; Mr. and Mrs. Werderman; Mr. and Mrs. BEnnett; Mrs. Seaman; Miss Forbell; Miss Lilian Randall; Miss Frailey; Mr. Head,n/a,"""a large sum""",n/a,n,
-R_217,The Brooklyn Daily Eagle,28-Nov-00,"~November 28, 1900",U.S.,NY,Brooklyn(?),The Ladies of the Valley Stream M. E. Sunday School,Firemen's Hall,n/a,n/a,n/a,n/a,n,
-R_218,The Brooklyn Daily Eagle,"October 12, 1895","October 11, 1895",U.S.,NY,Long Island,The Women of the Congregational Aid Society,Patebogue church,n/a,n/a,n/a,n/a,n,
-R_219,The Brooklyn Daily Eagle,"September 25, 1897","September 21, 1897",U.S.,NY,Brooklyn(?),n/a,n/a,n/a,n/a,n/a,n/a,n,"""For the benefit of the Christian Endeavor Society"""
-R_220,The Catskill Recorder,"January 19, 1894","January 23, 1894",U.S.,NY,Catskill,n/a,Residence of Chas. Covell,n/a,n/a,n/a,n/a,n,"""For the benefit of the Canterskill chapel"""
-R_221,The Catskill Recorder,"January 27, 1893","~January 27, 1893",U.S.,NY,Catskill,The Endeavor Society,n/a,n/a,n/a,45$ USD,n/a,n,
-R_222,The Catskill Recorder,"March10,1893","March3,1893",U.S.,NY,Cornwallsville,n/a,Durham,n/a,n/a,n/a,15,n,
-R_223,The Catskill Recorder,"March 25, 1892","March 18, 1892",U.S.,NY,Greenville,The Young People of the Greenville Presbyterian Church,n/a,n/a,n/a,n/a,n/a,n,
-R_224,The Catskill Recorder,"May 19, 1893","May 18, 1893",U.S.,NY,Catskill,The Young People of the Baptist Church,n/a,n/a,n/a,n/a,n/a,n,
-R_225,The Chronicle Mount Vernon,"November 14, 1895","November 25, 1895",U.S.,NY,Mont Vernon,The Male Members of the Epworth League of the North M. E. Church,n/a,n/a,n/a,n/a,n/a,n,
-R_226,The City Island Drift,"April 27, 1895","May 07, 1895",U.S.,NY,City Island,The Ladies of Grace Church,Leviness Hall,n/a,n/a,n/a,n/a,n,
-R_227,The City Island Drift,"May 4, 1895","May 07, 1895",U.S.,NY,City Island,The Ladies of Grace Church,Leviness Hall,n/a,35 cents,n/a,n/a,n,
-R_228,The Cobleskill Index,18-Mar-15,3-Apr-15,U.S.,NY,Sloansville,The Gentlemen of the Baptist church,Church hall,n/a,n/a,n/a,n/a,n,
-R_229,The Cobleskill Index,22-Mar-06,n/a,U.S.,NY,Rural Grove,n/a,n/a,n/a,n/a,n/a,"""well attended""",n,
-R_230,The Coeymans Herald,"November 21, 1894","November 16, 1894",U.S.,NY,Dormansville,n/a,n/a,n/a,n/a,~25$ USD,"""well attended""",n,
-R_231,The Columbia Republican,20-Aug-03,"~August 20, 1903",U.S.,NY,North Chatham,The Epworth League,n/a,n/a,n/a,~10$ USD,n/a,n,
-R_232,The Columbia Republican,"February 01, 1894","~January 23, 1894",U.S.,NY,Stuyvesant Falls,n/a,Residence of Mrs. S. G. Miller,Mrs. and Mr. S. G. Miller,n/a,n/a,n/a,n,
-R_233,The Columbia Republican,"February 07, 1895","January 31, 1895",U.S.,NY,West Taghkanic,n/a,Parsonage,n/a,n/a,~14$ USD,n/a,n,
-R_234,The Columbia Republican,"February 13, 1896","February 20, 1896",U.S.,NY,Taghkanic(?),The Ladies Missionary Society of the Reformed Church,Parsonage,n/a,n/a,n/a,n/a,n,
-R_235,The Columbia Republican,"February 27, 1896","February 20, 1896",U.S.,NY,Taghkanic,The Ladies Missionary Society of the Reformed Church,Parsonage,n/a,n/a,n/a,n/a,n,References same event as R_234
-R_236,The Columbia Republican,8-Mar-06,13-Mar-06,U.S.,NY,Greendale,n/a,Residence of Frank R. Hathaway,n/a,n/a,n/a,n/a,n,
-R_237,The Columbia Republican,31-May-21,2-Jun-21,U.S.,NY,Germantown,n/a,Cneviot M.E. church,n/a,n/a,n/a,n/a,n,
-R_238,The Columbia Republican,6-Oct-04,14-Oct-04,U.S.,NY,North Germantown,The Epworth League,n/a,n/a,n/a,n/a,n/a,n,"Interesting gender reference: ""supper...conducted entirely by young men. Ladies will please not 'butt in.'"" "
-R_239,The Columbia Republican,13-Oct-04,14-Oct-04,U.S.,NY,North Germantown,n/a,The league rooms,n/a,n/a,n/a,n/a,n,"Interesting gender reference: ""Everything is to be done by the gentlemen..."""
-R_240,The Columbia Republican,20-Oct-04,14-Oct-04,U.S.,NY,North Germantown,n/a,The league rooms,n/a,n/a,n/a,n/a,n,References the same event as R_239
-R_241,The Columbia Republican,27-Sep-00,3-Oct-00,U.S.,NY,Martindale,n/a,"West Hillsdale M.E. church, near Craryville",n/a,n/a,n/a,n/a,n,
-R_242,The County Review Riverhead,2-Feb-17,"~February 02, 1917",U.S.,NY,East Quogue,n/a,Residence of George W. Howell,George W. Howell,n/a,n/a,n/a,n,postponed due to illness
-R_243,The County Review Riverhead,16-Feb-17,8-Feb-17,U.S.,NY,East Quogue,The Ladies Aid,East Quogue House,n/a,n/a,n/a,n/a,n,Seems to be same event that was postponed in R_242
-R_244,The County Review Riverhead,19-Jan-17,25-Jan-17,U.S.,NY,East Quogue,The Ladies Aid,East Quogue House,n/a,n/a,n/a,n/a,n,Appears to be same event as R_242 and R_243
-R_245,The County Review Riverhead,22-Mar-12,26-Mar-12,U.S.,NY,South Jamesport,The V.I. Society,Great Meadow club,n/a,n/a,n/a,n/a,y,"Interesting that the eBOF is 'localized': ""The Pride of Jamesport"" is the first item on the menu"
-R_246,The County Review Riverhead,29-Mar-07,3-Apr-07,U.S.,NY,Baiting Hollow/Roanoke,n/a,Church parlor,n/a,n/a,n/a,n/a,n,
-R_247,The County Review Riverhead,4-May-23,11-May-23,U.S.,NY,Moriches,The Ladies' Aid Society,Residence of Mrs. Giles Penney,Mrs. Giles Penney,n/a,n/a,n/a,n,
-R_248,The County Review Riverhead,18-May-23,11-May-23,U.S.,NY,Moriches,The Ladies' Aid Society,Residence of Mrs. Giles Penney,Mrs. Giles Penney; Rev. George Smith; Mr. Titmus,5 cents per dish,35.75$ USD,~70,y,
-R_249,The County Review Riverhead,20-Oct-11,21-Oct-11,U.S.,NY,East Marion,The Church Social Society,Church chapel,Mrs. Lottie Brown,n/a,n/a,n/a,n,
-R_250,The County Review Riverhead,27-Oct-11,21-Oct-11,U.S.,NY,East Marion,The Church Social Society,Church chapel,Mrs. Lottie Brown,n/a,n/a,n/a,n,References the same event as R_249
-R_251,The Daily Leader Gloversville,"November 16, 1895","November 15, 1895",U.S.,NY,Gloversville,n/a,Congregational church,n/a,n/a,~40$ USD,n/a,n,
-R_252,The Daily Leader Gloversville,"November 17, 1892","November 18, 1892",U.S.,NY,Gloversville,Y.P.S.C.E. of the Presbyterian church,n/a,n/a,1-5 cents per dish,n/a,n/a,y,
-R_253,The Daily News Batavia,14-Feb-14,18-Feb-14,U.S.,NY,Batavia,n/a,St. James Parish House,n/a,15 cents admission,n/a,n/a,n,Interesting that the reference is an advertisement that was taken out for the event
-R_254,The Daily News Batavia,16-Feb-14,18-Feb-14,U.S.,NY,Batavia,n/a,St. James Parish House,n/a,15 cents admission,n/a,n/a,n,Exactly the same ad as R_253
-R_255,The Daily News Batavia,"February 18, 1893","February 23, 1893",U.S.,NY,Batavia,Y's,Odd Fellows' Hall,n/a,n/a,n/a,n/a,n,
-R_256,The Daily News Batavia,19-Feb-14,18-Feb-14,U.S.,NY,Batavia,St. Jame's Guild,St. James Parish House,Miss Mamie Bean,15 cents admission,25$ USD,~150,y,References the same event as R_253 and R_254
-R_257,The Daily News Batavia,"February 24, 1893","February 23, 1893",U.S.,NY,Batavia,Y's,Odd Fellows' Hall,Miss Grace Tryon; Glenn Clark; Glenn Holmes,n/a,n/a,n/a,n,References the same event as R_255
-R_258,The Daily News Batavia,12-Jun-08,11-Jun-08,U.S.,NY,Batavia,Y.P.S.C.E. of the First Baptist Church,Church parlor,n/a,n/a,n/a,n/a,n,
-R_259,The Daily News Batavia,21-Mar-08,27-Mar-08,U.S.,NY,North Alexander,The Baptist Aid Society,Residence of Merrill F. Lincoln,n/a,n/a,n/a,n/a,n,
-R_260,The Daily News Batavia,"March 24, 1896","March 24, 1896",U.S.,NY,East Pembroke,n/a,Residence of L. F. Lyman,L. F. Lyman,n/a,n/a,n/a,n,
-R_261,The Daily News Batavia,"November 11, 1892","November 9, 1892",U.S.,NY,East Pembroke,The Ladies' Aid Society of the Baptist Church,Parsonage,Miss Bertha Sailes; Miss Richardsonl Ina Rich; Carrie Riley,n/a,23.25$ USD,"""well attended""",y,
-R_262,The Daily News Batavia,"November 22, 1892",n/a,U.S.,NY,East Pembroke,n/a,n/a,n/a,n/a,61.05$ USD,n/a,n,Seems to be a difference event reference from R_261 despite the proximity
-R_263,The Daily News Batavia,15-Oct-82,9-Nov-82,U.S.,NY,East Pembroke,The Ladies' Aid Society,n/a,n/a,n/a,n/a,n/a,n,References the same event as R_261
-R_264,The Daily Palladium Oswego,"December 13, 1892","December 15, 1892",U.S.,NY,Southwest Oswego,The Young People of the M.E. Church,Grange Hall,n/a,n/a,n/a,n/a,n,
-R_265,The Dansville Express,"April 30, 1891","April 30, 1891",U.S.,NY,Dansville,The Ladies of the Presbyterian church,Residence of Mrs. F. G. Hall,Mrs. F. G. Hall,n/a,n/a,n/a,n,"(1) Interestingly this early CS says ""for the usual price"" and (2) also references a simultaeneous 'cobweb social' like other CS references"
-R_266,The East Hampton Star,"November 18, 1898",n/a,U.S.,NY,n/a,n/a,n/a,n/a,n/a,n/a,n/a,y,The repeated quote about the invention of a clever woman and the description of the supper from the Chicago times
-R_267,The Elizabethtown Post,14-Jan-09,14-Jan-09,U.S.,NY,Elizabethtown,n/a,M.E. Church,n/a,n/a,n/a,n/a,n,
-R_268,The Elizabethtown Post,"November 23, 1893","November 21, 1893",U.S.,NY,Elizabethtown,n/a,M.E. Church,n/a,n/a,n/a,n/a,y,Long menu
-R_269,The Elmira Gazette,"February 22, 1893","February 24, 1893",U.S.,NY,Elmira,Y.P.B.C. of the First Baptist church,Church parlor,n/a,n/a,n/a,n/a,n,
-R_270,The Elmira Gazette,"October 26, 1892","October 27, 1892",U.S.,NY,Elmira,n/a,First M.E. Church,n/a,n/a,n/a,n/a,n,
-R_271,The Endicott Times,22-Apr-31,23-Apr-31,U.S.,NY,West Endicott,The Queen Esther's ,St. Paul's Methodist Episcopal Church,Rev. N.B. Graves,n/a,n/a,n/a,n,
-R_272,The Evening Gazette Port Jarvis,25-Apr-23,18-May-23,U.S.,NY,Montague,The Willing Workers,Basement of the Reformed Church,n/a,n/a,n/a,n/a,n,
-R_273,The Evening Gazette Port Jarvis,23-May-23,18-May-23,U.S.,NY,Montague,The Willing Workers,Basement of the Reformed Church,n/a,n/a,n/a,n/a,y,References the same event as R_272
-R_274,The Evening Journal Jamestown,24-Nov-00,1-Dec-00,U.S.,NY,Gerry,Christian Endeavor society,M.P. Parsonage,n/a,n/a,n/a,n/a,n,"""supper served on the European plan"""
-R_275,The Freeman's Journal Cooperstown,18-Mar-14,13-Mar-14,U.S.,NY,Hartwick Seminary,Alumni Banquet Committee,Gymnasium,n/a,n/a,~25$ USD,n/a,n,
-R_276,The Freeman's Journal Cooperstown,27-Mar-12,22-Mar-12,U.S.,NY,Portlandville,The Ladies of the Christian Church,Church parlor,Carl Seeber; Slcia Strange; Dorothy Whitney; Blanch Tucker;,n/a,8$ USD,n/a,n,
-R_277,The Freeman's Journal Cooperstown,18-Nov-14,20-Nov-14,U.S.,NY,Westford,n/a,Baptist Church,n/a,n/a,n/a,n/a,n,
-R_278,The Fulton Patriot ,13-Oct-20,29-Oct-20,U.S.,NY,Whitaker Road,The Balcom circle,Residence of Mr. and Mrs. John Salsbury,Mr. and Mrs. John Salsbury,10 cents per dish,n/a,n/a,n,
-R_279,The Gilboa Monitor,"October 07, 1897","October 09, 1897",U.S.,NY,Gilboa,The Epworth League,M.E. Church of Grand Gorge,n/a,n/a,n/a,n/a,y,"Also called ""C.C."" and all the riddle dishes begin with the letter ""C"""
-R_280,The Gloversville Daily Leader,17-Sep-00,18-Sep-00,U.S.,NY,Gloversville,n/a,"Y.W.C.A rooms, No. 82 North Main Street",n/a,n/a,n/a,n/a,n,
-R_281,The Granville Sentinel,"December 02, 1898","November 25, 1898",U.S.,NY,Granville,The Junior Y.P.C.E. society of the Methodist church,Church parlor,n/a,10 cents,n/a,"""largely attended""",n,
-R_282,The Granville Sentinel,"January 13, 1893","January 12, 1893",U.S.,NY,Granville,The Y.P.C.E. Society of the Baptist church,Residence of Hiram Haskins,Hiram Haskins,n/a,n/a,n/a,n,
-R_283,The Granville Sentinel,"March 17, 1899","March 16, 1899",U.S.,NY,Easton,The Women of the Methodist Episcopal church,Residence of Mr. and Mrs. Howard D. Cornell,Mr. and Mrs. Howard D. Cornell; Rev. J.C. Mitchell,n/a,n/a,n/a,n,
-R_284,The Granville Sentinel,"March 30, 1894","March 31, 1894",U.S.,NY,Pawlet (Vermont),The Epworth League,Town Hall,n/a,n/a,n/a,n/a,n,
-R_285,The Journal and Republican and Lowville Times,11-Jan-12,12-Jan-12,U.S.,NY,Greig,(For the Trinity Chapel),Grange Hall,n/a,n/a,n/a,n/a,n,
-R_286,The Journal and Republican and Lowville Times,30-Nov-11,1-Dec-11,U.S.,NY,Beaver Falls,The Junior League of the Methodist church,Church,n/a,n/a,n/a,n/a,n,"""On the European plan"""
-R_287,The Journal and Republican and Lowville Times,9-Jan-02,17-Jan-02,U.S.,NY,New Bremen,The Ladies of the M.E. society,Residence of N.B. Lombar,N.B. Lombar,25 cents,n/a,n/a,n,"Also called ""bean social"""
-R_288,The Katonah Times,6-Feb-03,11-Feb-03,U.S.,NY,Katonah,The Social department of the Epworth League,Church hall,n/a,n/a,n/a,n/a,n,
-R_289,The Katonah Times,13-Feb-03,11-Feb-03,U.S.,NY,Katonah,The Social department of the Epworth League,Church hall,n/a,n/a,n/a,"""not largely attended""",n,References the same event as R_288
-R_290,The Katonah Times,20-Feb-03,11-Feb-03,U.S.,NY,Katonah,The Social department of the Epworth League,Church hall,n/a,n/a,n/a,"""not largely attended""",n,References the same event as R_288 and R_289
-R_291,The Long Island Farmer,4-Mar-02,27-Feb-02,U.S.,NY,Woodhaven/Ozone Park,The King's Daughters of the Congregational church,n/a,n/a,n/a,35$ USD,n/a,n,
-R_292,The Long Island Farmer,22-May-08,19-May-08,U.S.,NY,Morris Park,The Queen Esther Circle of the Methodist church,n/a,n/a,n/a,n/a,n/a,n,
-R_293,The Long-Islander Huntington,"July 30, 1892","August 1, 1892",U.S.,NY,Northport,The M.E. Sunday School,Union Hall,n/a,n/a,n/a,n/a,n,
-R_294,The Long-Islander Huntington,"June 24, 1893","June 29, 1893",U.S.,NY,Huntington,The Ladies of Huntington harbor,Lawn of Mrs. Ira B. Young,Mrs. Ira B. Young,n/a,n/a,n/a,n,
-R_295,The Malone Farmer,3-Dec-30,"~December 01, 1930",U.S.,NY,Fort Covington,The Members of the Women's Home Missionary Society of the Methodist Church,"Residence of Mr. and Mrs. Charles Smith, Convington street",Mr. and Mrs. Charles Smith; Mr. and Mrs. M. P. Merrick; Mrs. Grace Lockwood,n/a,n/a,n/a,n,"It doesn't appear that the menu itself was a CS menu, but it mentions that dinner was only served after the card conundrums placed on the tables were solved, appears to be another variation on the tradition"
-R_296,The Malone Farmer,5-Dec-34,7-Dec-34,U.S.,NY,West Brandon/East Dickinson,The 4-H club,Residence of Mrs. Lannis Tuttle,Mrs. Lannis Tuttle,15 cents,n/a,n/a,n,
-R_297,The Malone Farmer,8-Mar-33,2-Mar-33,U.S.,NY,St. Regis Falls,The Epworth League,Church parlor,n/a,n/a,13.80$ USD,n/a,n,
-R_298,The Malone Farmer,24-Mar-09,24-Mar-09,U.S.,NY,Moira,The Epworth League,M.E. church vestry,n/a,n/a,n/a,n/a,n,
-R_299,The Malone Palladium,"April 14, 1898","April 15, 1898",U.S.,NY,Brushton,Y.P.S.C.E.,Basement of the M.E. church,n/a,n/a,n/a,n/a,n,
-R_300,The Malone Palladium,"December 07, 1893","December 08, 1893",U.S.,NY,Malone,(For the Good Templars),Residence of William McKenzie,William McKenzie,n/a,n/a,n/a,n,
-R_301,The Malone Palladium,"November 03, 1892","November 02, 1892",U.S.,NY,Chateaugay,The Young People's Society of Christian Endeavor of the M.E. Church,Parsonage,n/a,n/a,n/a,"""large""",y,
-R_302,The Marion Enterprise,"December 11, 1897","December 14, 1897",U.S.,NY,Marion,n/a,M.E. church,n/a,n/a,n/a,n/a,n,
-R_303,The Massena Observer St. Lawrence County,12-Nov-03,12-Nov-03,U.S.,NY,Massena,The Ladies of the Maccabees,Maccabee's Hall,n/a,n/a,n/a,n/a,n,
-R_304,The Mechanicville Mercury,"November 04, 1892","November 03, 1892",U.S.,NY,Mechanicville,The ladies of the Baptist church,Church,n/a,n/a,n/a,n/a,n,
-R_305,The Mechanicville Mercury,"September 29, 1893","October 3, 1893",U.S.,NY,Mechanicville,The Ladies' Aid Society,Methodist Church,n/a,n/a,n/a,n/a,n,
-R_306,The Medina Tribune,"December 01, 1892","December 02, 1892",U.S.,NY,Medina,n/a,Methodist Church,n/a,n/a,n/a,n/a,n,
-R_307,The Medina Tribune,"November 08, 1894","November 02, 1894",U.S.,NY,Medina,The Young Ladies of the Choir,Presbyterian Church,n/a,n/a,n/a,n/a,y,
-R_308,The Medina Tribune,"November 15, 1894","November 02, 1894",U.S.,NY,Medina,The Young Ladies of the Choir,Presbyterian Church,n/a,n/a,n/a,n/a,y,Provides the answers to the eBOF provided in R_307
-R_309,The New Rochelle Pioneer,"May 20, 1893","May 24, 1893",U.S.,NY,New Rochelle,The Ladies of the St. John's Methodist Episcopal Church,Church parlor,n/a,n/a,n/a,n/a,n,
-R_310,The New Rochelle Pioneer,"May 27, 1893","May 24, 1893",U.S.,NY,New Rochelle,The Ladies of the St. John's Methodist Episcopal Church,Church parlor,n/a,n/a,n/a,"""good attendance""",n,References the same event as R_309
-R_311,The Newark Courier,16-Feb-11,21-Feb-11,U.S.,NY,Newark,n/a,"Residence of George Shirley, 51 West Miller street",George Shirley,10 cents,n/a,n/a,n,"""A prize will be given for the best conundrum"""
-R_312,The Newark Courier,"November 21, 1895","November 26, 1895",U.S.,NY,Newark,W.S.L. of the Universalist Church,Church parlor,n/a,n/a,n/a,n/a,n,"""European plan"""
-R_313,The Northern Observer Massena,"April 12, 1893","April 17, 1893",U.S.,NY,Louisville,n/a,M.E. Church basement,n/a,25 cents,n/a,n/a,n,
-R_314,The Northern Observer Massena,"January 18, 1893","January 20, 1893",U.S.,NY,Helena,n/a,Residence of Dave Nevin,Dave Nevin,n/a,n/a,n/a,n,
-R_315,The Northern Tribune Gouverneur,"March 03, 1897","March 01, 1897",U.S.,NY,Gouverneur,The ladies of the Presbyterian Society,n/a,n/a,n/a,n/a,n/a,n,
-R_316,The Northern Tribune Gouverneur,"November 09, 1898","November 09, 1898",U.S.,NY,Gouverneur,The Ladies of the Maccabees,n/a,n/a,n/a,n/a,n/a,n,
-R_317,The Ogdensburg Advance and St. Lawrence Weekly Democrat,"August 06, 1896","August 06, 1896",U.S.,NY,Richville,The Good Templars,Merithew Hall,Rev. H.P. Forbes,n/a,n/a,n/a,n,Newspaper is highly corrupt
-R_318,The Ogdensburg Advance and St. Lawrence Weekly Democrat,"August 13, 1896","August 06, 1896",U.S.,NY,Richville,The Good Templars,Merithew Hall,Rev. H.P. Forbes; Rev. C. E. Witts; Horace White,n/a,n/a,n/a,n,References the same event as R_317
-R_319,The Ogdensburg Advance and St. Lawrence Weekly Democrat,21-Dec-11,15-Dec-11,U.S.,NY,Potsdam,Professor L.K. Russel,"Residence of Prof. L.K. Russel of the Tech, lawrence ave",Professor L.K. Russel,n/a,n/a,n/a,y,"Not a classical CS but a chemistry one, using conundrums from chemistry to describe menus. References the same event as R_125, R_195"
-R_320,The Ogdensburg Advance and St. Lawrence Weekly Democrat,9-Feb-00,9-Feb-00,U.S.,NY,Helena,The Aid Society,School House hall,n/a,n/a,n/a,n/a,n,
-R_321,The Ogdensburg Advance and St. Lawrence Weekly Democrat,7-Mar-01,8-Mar-01,U.S.,NY,Depeyster,The Epworth League,n/a,n/a,n/a,n/a,n/a,n,Features prizes as well
-R_322,The Ogdensburg Advance and St. Lawrence Weekly Democrat,"November 04, 1897","October 29, 1897",U.S.,NY,Morristown,The Ladies' Altar Guild of Christ's Episcopal church,Chapman's Hall,n/a,n/a,n/a,"""well attended""",n,
-R_323,The Ogdensburg Journal,25-Feb-02,26-Feb-02,U.S.,NY,Ogdensburg,The Junior Endeavor Society of the Baptist Church,Church parlors,n/a,25 cents,n/a,n/a,n,
-R_324,The Ogdensburg Journal,26-Feb-02,26-Feb-02,U.S.,NY,Ogdensburg,The Junior Endeavor Society of the Baptist Church,Church parlors,n/a,25 cents,n/a,n/a,n,References the same event as R_323
-R_325,The Ogdensburg Journal,"January 24, 1899","January 31, 1899",U.S.,NY,Depeyster,The Young Ladies' Mission Circle,Residence of George Rounds,George Rounds,n/a,n/a,n/a,n,"References the same event as R_196 (2) Contains ""mite boxes"" that will be opened"
-R_326,The Ogdensburg Journal,5-Mar-01,8-Mar-01,U.S.,NY,Depeyster,The Epworth League,Residence of J. Wesley Walker,J. Wesley Walker,n/a,n/a,n/a,n,References the same event as R_197
-R_327,The Ogdensburg Journal,"November 08, 1899","November 08, 1899",U.S.,NY,Ogdensburg,n/a,Baptist Church,n/a,n/a,n/a,n/a,n,
-R_328,The Ogdensburg Journal,"October10,1911","October14,1911",U.S.,NY,Morley,n/a,Grange Hall,n/a,n/a,n/a,n/a,n,
-R_329,The Ogdensburg Journal,11-Oct-10,21-Oct-10,U.S.,NY,Madrid,Madrid Grange No. 962,n/a,n/a,n/a,n/a,n/a,n,
-R_330,The Ogdensburg Journal,25-Oct-10,21-Oct-10,U.S.,NY,Madrid,Madrid Grange No. 962,n/a,Worthy Master Fulington; Mrs. B. Hesselgrave; Mrs. H. E. Partch,n/a,n/a,~30,n,References the same event as R_329
-R_331,The Ogdensburg Journal,21-Sep-09,6-Oct-09,U.S.,NY,Dekalb Junction,The Ladies' Missionary society of the Presbyterian church,Church parlors,n/a,n/a,n/a,n/a,n,
-R_332,The Plattsburgh Sentinel,"April 08, 1892","~April 08, 1892",U.S.,NY,Sarnac,n/a,n/a,n/a,n/a,~16$ USD,n/a,n,
-R_333,The Plattsburgh Sentinel,15-Apr-10,n/a,U.S.,NY,Plattsburgh,n/a,n/a,n/a,n/a,n/a,n/a,y,"(1) Not an actual event but details the CS practice with a menu and answers; (2) This section is also quoted in a CAnada newspaper that talks about another version of the church supper in which each dish is labled by states: ""different parts of Uncle Sam's domain"""
-R_334,The Plattsburgh Sentinel,"February 05, 1892","February 05, 1892",U.S.,NY,Plattsburgh,The Ladies of the M.E. Church,Church parlors,n/a,n/a,n/a,n/a,n,
-R_335,The Plattsburgh Sentinel,"February 19, 1892","February 26, 1892",U.S.,NY,Plattsburgh,The Ladies' Aid Society of the First Congregational church of Peru,Residence of Mr. F. C. Cate,Mr. F. C. Cate,n/a,n/a,n/a,n,
-R_336,The Plattsburgh Sentinel,"January 15, 1892","January 22, 1892",U.S.,NY,Mooers,The Ladies' Aid Society of the M.E. church,Church parlors,n/a,20 cents,n/a,n/a,n,
-R_337,The Plattsburgh Sentinel,"March 11, 1892","March 17, 1892",U.S.,NY,Mooers,The M.E. Church Society of Mooers Forks,Town Hall,n/a,n/a,n/a,n/a,n,
-R_338,The Plattsburgh Sentinel,3-May-07,26-Apr-07,U.S.,NY,West Chazy,The Young Men of the Epworth League,Residence of R. H. Carroll,R. H. Carroll,n/a,n/a,n/a,n,
-R_339,The Plattsburgh Sentinel,9-Nov-00,9-Nov-00,U.S.,NY,Isle La Motte,The Ladies' Home Missionary Society,Vestry,n/a,n/a,n/a,n/a,n,
-R_340,The Pokeepsie Evening Enterprise,28-Apr-03,29-Apr-03,U.S.,NY,Pokeepsie,Y.P.S.C.E. of the Ebenezer Baptist church,226 Union Street,n/a,n/a,n/a,n/a,n,
-R_341,The Port Jervis Union,"May 13, 1892","May 17, 1892",U.S.,NY,Matamoras,The United Chrisitan Workers/ The young ladies of the Evangelical church,Residence of Mr. and Mrs. Nate Smith,Mr. and Mrs. Nate Smith,15 cents,n/a,n/a,n,
-R_342,The Port Jervis Union,"May 15, 1892","May 17, 1892",U.S.,NY,Matamoras,The United Chrisitan Workers/ The young ladies of the Evangelical church,Residence of Mr. and Mrs. Nate Smith,Mr. and Mrs. Nate Smith,15 cents,n/a,n/a,n,References the same event as R_341
-R_343,The Port Jervis Union,"May 18, 1892","May 17, 1892",U.S.,NY,Matamoras,The United Chrisitan Workers of the Hope Evangelical church/ The young ladies of the Evangelical church,Residence of Mr. and Mrs. Nate Smith,Mr. and Mrs. Nate Smith,15 cents,19$ USD,n/a,n,References the same event as R_341 and R_342
-R_344,The Port Jervis Union,22-May-23,18-May-23,U.S.,NY,Port Jervis,The Willing Workers of the Church,Reformed Church basement,n/a,n/a,n/a,n/a,n,
-R_345,The Post Ellicottville,14-Oct-08,31-Oct-08,U.S.,NY,Five Points,The Grange,Residence of Joe Schuppenhauer,Joe Schuppenhauers,n/a,n/a,n/a,n,
-R_346,The Post Ellicottville,"September 22, 1897","September 23, 1897",U.S.,NY,Delevan,Grace Hive I.O.T.M.,Tempest hall,n/a,free,n/a,n/a,n,
-R_347,The Potsdam Herald-recorder,19-Mar-09,30-Mar-09,U.S.,NY,North Stockholm,n/a,Residence of Hermon A. Lewis,Hermon A. Lewis,n/a,n/a,n/a,n,
-R_348,The Rushville Chronicle,22-Feb-07,22-Feb-07,U.S.,NY,Benton Center,The Ladies' Aid Society of the Baptist church,Church parlors,n/a,n/a,n/a,n/a,n,
-R_349,The Suffolk County News Sayville,"October 18, 1895","October 11, 1895",U.S.,NY,Patchogue,The Ladies of the Congregational Aid society,Church,n/a,n/a,n/a,n/a,n,
-R_350,The Sun New York,"April 24, 1893",n/a,U.S.,NY,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n,Joke about CS from the Buffalo Courier
-R_351,The Watertown Herald,25-Feb-05,24-Feb-05,U.S.,NY,Copenhagen,The Epworth League Society of the M.E. church,Church parlors,n/a,n/a,n/a,n/a,n,A Washington birthday social - more Americanesque
-R_352,The Watertown Herald,"October 31, 1891","November 05, 1891",U.S.,NY,LaFargeville,The Ladies,Lingenfelters Hall,n/a,n/a,n/a,n/a,n,
-R_353,The Whitesville News,"December 12, 1895","December 13, 1895",U.S.,NY,Harrison Valley,The Ladies of the Methodist church,Parsonage,n/a,n/a,n/a,n/a,n,
-R_354,The Whitesville News,12-Mar-03,6-Mar-03,U.S.,NY,Greenwood,The Ladies of the Christian Church,Residence of Denzel Freeland,Denzel Freeland,n/a,n/a,n/a,n,
-R_355,The Wyoming County Herald,25-Nov-10,"~November 24, 1910",U.S.,NY,Java,n/a,n/a,n/a,n/a,n/a,90,n,
-R_356,Ticonderoga Sentinel,23-Nov-16,24-Nov-16,U.S.,NY,Crown Point,The Shining Light club,Chapel,n/a,25 cents,n/a,n/a,n,
-R_357,Ticonderoga Sentinel,30-Nov-16,24-Nov-16,U.S.,NY,Crown Point,The Shining Light club,Chapel,n/a,25 cents,n/a,n/a,n,References the same event as R_356
-R_358,Ticonderoga Sentinel,"October 06, 1892","~October 05, 1892",U.S.,NY,Crown Point,n/a,n/a,n/a,n/a,~18$ USD,"""few""",n,
-R_359,Ticonderoga Sentinel,13-Oct-27,26-Oct-27,U.S.,NY,Crown Point,The Mary Elizabeth class,M.E. church Social hall,n/a,n/a,n/a,n/a,n,"""and stocking social"""
-R_360,Ticonderoga Sentinel,"October 27, 1892","November 2, 1892",U.S.,NY,Ticonderoga,n/a,n/a,n/a,n/a,n/a,n/a,n,"Also mentions an ""animated library"""
-R_361,Tri-states Union Port Jervis,"April 06, 1899","April 03, 1899",U.S.,NY,Montague,The Ladies' Aid of the Reformed Church,n/a,n/a,n/a,18$ USD,n/a,n,
-R_362,Tri-states Union Port Jervis,29-Feb-12,23-Feb-12,U.S.,NY,Montague,The Ladies' Aid of the M.E. Church,Residence of Mrs. Jas. A. Rundle,Mrs. Jas. A. Rundle,n/a,n/a,n/a,n,
-R_363,Tri-states Union Port Jervis,"March 30, 1899","April 7, 1899",U.S.,NY,Montague,The Ladies' Aid of the Reformed Church,n/a,n/a,n/a,n/a,n/a,n,
-R_364,Tri-states Union Port Jervis,"May 19, 1892","May 17, 1892",U.S.,NY,Matamoras,The United Chrisitan Workers/ The young ladies of the Evangelical church,Residence of Mr. and Mrs. Nate Smith,Mr. and Mrs. Nate Smith,15 cents,n/a,n/a,n,"References the same event as R_341, R_342, R_343"
-R_365,Tri-states Union Port Jervis,8-Nov-00,2-Nov-00,U.S.,NY,Galilee,The Epworth League,n/a,n/a,n/a,n/a,"""well attended""",n,
-R_366,Watertown Re-union,27-Dec-02,2-Jan-03,U.S.,NY,Sanfords Corners,The Sunday school class No. 7,Residence of Francis Herrick,Francis Herrick,n/a,n/a,n/a,n,
-R_367,Watertown Re-union,"February 10, 1892","February 10, 1892",U.S.,NY,Plessis,The young people,M. Church prayer room,n/a,n/a,n/a,n/a,n,
-R_368,Watertown Re-union,11-Mar-08,13-Mar-08,U.S.,NY,Plessis,The M.E. Ladies' Aid society,Residence of Mrs. B. Ostrander,Mrs. B. Ostrander,n/a,n/a,n/a,n,
-R_369,Watertown Re-union,17-Mar-00,20-Mar-00,U.S.,NY,Barnes Corners,The Grangers of the Villiage,Grange hall,n/a,n/a,n/a,n/a,n,
-R_370,Watertown Re-union,"May 30, 1896","May 23, 1896",U.S.,NY,Barnes Corners,The Grangers of the Villiage,Grange hall,n/a,n/a,n/a,n/a,n,
-R_371,Watertown Re-union,7-Nov-14,2-Nov-14,U.S.,NY,Chaumont,The men's social,Independent Order of Odd Fellows dining room,n/a,n/a,~15.5$ USD,"""largely attended""",n,
-R_372,Watertown Times,"December 02, 1891","December 01, 1891",U.S.,NY,Watertown,The ladies of the Grace church,"Residence of Mrs. Eilas Cooper, Clinton street",Mrs. Elias Cooper,n/a,n/a,n/a,y,Offers an explanation of the menu with an eBOF and solutions.
-R_373,Watertown Times,"November 03, 1891","November 05, 1891",U.S.,NY,LaFargeville,n/a,Lingenfelters Hall,n/a,n/a,n/a,n/a,n,
-R_374,Watertown Times,"November 10, 1891","November 05, 1891",U.S.,NY,LaFargeville,n/a,Lingenfelters Hall,n/a,n/a,~37$ USD,n/a,n,References the same event as R_373
-R_375,Westfield Republican,"February 15, 1893","February 17, 1893",U.S.,NY,Westfield,n/a,M.E. Church,n/a,n/a,n/a,n/a,n,
-R_376,Westfield Republican,20-Feb-07,"~February 19, 1907",U.S.,NY,Westfield,n/a,n/a,n/a,n/a,n/a,n/a,n,
-R_377,Westfield Republican,10-May-05,13-May-05,U.S.,NY,Westfield,The Ladies Auxiliary of the West Portland cemetery,Odd Fellows' Hall,n/a,n/a,n/a,n/a,n,
-R_378,Westfield Republican,17-May-05,13-May-05,U.S.,NY,Westfield,The Ladies Auxiliary of the West Portland cemetery,Odd Fellows' Hall,n/a,n/a,25$ USD,n/a,n,References the same event as R_377
-R_379,Wyoming County Times Warsaw,"April 12, 1894","April 3, 1894",U.S.,NY,Lamont,The Endeavor club,n/a,n/a,n/a,10$ USD,n/a,n,
-R_380,Wyoming County Times Warsaw,5-Feb-08,31-Jan-08,U.S.,NY,Dale,n/a,Residence of Mr. and Mrs. Henry Sierk,Mr. and Mrs. Henry Sierk; Miss Blanche Choate; Mary Sierk; Glenna Mallison; Anna Mallison; Mrs. Florence Thomson; Florence Chase,n/a,n/a,~73,n,
-R_381,Wyoming County Times Warsaw,"March 17, 1892","March 11, 1892",U.S.,NY,North Java,n/a,Lockwood hall,Miss Nettie Torrey; Miss Almy Torrey; Guy Merville; ,n/a,n/a,n/a,y,
-R_382,Westfield Republican,"February 8, 1893","February 17, 1893",U.S.,NY,Westfield,n/a,M.E. Church,n/a,n/a,n/a,n/a,n,References the same event as R_375
+﻿Unique_Reference_Number,Newspaper,Date,Event_Date,Country,State/Province,City,Organization_Hosting,Event_Location,Persons,Price_Event,Revenue,Attendance,Contains_BOF,Aditional_Comments,,Archive
+R_2,Wyoming County Times Warsaw,23-Sep-03,2-Oct-03,U.S.,NY,Wyoming County,The Political Equality Club,n/a,Mrs. S. B. Whitlock,n/a,n/a,n/a,n,"Mentions ""a yellow tea held"" as another name for 'social gatherings' of the kind",,NYS Historical Newspapers or Fulton
+R_54,Buffalo Evening News,"September 20, 1892",n/a,U.S.,NY,Buffalo,n/a,n/a,n/a,n/a,n/a,n/a,y,"References a text called ""Mary Fairfax in Housekeeper's Weekly"" - which has instructions on how to have a CS",,NYS Historical Newspapers or Fulton
+R_55,Cleaveland Gazette,"March 7, 1891",n/a,U.S.,OH,Cleveland,The Ladies' Helping Hand society,Residence of Mr. and Mrs. George Thompson,Mr. George Thompson; Mrs. George Thompson;,n/a,10.14$ USD,30,y,,,NYS Historical Newspapers or Fulton
+R_56,Elmira Morning Telegram,"~February 11, 1906",8-Feb-06,U.S.,NY,Elmira,Mr. Courtland F. Carrier and Mrs. Courtland F. Carrier,Residence of Mr. Courtland F. Carrier and Mrs. Courtland F. Carrier,Mrs. Carrier's bible class at the First Presbyterian church; Rev. Arthur Dougall; Mrs. Arthur Dougall; Harrison S. Chapman; Mrs. Chapman,n/a,n/a,~31,n,,,NYS Historical Newspapers or Fulton
+R_57,The Farmer's Review,"October 5, 1898",n/a,U.S.,IL,Chicago,n/a,n/a,n/a,n/a,n/a,n/a,y,Quotes the Chicago Times Herald,,NYS Historical Newspapers or Fulton
+R_58,Gulfport Daily Herald,10-Feb-23,3-Feb-23,U.S.,MS,Gulfport,Presbyterian Choir,Woman's club rooms,George C. Poole; Mr. Jeffery; Mr. Devore; Mr. Scull; Mr. McCaskey; Mr. Estopinal; Mr. Frances; Vincent Tedford; Ross Thompson; W. R. Barber; Mrs. Archie Thompson; Mr. Martin; Mr. Bugna; Mr. Bugna; Mr. Anderson; Mr. Miller; Mrs. Ary W. Jones; Dr. H. A. Jones,n/a,80$ USD,n/a,n,"Claims the menu came from Miss Margaret Climie of Bowmanville, Canada",,NYS Historical Newspapers or Fulton
+R_59,Lewiston Evening Journal,"January 21, 1893","January 19, 1893",U.S.,ME,Lewiston,King's Daughters,Presbyterian vestry,n/a,n/a,n/a,n/a,y,,,NYS Historical Newspapers or Fulton
+R_60,Lowell Daily Courier,"March 30, 1893","March 29, 1893",U.S.,MA,Lowell,Young People's Missionary society,Pawtucketville church vestry,Miss Lilian Morrison; Miss Alice Colton; Miss Margaret MacKenzie; Miss Laura Connell; Miss Victorial Connell; Miss Victoria Cuthbertson;Mrs. C. A. Richardsonl Mr. Arthur Stocks; Miss Vera Johnson; Miss Kneeland,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_61,Sea Cliff News,5-Aug-33,8-Aug-33,U.S.,NY,Sea Cliff,Ladies' Aid Society,Wesley Hall,n/a,5 cents,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_62,The St. Paul Daily Globe,"May 25, 1890","May 30, 1890",U.S.,MN,St. Paul,Ladoes of the Presbyterian Church,Residence of Mrs. A. B. Robbins,Mrs. A. B. Robbins,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_63,The Syracuse Daily Journal,"August 31, 1897",n/a,U.S.,NY,Syracuse,n/a,n/a,n/a,Under 10 or 15 cents per ticket,n/a,n/a,n,"Contains a detailed explanation of how the CS is hosted and conducted, and quotes the Chicago Record for information",,NYS Historical Newspapers or Fulton
+R_64,The Daily News New Westminster,14-Dec-00,"~December 13, 1900",U.S.,NY,East Elma(?),n/a,Church,Mrs. Florence Kelsey; Mr. Frank Qickly; Mrs. Frank Qickly; Miss Carrie Dewey;,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_66,The Telegram,27-Feb-10,24-Feb-10,U.S.,NY,Elmira,Epworth League of Centenary Methodist Episcopal Church,Church Parlors,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_67,The Yonker's Statesman,21-Feb-02,20-Feb-02,U.S.,NY,Yonkers,Doreas Society of Westminster Church,Church Lecture Room,n/a,n/a,n/a,n/a,n,"Says that the ""ladies who conducted the affair"" were dressed in costume, ""such as Martha Washington might have worn""",,NYS Historical Newspapers or Fulton
+R_68,Vermont Phoenix,"January 5, 1883","January 8, 1883",U.S.,VT,Brattleboro,Ladies' Aid Society,n/a,n/a,n/a,n/a,n/a,n,"""In place of an annual Christmas festival""",,NYS Historical Newspapers or Fulton
+R_69,Watkins Express,8-Mar-22,11-Mar-22,U.S.,NY,Watkins,n/a,Kayutah Lake Grange Hall,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_74,Wyoming County Times Warsaw,"September 17, 1896","September 9, 1896",U.S.,NY,Pike,The Young People's Aid Society connected with the Baptist church,Residence of A. Lathrop,A. Lathrop; Mattie Scott; Fred Shay,10 cents,n/a,n/a,n,Also has a conundrum question competition with prizes ,,NYS Historical Newspapers or Fulton
+R_76,Allegany County News,25-Feb-15,24-Feb-15,U.S.,NY,West Bingham,n/a,n/a,Mr. Arlie Holbert; Mrs. Arlie Holbert; Mr. George Lewis; Mrs. George Lewis; Mr. Alva Horning; Mrs. Alva Horning; Mr. Selden Lewi; Mrs. Selden Lewi; Miss Cassie Chaffee; Miss Dorothy Grover; Dewert Grover; Clifford Lewis; Lee Barnes,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_77,Allegany County News,19-Nov-14,13-Nov-14,U.S.,NY,Bingham,W.C.T.U.,Church basement,Edna Wemple,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_78,Altamont Enterprise,"December 22, 1893","January 1, 1894",U.S.,NY,Altamont,Y.P.S.C.E. of the New Scotland Presbyterian Church,Church basement,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_79,Altamont Enterprise,"February 01, 1895","February 14, 1895",U.S.,NY,Delanson,Epworth League of Delanson,M.E. church,n/a,25 cents,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_80,Altamont Enterprise,"January 05, 1894","January 1, 1894",U.S.,NY,Altamont,Y.P.S.C.E. of the New Scotland Presbyterian Church,Church basement,n/a,n/a,n/a,n/a,n,Probably references the same event as R_78,,NYS Historical Newspapers or Fulton
+R_81,Altamont Enterprise,9-Jan-25,16-Jan-25,U.S.,NY,Delanson,The Ladies' Aid,M.E. church hall,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_82,Altamont Enterprise,8-Jun-00,16-Jun-00,U.S.,NY,Berue,n/a,Hallenbeck's hall,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_83,Altamont Enterprise,21-Mar-02,28-Mar-02,U.S.,NY,Boox,The Ladies of the Reformed Church,Hall,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_84,Altamont Enterprise,"March 27, 1896","March 23, 1896",U.S.,NY,Feurabush,Mr. Peter VanNatten and Mrs. Peter VanNatten,Residence of Mr. Peter VanNatten and Mrs. Peter VanNatten,Mr. Peter VanNatten; Mrs. Peter VanNatten; Mr. Charles Becker; Mrs. Charles Becker; Mr. George Mead; Mrs. George Mead; Mr. Clark Coughtry; Mrs. Clark Coughtry; Mr. Albert Van-Derzee; Mrs. Albert Van-Derzee;,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_85,Altamont Enterprise,28-Mar-02,28-Mar-02,U.S.,NY,Boox,n/a,n/a,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_86,Altamont Enterprise,"May 03, 1895","May 08, 1895",U.S.,NY,Wemple,n/a,First Reformed Church,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_87,Altamont Enterprise,3-May-01,14-May-01,U.S.,NY,Thompson's Lake,n/a,n/a,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_88,Altamont Enterprise,"November 16, 1894","November 16, 1894",U.S.,NY,Dormansville,The young ladies of this place,Gibbon's hall,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_89,Altamont Enterprise,"October 01, 1897","October 08, 1897",U.S.,NY,Gilford's(?),The Gleaner Society,Hall,Mrs. Stephen Ostrander,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_90,Altamont Enterprise,7-Oct-10,n/a,U.S.,NY,Knox,n/a,n/a,n/a,n/a,21.45$ USD,n/a,n,,,NYS Historical Newspapers or Fulton
+R_91,Altamont Enterprise,23-Sep-10,1-Oct-10,U.S.,NY,Knox,The ladies of the church,M.E. church hall,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_92,Cape Vincent Eagle,28-Feb-24,n/a,U.S.,NY,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n,General reference to the CSs popularity 'latest fad',,NYS Historical Newspapers or Fulton
+R_93,Cape Vincent Eagle,5-Jul-06,n/a,U.S.,NY,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n,Exactly the same quote as R_92 with an 18 year difference,,NYS Historical Newspapers or Fulton
+R_94,Catskill Mountain News,27-Feb-14,4-Mar-14,U.S.,NY,Margaretteville,The Ladies' Aid Society of the M.E. church,E.H. Dickenson's Hall,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_95,Cattaraugus Republican,2-Nov-16,1-Nov-16,U.S.,NY,Cattaraugus (Little Valley),The Ladies of the H.S.C.,G.A.P. Hall,n/a,n/a,17$ USD,n/a,n,,,NYS Historical Newspapers or Fulton
+R_96,Cattaraugus Times,18-Sep-08,12-Sep-08,U.S.,NY,Cattaraugus,Cattaraugus Grange,Grange Hall,E.C. Richard; Mrs. M.N. Pepperdine; Mr. E.L. Waite; Mrs. E.L. Waite;,n/a,n/a,n/a,n,Also mentions a 'bean contest' that takes place at the same event - Twelth Night,,NYS Historical Newspapers or Fulton
+R_97,Cazenovia Republican,"February 20, 1896","~February 27, 1896",U.S.,NY,Stockbridge,The Aid Society,n/a,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_98,Cazenovia Republican,"July 16, 1896","July 16, 1896",U.S.,NY,Cazenovia,The Ladies' Aid Society of the Baptist Church,"Residence of W.H. Cruttenden, Seminary Street ",W.H. Cruttenden,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_99,Cazenovia Republican,6-Oct-10,29-Sep-10,U.S.,NY,Erieville,The Baptist Society,n/a,n/a,n/a,11$ USD,n/a,n,,,NYS Historical Newspapers or Fulton
+R_100,Cazenovia Republican,"October 27, 1892","October 22, 1892",U.S.,NY,De Ruyter,The Ladies U A.S. of the Baptist Church,Union Hall,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_101,Chatham Courier,12-Feb-13,19-Feb-13,U.S.,NY,Red Rock,M.E. Church,Residence of Joseph Jenkins ,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_102,Chatham Courier,"February 22, 1899","February 24, 1899",U.S.,NY,Claverack ,n/a,"Ingleside, Residence of Mr. and Mrs. Peter Cole",Mr. Peter Cole; Mrs. Peter Cole,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_103,Chatham Courier,26-Feb-13,19-Feb-13,U.S.,NY,Red Rock,M.E. Church,Residence of Joseph Jenkins ,Mr. Joseph Jenkins; Mrs. Joseph Jenkins; Mrs. Chester Ford; Miss Ruth Gibbins; Miss Sadie Goodrich; William D. Campbell,n/a,n/a,100,y,References same event as R_101,,NYS Historical Newspapers or Fulton
+R_104,Chatham Courier,27-Feb-01,1-Mar-01,U.S.,NY,Old Chatham,M.E. Church,n/a,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_105,Chatham Courier,6-May-14,13-May-14,U.S.,NY,New Britain,Church,Residence of Mrs. Determann,Mrs. Determann,25 cents,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_106,Chatham Courier,"November 30, 1892","December 1, 1892",U.S.,NY,New Lebanon,The Baptist Society,Residence of J.B. Shumway,J.B. Shumway,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_107,Chatham Courier,"October 18, 1893","October 25, 1893",U.S.,NY,Nassau,The C.E. Society of the Reformed Church,Chapel,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_108,Commercial Advertiser,"March 02, 1892",n/a,U.S.,NY,Potsdam Junction,n/a,n/a,n/a,n/a,n/a,n/a,n,"Does not reference an actual event but it's an early indication of the trend: ""A conundrum supper is the the latest fad in church entertainments. You guess what you are going to have for supper, and then guess how much change you are going to get out of a five-dollar bill""",,NYS Historical Newspapers or Fulton
+R_109,Commercial Advertiser,23-Mar-09,30-Mar-09,U.S.,NY,North Stockholm,L.A.S. (Ladies Aid Society),Residence of Hermon Lewis,Hermon Lewis,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_110,The Whitesville News,22-Dec-04,20-Dec-04,U.S.,NY,Whitesville,Social Purity Band and Literary Club,Open house,n/a,n/a,n/a,n/a,y,,,NYS Historical Newspapers or Fulton
+R_111,Commercial Advertiser,"October 03, 1894","September 29, 1894",U.S.,NY,Potsdam Junction,I.O.G.T.,Hall of Hope Lodge,n/a,n/a,10$ USD,n/a,n,,,NYS Historical Newspapers or Fulton
+R_112,Cortland Standard,"December 23, 1892","December 30, 1892",U.S.,NY,Virgil,n/a,n/a,Mr. Shaw; Mrs. Gertie Elster; Miss Lillie Lang; Mrs. Kate McKinney; |Mrs. Eva Muncey; Mrs. Eva Gee; Mr. Frankchristman; Mr. Lou Christman; Merton; Mr. A.V. Rounds; Aldine Watros; Nora Bell; May Reese; Ina Stillman; Iva Berlou; Etta Oaks; Lelia Curtis; John Warwick; MRs. Clinton Sager; Mrs. E.A. Craine; A. II Bruce; Mrs. Rodolph Trice,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_113,Cortland Standard,"January 06, 1893","December 30, 1892",U.S.,NY,Virgil,n/a,M.E. Church,Mr. Shaw; Mrs. Gertie Elster; Miss Lillie Lang; Mrs. Kate McKinney; |Mrs. Eva Muncey; Mrs. Eva Gee; Mr. Frankchristman; Mr. Lou Christman; Merton; Mr. A.V. Rounds; Aldine Watros; Nora Bell; May Reese; Ina Stillman; Iva Berlou; Etta Oaks; Lelia Curtis; John Warwick; MRs. Clinton Sager; Mrs. E.A. Craine; A. II Bruce; Mrs. Rodolph Trice,n/a,n/a,300,n,"References the same event as R_112; interestingly has a ""conundrum song"" by Katie McKinney as part of the program.",,NYS Historical Newspapers or Fulton
+R_114,Cortland Standard,"April 05, 1898","April 06, 1898",U.S.,NY,Cortland(?),Young men of Rev. J.C.B. Moyer's class and Prof. L.J. Higgin's class of young ladies ,Homer-ave M.E. Church,Rev. J.C.B. Moyer; Prof. K.J. Higgin,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_115,Cortland Standard,11-Dec-00,14-Dec-00,U.S.,NY,Cortland(?),Young ladies of the Hough class,Memorial Baptist Church,n/a,10 cents,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_116,Cortland Standard,19-Feb-01,19-Feb-01,U.S.,NY,Cortland(?),The ladies of Grover Relief Corps,Grand Army Hall,n/a,10 cents,n/a,n/a,y,,,NYS Historical Newspapers or Fulton
+R_117,Cortland Standard,"February 24, 1893","February, 21 1893",U.S.,NY,Cortland(?),The young people,Homer-ave. church,n/a,10 cents,n/a,n/a,n,"Interestingly writes: ""Conundrum supper served on the European plan""",,NYS Historical Newspapers or Fulton
+R_118,Cortland Standard,"January 12, 1894",n/a,U.S.,NY,Scott,The Ladies' Aid Society of the S.D.B. church,S.D.R. Church,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_119,Cortland Standard,"January 23, 1894",n/a,U.S.,NY,Scott,The Ladies' Aid Society of the S.D.B. church,S.D.R. Church,n/a,n/a,10.50$ USD,n/a,n,References the same event as R_118,,NYS Historical Newspapers or Fulton
+R_120,Cortland Standard,"March 03, 1893","March 07, 1893",U.S.,NY,McGrawville,Methodist Church,Residence of Mr. C.B. Warren,Mrs. H. K. Alexander; Mr. C.B. Warren,n/a,n/a,n/a,n,"writes ""on the European plan""; also has relics and a unique art exhibition",,NYS Historical Newspapers or Fulton
+R_121,Cortland Standard,"March 03, 1896","March 05, 1896",U.S.,NY,McGrawville,The members of William H Tarbell W.R.C.,G.A.R. Hall,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_122,Cortland Standard,"November 24, 1896","November 21, 1896",U.S.,NY,McGrawville,Epworth league,M.E. Church,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_123,Cortland Standard,"September 22, 1893","September 15, 1893",U.S.,NY,Groton City,n/a,Residence of Francis Webster,Francis Webster,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_124,Courier and Freeman,2-Aug-22,4-Aug-22,U.S.,NY,Parishville,The ladies of the Eastern Star,The ladies of Eastern hall's banquet room,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_125,Courier and Freeman,20-Dec-11,15-Dec-11,U.S.,NY,Potsdam,Professor L.K. Russel,"Residence of Prof. L.K. Russel of the Tech, lawrence ave",Professor L.K. Russel,n/a,n/a,n/a,y,"Not a classical CS but a chemistry one, using conundrums from chemistry to describe menus. This newspaper has two references to CS events",,NYS Historical Newspapers or Fulton
+R_126,Courier and Freeman,20-Dec-11,15-Dec-11,U.S.,NY,Potsdam,n/a,The Forget-me-not Birthday Club,Mrs. Benj. Thompson; Mrs. Benson,n/a,n/a,n/a,n,The sitting arrangment of this supper was through playing with conundrum cards. This is the second reference to a CS on the same newspaper as R_125,,NYS Historical Newspapers or Fulton
+R_127,Courier and Freeman,12-Feb-02,14-Feb-02,U.S.,NY,Raymondville,L.E. Barnett,Residence of L.E. Barnett,L.E. Barnett; Mrs. Babcock,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_128,Courier and Freeman,"November 30, 1892","November 26, 1892",U.S.,NY,Childwold,The church,A.M. Lonkey,A.M. Lonkey,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_129,Dunkirk Evening Observer,"December 6, 1892","December 6, 1892",U.S.,NY,Dunkirk,n/a,Union Hall,n/a,25 cents,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_130,Endicott Bulletin,2-Mar-28,1-Mar-28,U.S.,NY,Endicott,Employes of the administration department of the Endicott Johnson sales building,Ideal Home,Miss Anne Riley,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_131,Facts and Fallacies,23-Mar-16,28-Mar-16,U.S.,NY,Brushton,n/a,M.E. Church,n/a,n/a,n/a,n/a,y,,,NYS Historical Newspapers or Fulton
+R_132,Fayetteville Bulletin,12-Sep-24,26-Sep-24,U.S.,NY,Fayetteville,Epworth league,M.E. Church parlors,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_133,Geneva Advertiser,19-Feb-01,14-Feb-01,U.S.,NY,Geneva,n/a,St. Peter's Chapel,Mrs. Lena Watson,n/a,38.00$ USD,n/a,n,"Writes that ""There was a heap of amusement over the menu cards, and all of them were taken away as souvenirs. There were very prettily written by three young ladies of the Union School, and painted by Mrs. Lena Watson""",,NYS Historical Newspapers or Fulton
+R_134,Geneva Advertiser,"November 01, 1892","late November, 1892",U.S.,NY,Geneva,The ladies of the M.E. church,n/a,n/a,around 5 cents per dish,n/a,n/a,n,"Writes: ""It is a supper on the European plan""",,NYS Historical Newspapers or Fulton
+R_135,Geneva Advertiser-gazette,31-Jan-05,n/a,U.S.,NY,Geneva,The church of Mrs. Sally Watchorn (of Buffalo),Mrs. Sally Watchorn,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_136,Geneva Daily Times,11-Feb-01,14-Feb-01,U.S.,NY,Geneva,The Parish Aid Society,St. Peter's Chapel,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_137,Geneva Daily Times,13-Feb-01,14-Feb-01,U.S.,NY,Geneva,The Parish Aid Society,St. Peter's Chapel,n/a,n/a,n/a,n/a,n,References the same event as R_136,,NYS Historical Newspapers or Fulton
+R_138,Gouverneur Free Press,"March 11, 1896","March 9, 1896",U.S.,NY,Richville,The Congregational society of Richville,Residence of Wm. Walker,Rev. Jones; Mrs. Jones,n/a,n/a,n/a,y,Mentions that the menu cards were issued by the Free Press office of the villiage,,NYS Historical Newspapers or Fulton
+R_139,Gouverneur Free Press,"March 15, 1893","March 13, 1893",U.S.,NY,Edwards,The ladies of the M.e. society,Town Hall,n/a,n/a,18$ USD,n/a,n,,,NYS Historical Newspapers or Fulton
+R_140,Herkimer Democrat,15-Aug-00,n/a,U.S.,NY,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n,"Not an actual event reference but references a column in another magazine called ""The Designer"" for September 1900 that has a ""Conundrum Supper"" column",,NYS Historical Newspapers or Fulton
+R_141,Herkimer Democrat,"March 11, 1891","March 4, 1891",U.S.,NY,Frankfort,n/a,Baptist Church,n/a,n/a,45$ USD,n/a,n,,,NYS Historical Newspapers or Fulton
+R_142,Herkimer Democrat,"March 16, 1892","March 18, 1892",U.S.,NY,Norway,Excelsior Lodge of Good Templars,Excelsior Lodge of Good Templars' rooms,n/a,10 cents,n/a,n/a,n,"Also called a ""cobweb social""",,NYS Historical Newspapers or Fulton
+R_143,Herkimer Democrat,"October 12, 1892","October 14, 1892",U.S.,NY,Newville,The young people of Newville,Parlors of Mrs. J.A. Houpt,Mrs. J.A. Houpt; Rev. Mr. Taber,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_144,Herkimer Democrat,"October 23, 1895","October 26, 1895",U.S.,NY,Fairfield,Epworth league,n/a,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_145,Ithaca Daily Journal,25-Mar-04,25-Mar-04,U.S.,NY,Ithaca,Epworth league of the State Street Methodist Episcopal Church,Church parlors,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_146,Ithaca Daily Journal,"September 28, 1898",n/a,U.S.,NY,Ithaca,n/a,n/a,n/a,n/a,n/a,n/a,y,"Has the quote ""A clever woman has invented the conundrum supper..."". Also contains answers to the eBOF, not just the menu itself. ",,NYS Historical Newspapers or Fulton
+R_147,Lewis County Democrat,3-Feb-04,12-Feb-04,U.S.,NY,Lowville,n/a,Residence of Hiram Schell,Hiram Schell; Rev. A.F. Beebe,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_148,Mexico Independent,27-Mar-01,27-Mar-01,U.S.,NY,Mexico,The ladies of the Baptist church,Washington Hall,n/a,n/a,n/a,n/a,n,"Also called ""Mapple sugar and Conundrum Supper""",,NYS Historical Newspapers or Fulton
+R_149,Mexico Independent,27-Mar-01,27-Mar-01,U.S.,NY,Mexico,The ladies of the Baptist church,Washington Hall,n/a,"Sugar 10 cents, supper extra",n/a,n/a,n,Two different ads on different pages in the same newspaper (R_148 + R_149),,NYS Historical Newspapers or Fulton
+R_150,Mexico Independent,"March 28, 1894","March 28, 1894",U.S.,NY,Mexico,n/a,M.E. church,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_151,Mexico Independent,31-Oct-06,n/a,U.S.,NY,Mexico,n/a,n/a,n/a,n/a,n/a,n/a,n,"Not a specific event reference but interesting quote: ""'I see that the latest social novelty in the East is the conundrum supper.' 'Gracious, do they have to give it up if they don't guess it?'""",,NYS Historical Newspapers or Fulton
+R_152,Monroe County Mail,20-Feb-08,14-Feb-08,U.S.,NY,Webster,The L.L.L. class of the German Evangelical Sunday school,Church parlors,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_153,Monroe County Mail,"October 19, 1893","October 20, 1893",U.S.,NY,Fairport,The Baptist young people's union,First baptist church,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_154,Monroe County Mail,"October 29, 1896","October 29, 1896",U.S.,NY,Webster,Y.P.S.C.E. of the baptist church,Residence of Miss Hattie Smith,Miss Hattie Smith,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_155,Nassau County Review,"January 27, 1899","January 18, 1899",U.S.,NY,Seaford,The ladies of the episcopal church,n/a,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_156,Nassau County Review,20-Nov-08,10-Dec-08,U.S.,NY,Valley Stream,The Ladies' Aid society of Grace Methodist Episcopal Church,Firemen's Hall,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_157,Norwood News,"February 26, 1895","February 26, 1895",U.S.,NY,East Brasher,n/a,Residence of R.W. Smith ,R.W. Smith; Rev. Funnel,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_158,Norwood News,27-Jan-03,27-Jan-03,U.S.,NY,Norwood,Court Prudence ,Foresters' Hall,n/a,n/a,n/a,n/a,y,,,NYS Historical Newspapers or Fulton
+R_159,Norwood News,5-Nov-07,25-Oct-07,U.S.,NY,Skinnerville,n/a,Residence of H. Munson,H. Munson,n/a,n/a,n/a,n,"Interestingly also called a ""pedro party""",,NYS Historical Newspapers or Fulton
+R_160,Olean Herald,19-Feb-02,19-Feb-02,U.S.,NY,Olean,The church aid society of the A.M.E. church,n/a,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_161,On the St. Lawrence and Clayton Independent,"December 04, 1896","December 05, 1896",U.S.,NY,Depauville,Society fair and sale,Depauville fair,n/a,n/a,n/a,n/a,n,Conundrum supper at a local fair,,NYS Historical Newspapers or Fulton
+R_162,On the St. Lawrence and Clayton Independent,"September 20, 1895","September 25, 1895",U.S.,NY,Clayton(?),Epworth league,M.E. church,n/a,15 cents / 10 cents,n/a,n/a,y,Interestingly has a host called William O'Fare (Bill of Fare),,NYS Historical Newspapers or Fulton
+R_163,Oswego Palladium,28-Oct-19,24-Oct-19,U.S.,NY,Minetto,Grange comittee ,Grange hall,n/a,n/a,n/a,n/a,n,mentions dressing in costume for the event,,NYS Historical Newspapers or Fulton
+R_164,Penn Yan Express,"April 15, 1896","April 22, 1896",U.S.,NY,Penn Yan,n/a,Hall,F.R. Andrews,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_165,Penn Yan Express,"April 27, 1892","April 29, 1892",U.S.,NY,Penn Yan,Ladies' Helping Hand Society,"Lounsbery's Hall, Potter Center",n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_166,Penn Yan Express,"December 15, 1897","December 17, 1897",U.S.,NY,Bluff Point,n/a,Residence of Lee Baker,Lee Baker,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_167,Penn Yan Express,"March 02, 1892","March 08, 1892",U.S.,NY,Keuka College,Ladies' Aid Society of the Park,Chapel,n/a,n/a,n/a,n/a,n,"""This entertainment is entiery new and novel""",,NYS Historical Newspapers or Fulton
+R_168,Penn Yan Express,"March 16, 1892","March 8, 1892",U.S.,NY,Keuka College,Ladies' Aid Society of the Park,Chapel,n/a,n/a,25$ USD,n/a,y,References the same event as R_167,,NYS Historical Newspapers or Fulton
+R_169,Penn Yan Express,"November 08, 1893","November 15, 1893",U.S.,NY,Penn Yan,Y.P.S.C.E. of Second Milo,Residence of F.B. Swarthout,F.B. Swarthout,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_170,Penn Yan Express,"November 23, 1898","November 25, 1898",U.S.,NY,Rushville,The Young Ladies of the Congregational Sunday School,Residence of Emory Green,Emory Green,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_171,Plattsburgh Daily Press,26-Apr-07,26-Apr-07,U.S.,NY,Plattsburgh,The Young Men of the M.E. Church of West Chazy,Residence of R.H. Carroll,R.H. Carroll,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_172,Poughkeepsie Eagle,"February 01, 1898","January 26, 1898",U.S.,NY,Viewmonte,The Members of the Lutheran Church,Church parlors,n/a,n/a,35$ USD,n/a,n,,,NYS Historical Newspapers or Fulton
+R_173,Poughkeepsie Eagle,31-Jul-03,8-Aug-03,U.S.,NY,Milan,The Ladies of the Christian Church,n/a,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_174,Poughkeepsie Eagle,20-Mar-00,21-Mar-00,U.S.,NY,Moore's Mills,n/a,Rooms of Floral Home ,Miss V. Gildersleeve,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_175,Poughkeepsie Eagle,21-Mar-11,21-Mar-11,U.S.,NY,Schultzville,n/a,Church hall,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_176,Poughkeepsie Eagle,5-May-03,1-May-03,U.S.,NY,Pleasant Valley,n/a,M.E. church,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_177,Poughkeepsie Eagle,18-Sep-08,8-Oct-08,U.S.,NY,Verbank,n/a,Church parlors,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_178,Queens County Review,"April 09, 1897","April 14, 1897",U.S.,NY,Freeport,Ladies' Aid Society of the M.E. Church,Church Lecture Room,n/a,25 cents,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_179,Queens County Review,"October 08, 1897","October 14, 1897",U.S.,NY,Bellmore,Dorcas Society of the M.E. Church,Parsonage,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_180,Richmond County Advance,23-Feb-01,22-Feb-01,U.S.,NY,West New Brighton(?),The Ladies of the Park Baptist Church of Port Richmond ,Church Lecture Room,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_181,Richmond County Advance,17-Jun-05,27-Jun-05,U.S.,NY,West New Brighton(?),The Ladies of Trinity M.E. Church,Church Lecture Room,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_182,Richmond County Advance,24-Jun-05,27-Jun-05,U.S.,NY,West New Brighton(?),The Ladies' Aid Society of the Trinity M.E. Church,Church Lecture Room,,25 cents,n/a,n/a,n,"References the same event as R_181.  Also contains a verse invitation (transcribed here): An invitation to all we now extend, / Our conundrum supper to attend. / Queer-titled(?) viands we'll serve Tuesday night. / And hope each one will taste all right. / Boiled roasted, and baked will these dainties be, / But named to test your inqunuity. / We'll serve nothing odd -no, not even hash-- / But familiar dainties we'll give for cash. / In each queerly-named dish you'll find a friend, . E'en though to detect it you're at your wit's end. / That you come to this supper--taste of each dish, / Our chuch ladies sincerely, cordially wish.",,NYS Historical Newspapers or Fulton
+R_183,Richmond County Advance,"November 05, 1892","November 10, 1892",U.S.,NY,West New Brighton(?),The Emanuel Circle of King's Daughters,"The Reformed Chapel, Mariner's Harbor",n/a,"Admission 10 cents, Supper 25 cents",n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_184,Rockland County Journal,4-Feb-00,2-Feb-00,U.S.,NY,Suffers,Epworth League,n/a,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_185,Rockland County Journal,"February 20, 1892",n/a,U.S.,NY,Nyack,n/a,n/a,n/a,n/a,n/a,n/a,n,Does not reference an actual event; Exact same quote as R_108,,NYS Historical Newspapers or Fulton
+R_186,Rockland County Journal,21-Jan-00,26-Jan-00,U.S.,NY,Suffers,Epworth League of the M.E. Church,Church chapel,n/a,n/a,n/a,n/a,n,Possibly same event as R_184,,NYS Historical Newspapers or Fulton
+R_187,Rockland County Journal,"March 12, 1892","March 15, 1892",U.S.,NY,Nyack,The Ladies of the Dorcas Society,"The lecture room of the Clarkstown Reformed Church, Mont Moor",n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_188,Sag-Harbor Express,"December 21, 1893",n/a,U.S.,NY,Sag-Harbor,n/a,n/a,Rebecca T. Dudley,n/a,n/a,n/a,y,"Does not reference an event, speaks of the CS practice in general",,NYS Historical Newspapers or Fulton
+R_189,Sag-Harbor Express,4-Mar-09,n/a,U.S.,NY,Wainscott,The Ladies of the Sewing Society,n/a,n/a,n/a,n/a,n/a,y,,,NYS Historical Newspapers or Fulton
+R_190,Salamanca Inquirer,17-Feb-39,17-Feb-39,U.S.,NY,Steamburg,The Ladies' Aid Society,n/a,Mrs. John Monroe; Mrs. Minnie Gallagher; Mrs. Lemuel Oakes; Mrs. Campbell Putnam; Mrs. Bernice Hill; Mrs. Mable Stacey; Mrs. Cortez Jaquay; Mrs. Paul Arrance; Mrs. H.V. Lindquist; Mrs. L.E. Darling,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_191,Salamanca Inquirer,24-Feb-39,17-Feb-39,U.S.,NY,Steamburg,The Ladies' Aid Society,Grange Hall,n/a,n/a,n/a,n/a,n,"References the same event as R_190; Interestingly, this dinner is 'Americanized' American flags were mounted and the waiters and waitressess wore red white and blue",,NYS Historical Newspapers or Fulton
+R_192,Sandy Creek News,30-Jan-13,13-Feb-13,U.S.,NY,Sandy Creek,B.Y.P.U. of the Baptist Church,TBD,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_193,South Side Signal,"December 03, 1892","December 01, 1892",U.S.,NY,Babylon,n/a,Woman's Exchange,n/a,n/a,n/a,n/a,n,17 appetizing items on the menu,,NYS Historical Newspapers or Fulton
+R_194,South Side Signal,"November 19, 1892","December 01, 1892",U.S.,NY,Babylon,n/a,Woman's Exchange,n/a,n/a,n/a,n/a,n,References the same event as R_193,,NYS Historical Newspapers or Fulton
+R_195,St. Lawrence Republican and Ogdensburgh Weekly Journal,20-Dec-11,15-Dec-11,U.S.,NY,Simpson,Professor L.K. Russel,"Residence of Prof. L.K. Russel of the Tech, lawrence ave",Professor L.K. Russel,n/a,n/a,n/a,y,"Chemistry eBOF, references the same event as R_125",,NYS Historical Newspapers or Fulton
+R_196,St. Lawrence Republican and Ogdensburgh Weekly Journal,"January 25, 1899","January 31, 1899",U.S.,NY,Depeyster,The Young Ladies' Mission Circle,Residence of George Rounds,George Rounds; Miss Vera Fleetham,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_197,St. Lawrence Republican and Ogdensburgh Weekly Journal,6-Mar-01,8-Mar-01,U.S.,NY,Depeyster,Epworth League,Residence of J. Wesley Walker,J. Wesley Walker,n/a,n/a,n/a,n,"Not the first event to mention a picture gallery at the CS as well, reminds of the Satire tradition with Heath",,NYS Historical Newspapers or Fulton
+R_198,St. Lawrence Republican and Ogdensburgh Weekly Journal,26-Oct-10,24-Oct-10,U.S.,NY,Madrin Grange,The Lecturer,n/a,Worthy Master Fulton; Mrs. B. Hesselgrave; Mrs. H.E. Partch,n/a,n/a,30,n,,,NYS Historical Newspapers or Fulton
+R_199,Sullivan County Record,8-Nov-00,18-Nov-00,U.S.,NY,Kenoza Lake,The Ladies of the M.E. church,Residence of E.E. Miller,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_200,Tarrytown Daily News ,19-Feb-15,17-Feb-15,U.S.,NY,Tarrytown,The young people of the parish,Hope Chapel,Miss ella Briggs; Miss Olive Walthew; Dr. Daniel Russell; Rev. George M. Whitmore;,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_201,Tarrytown Daily News ,30-Sep-14,1-Oct-14,U.S.,NY,Tarrytown,Epworth league of Asbury M.E. Church,Church parlors,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_202,The Adirondack Record-Elizabethtown Post,17-Jan-35,16-Jan-35,U.S.,NY,Upper Jay,The Ladies Guild,M.E. Parsonage,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_203,The Brockport Republic,21-Feb-07,n/a,U.S.,NY,Morton,Hamlin Grange,n/a,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_204,The Brockport Republic,10-Nov-10,11-Nov-10,U.S.,NY,Adams Basin,I.A. Brice,M.P. Church,I.A. Brice,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_205,The Brockport Republic,"October 22, 1891","October 16, 1891",U.S.,NY,Hamlin,n/a,Residence of F.B. Cary,F.B. Cary,42 cents,7.50$ USD,n/a,n,"(1) An early reference to CS calls them ""Conundrum Course"" and (2) This is an eBOF were not only food is served: ""as likely to get a toothbrush as a cup of coffee""",,NYS Historical Newspapers or Fulton
+R_206,The Brookfield Courier,15-Jan-08,18-Jan-08,U.S.,NY,Brookfield,Ladies' Aid Society of the M.E. Church (south-west division),Residence of Mrs. Dayton Palmiter,Mrs. Dayton Palmiter,n/a,n/a,n/a,n,"Also called a ""stunt social""",,NYS Historical Newspapers or Fulton
+R_207,The Brookfield Courier,"March 02, 1898","~February 23, 1898",U.S.,NY,Unadilla Forks,Gentlement of the F.B. Society,F.B. Church,n/a,8 dishes for 10 cents,n/a,n/a,y,,,NYS Historical Newspapers or Fulton
+R_208,The Brookfield Courier,29-Mar-22,6-Apr-22,U.S.,NY,Brookfield,M.E. Social,Residence of Jerome Prescott,n/a,n/a,n/a,n/a,n,"Also called a ""Daffy Social"" - Prozes awarded for those who solve the ""famous Cobweb puzzle""",,NYS Historical Newspapers or Fulton
+R_209,The Brookfield Courier,6-Nov-18,"November 07, 1898",U.S.,NY,West Edmston,Ladies' Aid Society,Residence of E.A. Felton,n/a,n/a,n/a,n/a,n,"(1) Interesting because the newspaper is referencing an ""on this day"" piece of news from 20 years earlier. (2) Interesting because it mentions that the poorest dressed person will recieve a prize, and that everyone should ""put on old clothes and thinking caps"" for the CS",,NYS Historical Newspapers or Fulton
+R_210,The Brooklyn Daily Eagle,"April 11, 1897","April 14, 1897",U.S.,NY,Freeport,The Aid Society of the Methodist Episcopal ,n/a,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_211,The Brooklyn Daily Eagle,"April 30, 1899","April 27, 1899",U.S.,NY,Bedford,The Bedford Progressive Euchre Club,Residence of Mrs. Frank Brown,Mrs. Frank Brown; Mrs. Drake; Mrs. Wills; Mr. and Mrs. J. W. Stopford; Mr. and Mrs. F. A. A. Horton; Mr. and Mrs. A. Drake; Mr. and Mrs. H. Barringer; Mr. and Mrs. W. Wills; Mr. and Mrs. J. Davis; Miss Annie Russell; Mrs. Elford; George Smith; Miss Grace Brown; Miss Rose Wills; Mrs. Chatles Benson; Miss Minnie Wills;,n/a,n/a,n/a,n,Long list of names listed,,NYS Historical Newspapers or Fulton
+R_212,The Brooklyn Daily Eagle,"December 07, 1897","December 09, 1897",U.S.,NY,Long Island,The Epworth League of the Moriches M. E. Church,n/a,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_213,The Brooklyn Daily Eagle,"December 17, 1897","December 15, 1897",U.S.,NY,Long Island,The Epworth League of the Moriches M. E. Church,Residence of Charles H. Thomas,n/a,n/a,n/a,n/a,n,Event referenced in R_212 but was postponed twice,,NYS Historical Newspapers or Fulton
+R_214,The Brooklyn Daily Eagle,"January 29, 1899",n/a,U.S.,NY,Brooklyn(?),Regular Encampment of General Henry W. Slocum Post No. 28,n/a,n/a,n/a,n/a,n/a,n,"""shortly"" will hold a supper",,NYS Historical Newspapers or Fulton
+R_215,The Brooklyn Daily Eagle,26-Jul-01,24-Jul-01,U.S.,NY,Bay Ridge/ Fort Hamilton,The Young People's Society of the East End Baptist Church,Residence of George Closter (404 Hendrix Street),George Closter; William A. Closter; Miss Jennie Winan; Sadle Schievely; Henry George Jackson; Mr. Bedell; Mr. Ward; Mr. Broome;,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_216,The Brooklyn Daily Eagle,"May 18, 1893","May 17, 1893",U.S.,NY,Brooklyn(?),The Young People's Association of the Greene avenue Baptist church,The Sunday school room of the Greene avenue Baptist church,Miss Stone; Genevieve King; Master L. H. Schreiner; William Schreiner; Miss Depew; Mr. and Mrs. Werderman; Mr. and Mrs. BEnnett; Mrs. Seaman; Miss Forbell; Miss Lilian Randall; Miss Frailey; Mr. Head,n/a,"""a large sum""",n/a,n,,,NYS Historical Newspapers or Fulton
+R_217,The Brooklyn Daily Eagle,28-Nov-00,"~November 28, 1900",U.S.,NY,Brooklyn(?),The Ladies of the Valley Stream M. E. Sunday School,Firemen's Hall,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_218,The Brooklyn Daily Eagle,"October 12, 1895","October 11, 1895",U.S.,NY,Long Island,The Women of the Congregational Aid Society,Patebogue church,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_219,The Brooklyn Daily Eagle,"September 25, 1897","September 21, 1897",U.S.,NY,Brooklyn(?),n/a,n/a,n/a,n/a,n/a,n/a,n,"""For the benefit of the Christian Endeavor Society""",,NYS Historical Newspapers or Fulton
+R_220,The Catskill Recorder,"January 19, 1894","January 23, 1894",U.S.,NY,Catskill,n/a,Residence of Chas. Covell,n/a,n/a,n/a,n/a,n,"""For the benefit of the Canterskill chapel""",,NYS Historical Newspapers or Fulton
+R_221,The Catskill Recorder,"January 27, 1893","~January 27, 1893",U.S.,NY,Catskill,The Endeavor Society,n/a,n/a,n/a,45$ USD,n/a,n,,,NYS Historical Newspapers or Fulton
+R_222,The Catskill Recorder,"March10,1893","March3,1893",U.S.,NY,Cornwallsville,n/a,Durham,n/a,n/a,n/a,15,n,,,NYS Historical Newspapers or Fulton
+R_223,The Catskill Recorder,"March 25, 1892","March 18, 1892",U.S.,NY,Greenville,The Young People of the Greenville Presbyterian Church,n/a,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_224,The Catskill Recorder,"May 19, 1893","May 18, 1893",U.S.,NY,Catskill,The Young People of the Baptist Church,n/a,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_225,The Chronicle Mount Vernon,"November 14, 1895","November 25, 1895",U.S.,NY,Mont Vernon,The Male Members of the Epworth League of the North M. E. Church,n/a,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_226,The City Island Drift,"April 27, 1895","May 07, 1895",U.S.,NY,City Island,The Ladies of Grace Church,Leviness Hall,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_227,The City Island Drift,"May 4, 1895","May 07, 1895",U.S.,NY,City Island,The Ladies of Grace Church,Leviness Hall,n/a,35 cents,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_228,The Cobleskill Index,18-Mar-15,3-Apr-15,U.S.,NY,Sloansville,The Gentlemen of the Baptist church,Church hall,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_229,The Cobleskill Index,22-Mar-06,n/a,U.S.,NY,Rural Grove,n/a,n/a,n/a,n/a,n/a,"""well attended""",n,,,NYS Historical Newspapers or Fulton
+R_230,The Coeymans Herald,"November 21, 1894","November 16, 1894",U.S.,NY,Dormansville,n/a,n/a,n/a,n/a,~25$ USD,"""well attended""",n,,,NYS Historical Newspapers or Fulton
+R_231,The Columbia Republican,20-Aug-03,"~August 20, 1903",U.S.,NY,North Chatham,The Epworth League,n/a,n/a,n/a,~10$ USD,n/a,n,,,NYS Historical Newspapers or Fulton
+R_232,The Columbia Republican,"February 01, 1894","~January 23, 1894",U.S.,NY,Stuyvesant Falls,n/a,Residence of Mrs. S. G. Miller,Mrs. and Mr. S. G. Miller,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_233,The Columbia Republican,"February 07, 1895","January 31, 1895",U.S.,NY,West Taghkanic,n/a,Parsonage,n/a,n/a,~14$ USD,n/a,n,,,NYS Historical Newspapers or Fulton
+R_234,The Columbia Republican,"February 13, 1896","February 20, 1896",U.S.,NY,Taghkanic(?),The Ladies Missionary Society of the Reformed Church,Parsonage,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_235,The Columbia Republican,"February 27, 1896","February 20, 1896",U.S.,NY,Taghkanic,The Ladies Missionary Society of the Reformed Church,Parsonage,n/a,n/a,n/a,n/a,n,References same event as R_234,,NYS Historical Newspapers or Fulton
+R_236,The Columbia Republican,8-Mar-06,13-Mar-06,U.S.,NY,Greendale,n/a,Residence of Frank R. Hathaway,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_237,The Columbia Republican,31-May-21,2-Jun-21,U.S.,NY,Germantown,n/a,Cneviot M.E. church,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_238,The Columbia Republican,6-Oct-04,14-Oct-04,U.S.,NY,North Germantown,The Epworth League,n/a,n/a,n/a,n/a,n/a,n,"Interesting gender reference: ""supper...conducted entirely by young men. Ladies will please not 'butt in.'"" ",,NYS Historical Newspapers or Fulton
+R_239,The Columbia Republican,13-Oct-04,14-Oct-04,U.S.,NY,North Germantown,n/a,The league rooms,n/a,n/a,n/a,n/a,n,"Interesting gender reference: ""Everything is to be done by the gentlemen...""",,NYS Historical Newspapers or Fulton
+R_240,The Columbia Republican,20-Oct-04,14-Oct-04,U.S.,NY,North Germantown,n/a,The league rooms,n/a,n/a,n/a,n/a,n,References the same event as R_239,,NYS Historical Newspapers or Fulton
+R_241,The Columbia Republican,27-Sep-00,3-Oct-00,U.S.,NY,Martindale,n/a,"West Hillsdale M.E. church, near Craryville",n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_242,The County Review Riverhead,2-Feb-17,"~February 02, 1917",U.S.,NY,East Quogue,n/a,Residence of George W. Howell,George W. Howell,n/a,n/a,n/a,n,postponed due to illness,,NYS Historical Newspapers or Fulton
+R_243,The County Review Riverhead,16-Feb-17,8-Feb-17,U.S.,NY,East Quogue,The Ladies Aid,East Quogue House,n/a,n/a,n/a,n/a,n,Seems to be same event that was postponed in R_242,,NYS Historical Newspapers or Fulton
+R_244,The County Review Riverhead,19-Jan-17,25-Jan-17,U.S.,NY,East Quogue,The Ladies Aid,East Quogue House,n/a,n/a,n/a,n/a,n,Appears to be same event as R_242 and R_243,,NYS Historical Newspapers or Fulton
+R_245,The County Review Riverhead,22-Mar-12,26-Mar-12,U.S.,NY,South Jamesport,The V.I. Society,Great Meadow club,n/a,n/a,n/a,n/a,y,"Interesting that the eBOF is 'localized': ""The Pride of Jamesport"" is the first item on the menu",,NYS Historical Newspapers or Fulton
+R_246,The County Review Riverhead,29-Mar-07,3-Apr-07,U.S.,NY,Baiting Hollow/Roanoke,n/a,Church parlor,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_247,The County Review Riverhead,4-May-23,11-May-23,U.S.,NY,Moriches,The Ladies' Aid Society,Residence of Mrs. Giles Penney,Mrs. Giles Penney,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_248,The County Review Riverhead,18-May-23,11-May-23,U.S.,NY,Moriches,The Ladies' Aid Society,Residence of Mrs. Giles Penney,Mrs. Giles Penney; Rev. George Smith; Mr. Titmus,5 cents per dish,35.75$ USD,~70,y,,,NYS Historical Newspapers or Fulton
+R_249,The County Review Riverhead,20-Oct-11,21-Oct-11,U.S.,NY,East Marion,The Church Social Society,Church chapel,Mrs. Lottie Brown,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_250,The County Review Riverhead,27-Oct-11,21-Oct-11,U.S.,NY,East Marion,The Church Social Society,Church chapel,Mrs. Lottie Brown,n/a,n/a,n/a,n,References the same event as R_249,,NYS Historical Newspapers or Fulton
+R_251,The Daily Leader Gloversville,"November 16, 1895","November 15, 1895",U.S.,NY,Gloversville,n/a,Congregational church,n/a,n/a,~40$ USD,n/a,n,,,NYS Historical Newspapers or Fulton
+R_252,The Daily Leader Gloversville,"November 17, 1892","November 18, 1892",U.S.,NY,Gloversville,Y.P.S.C.E. of the Presbyterian church,n/a,n/a,1-5 cents per dish,n/a,n/a,y,,,NYS Historical Newspapers or Fulton
+R_253,The Daily News Batavia,14-Feb-14,18-Feb-14,U.S.,NY,Batavia,n/a,St. James Parish House,n/a,15 cents admission,n/a,n/a,n,Interesting that the reference is an advertisement that was taken out for the event,,NYS Historical Newspapers or Fulton
+R_254,The Daily News Batavia,16-Feb-14,18-Feb-14,U.S.,NY,Batavia,n/a,St. James Parish House,n/a,15 cents admission,n/a,n/a,n,Exactly the same ad as R_253,,NYS Historical Newspapers or Fulton
+R_255,The Daily News Batavia,"February 18, 1893","February 23, 1893",U.S.,NY,Batavia,Y's,Odd Fellows' Hall,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_256,The Daily News Batavia,19-Feb-14,18-Feb-14,U.S.,NY,Batavia,St. Jame's Guild,St. James Parish House,Miss Mamie Bean,15 cents admission,25$ USD,~150,y,References the same event as R_253 and R_254,,NYS Historical Newspapers or Fulton
+R_257,The Daily News Batavia,"February 24, 1893","February 23, 1893",U.S.,NY,Batavia,Y's,Odd Fellows' Hall,Miss Grace Tryon; Glenn Clark; Glenn Holmes,n/a,n/a,n/a,n,References the same event as R_255,,NYS Historical Newspapers or Fulton
+R_258,The Daily News Batavia,12-Jun-08,11-Jun-08,U.S.,NY,Batavia,Y.P.S.C.E. of the First Baptist Church,Church parlor,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_259,The Daily News Batavia,21-Mar-08,27-Mar-08,U.S.,NY,North Alexander,The Baptist Aid Society,Residence of Merrill F. Lincoln,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_260,The Daily News Batavia,"March 24, 1896","March 24, 1896",U.S.,NY,East Pembroke,n/a,Residence of L. F. Lyman,L. F. Lyman,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_261,The Daily News Batavia,"November 11, 1892","November 9, 1892",U.S.,NY,East Pembroke,The Ladies' Aid Society of the Baptist Church,Parsonage,Miss Bertha Sailes; Miss Richardsonl Ina Rich; Carrie Riley,n/a,23.25$ USD,"""well attended""",y,,,NYS Historical Newspapers or Fulton
+R_262,The Daily News Batavia,"November 22, 1892",n/a,U.S.,NY,East Pembroke,n/a,n/a,n/a,n/a,61.05$ USD,n/a,n,Seems to be a difference event reference from R_261 despite the proximity,,NYS Historical Newspapers or Fulton
+R_263,The Daily News Batavia,15-Oct-82,9-Nov-82,U.S.,NY,East Pembroke,The Ladies' Aid Society,n/a,n/a,n/a,n/a,n/a,n,References the same event as R_261,,NYS Historical Newspapers or Fulton
+R_264,The Daily Palladium Oswego,"December 13, 1892","December 15, 1892",U.S.,NY,Southwest Oswego,The Young People of the M.E. Church,Grange Hall,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_265,The Dansville Express,"April 30, 1891","April 30, 1891",U.S.,NY,Dansville,The Ladies of the Presbyterian church,Residence of Mrs. F. G. Hall,Mrs. F. G. Hall,n/a,n/a,n/a,n,"(1) Interestingly this early CS says ""for the usual price"" and (2) also references a simultaeneous 'cobweb social' like other CS references",,NYS Historical Newspapers or Fulton
+R_266,The East Hampton Star,"November 18, 1898",n/a,U.S.,NY,n/a,n/a,n/a,n/a,n/a,n/a,n/a,y,The repeated quote about the invention of a clever woman and the description of the supper from the Chicago times,,NYS Historical Newspapers or Fulton
+R_267,The Elizabethtown Post,14-Jan-09,14-Jan-09,U.S.,NY,Elizabethtown,n/a,M.E. Church,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_268,The Elizabethtown Post,"November 23, 1893","November 21, 1893",U.S.,NY,Elizabethtown,n/a,M.E. Church,n/a,n/a,n/a,n/a,y,Long menu,,NYS Historical Newspapers or Fulton
+R_269,The Elmira Gazette,"February 22, 1893","February 24, 1893",U.S.,NY,Elmira,Y.P.B.C. of the First Baptist church,Church parlor,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_270,The Elmira Gazette,"October 26, 1892","October 27, 1892",U.S.,NY,Elmira,n/a,First M.E. Church,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_271,The Endicott Times,22-Apr-31,23-Apr-31,U.S.,NY,West Endicott,The Queen Esther's ,St. Paul's Methodist Episcopal Church,Rev. N.B. Graves,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_272,The Evening Gazette Port Jarvis,25-Apr-23,18-May-23,U.S.,NY,Montague,The Willing Workers,Basement of the Reformed Church,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_273,The Evening Gazette Port Jarvis,23-May-23,18-May-23,U.S.,NY,Montague,The Willing Workers,Basement of the Reformed Church,n/a,n/a,n/a,n/a,y,References the same event as R_272,,NYS Historical Newspapers or Fulton
+R_274,The Evening Journal Jamestown,24-Nov-00,1-Dec-00,U.S.,NY,Gerry,Christian Endeavor society,M.P. Parsonage,n/a,n/a,n/a,n/a,n,"""supper served on the European plan""",,NYS Historical Newspapers or Fulton
+R_275,The Freeman's Journal Cooperstown,18-Mar-14,13-Mar-14,U.S.,NY,Hartwick Seminary,Alumni Banquet Committee,Gymnasium,n/a,n/a,~25$ USD,n/a,n,,,NYS Historical Newspapers or Fulton
+R_276,The Freeman's Journal Cooperstown,27-Mar-12,22-Mar-12,U.S.,NY,Portlandville,The Ladies of the Christian Church,Church parlor,Carl Seeber; Slcia Strange; Dorothy Whitney; Blanch Tucker;,n/a,8$ USD,n/a,n,,,NYS Historical Newspapers or Fulton
+R_277,The Freeman's Journal Cooperstown,18-Nov-14,20-Nov-14,U.S.,NY,Westford,n/a,Baptist Church,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_278,The Fulton Patriot ,13-Oct-20,29-Oct-20,U.S.,NY,Whitaker Road,The Balcom circle,Residence of Mr. and Mrs. John Salsbury,Mr. and Mrs. John Salsbury,10 cents per dish,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_279,The Gilboa Monitor,"October 07, 1897","October 09, 1897",U.S.,NY,Gilboa,The Epworth League,M.E. Church of Grand Gorge,n/a,n/a,n/a,n/a,y,"Also called ""C.C."" and all the riddle dishes begin with the letter ""C""",,NYS Historical Newspapers or Fulton
+R_280,The Gloversville Daily Leader,17-Sep-00,18-Sep-00,U.S.,NY,Gloversville,n/a,"Y.W.C.A rooms, No. 82 North Main Street",n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_281,The Granville Sentinel,"December 02, 1898","November 25, 1898",U.S.,NY,Granville,The Junior Y.P.C.E. society of the Methodist church,Church parlor,n/a,10 cents,n/a,"""largely attended""",n,,,NYS Historical Newspapers or Fulton
+R_282,The Granville Sentinel,"January 13, 1893","January 12, 1893",U.S.,NY,Granville,The Y.P.C.E. Society of the Baptist church,Residence of Hiram Haskins,Hiram Haskins,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_283,The Granville Sentinel,"March 17, 1899","March 16, 1899",U.S.,NY,Easton,The Women of the Methodist Episcopal church,Residence of Mr. and Mrs. Howard D. Cornell,Mr. and Mrs. Howard D. Cornell; Rev. J.C. Mitchell,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_284,The Granville Sentinel,"March 30, 1894","March 31, 1894",U.S.,NY,Pawlet (Vermont),The Epworth League,Town Hall,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_285,The Journal and Republican and Lowville Times,11-Jan-12,12-Jan-12,U.S.,NY,Greig,(For the Trinity Chapel),Grange Hall,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_286,The Journal and Republican and Lowville Times,30-Nov-11,1-Dec-11,U.S.,NY,Beaver Falls,The Junior League of the Methodist church,Church,n/a,n/a,n/a,n/a,n,"""On the European plan""",,NYS Historical Newspapers or Fulton
+R_287,The Journal and Republican and Lowville Times,9-Jan-02,17-Jan-02,U.S.,NY,New Bremen,The Ladies of the M.E. society,Residence of N.B. Lombar,N.B. Lombar,25 cents,n/a,n/a,n,"Also called ""bean social""",,NYS Historical Newspapers or Fulton
+R_288,The Katonah Times,6-Feb-03,11-Feb-03,U.S.,NY,Katonah,The Social department of the Epworth League,Church hall,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_289,The Katonah Times,13-Feb-03,11-Feb-03,U.S.,NY,Katonah,The Social department of the Epworth League,Church hall,n/a,n/a,n/a,"""not largely attended""",n,References the same event as R_288,,NYS Historical Newspapers or Fulton
+R_290,The Katonah Times,20-Feb-03,11-Feb-03,U.S.,NY,Katonah,The Social department of the Epworth League,Church hall,n/a,n/a,n/a,"""not largely attended""",n,References the same event as R_288 and R_289,,NYS Historical Newspapers or Fulton
+R_291,The Long Island Farmer,4-Mar-02,27-Feb-02,U.S.,NY,Woodhaven/Ozone Park,The King's Daughters of the Congregational church,n/a,n/a,n/a,35$ USD,n/a,n,,,NYS Historical Newspapers or Fulton
+R_292,The Long Island Farmer,22-May-08,19-May-08,U.S.,NY,Morris Park,The Queen Esther Circle of the Methodist church,n/a,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_293,The Long-Islander Huntington,"July 30, 1892","August 1, 1892",U.S.,NY,Northport,The M.E. Sunday School,Union Hall,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_294,The Long-Islander Huntington,"June 24, 1893","June 29, 1893",U.S.,NY,Huntington,The Ladies of Huntington harbor,Lawn of Mrs. Ira B. Young,Mrs. Ira B. Young,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_295,The Malone Farmer,3-Dec-30,"~December 01, 1930",U.S.,NY,Fort Covington,The Members of the Women's Home Missionary Society of the Methodist Church,"Residence of Mr. and Mrs. Charles Smith, Convington street",Mr. and Mrs. Charles Smith; Mr. and Mrs. M. P. Merrick; Mrs. Grace Lockwood,n/a,n/a,n/a,n,"It doesn't appear that the menu itself was a CS menu, but it mentions that dinner was only served after the card conundrums placed on the tables were solved, appears to be another variation on the tradition",,NYS Historical Newspapers or Fulton
+R_296,The Malone Farmer,5-Dec-34,7-Dec-34,U.S.,NY,West Brandon/East Dickinson,The 4-H club,Residence of Mrs. Lannis Tuttle,Mrs. Lannis Tuttle,15 cents,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_297,The Malone Farmer,8-Mar-33,2-Mar-33,U.S.,NY,St. Regis Falls,The Epworth League,Church parlor,n/a,n/a,13.80$ USD,n/a,n,,,NYS Historical Newspapers or Fulton
+R_298,The Malone Farmer,24-Mar-09,24-Mar-09,U.S.,NY,Moira,The Epworth League,M.E. church vestry,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_299,The Malone Palladium,"April 14, 1898","April 15, 1898",U.S.,NY,Brushton,Y.P.S.C.E.,Basement of the M.E. church,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_300,The Malone Palladium,"December 07, 1893","December 08, 1893",U.S.,NY,Malone,(For the Good Templars),Residence of William McKenzie,William McKenzie,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_301,The Malone Palladium,"November 03, 1892","November 02, 1892",U.S.,NY,Chateaugay,The Young People's Society of Christian Endeavor of the M.E. Church,Parsonage,n/a,n/a,n/a,"""large""",y,,,NYS Historical Newspapers or Fulton
+R_302,The Marion Enterprise,"December 11, 1897","December 14, 1897",U.S.,NY,Marion,n/a,M.E. church,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_303,The Massena Observer St. Lawrence County,12-Nov-03,12-Nov-03,U.S.,NY,Massena,The Ladies of the Maccabees,Maccabee's Hall,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_304,The Mechanicville Mercury,"November 04, 1892","November 03, 1892",U.S.,NY,Mechanicville,The ladies of the Baptist church,Church,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_305,The Mechanicville Mercury,"September 29, 1893","October 3, 1893",U.S.,NY,Mechanicville,The Ladies' Aid Society,Methodist Church,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_306,The Medina Tribune,"December 01, 1892","December 02, 1892",U.S.,NY,Medina,n/a,Methodist Church,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_307,The Medina Tribune,"November 08, 1894","November 02, 1894",U.S.,NY,Medina,The Young Ladies of the Choir,Presbyterian Church,n/a,n/a,n/a,n/a,y,,,NYS Historical Newspapers or Fulton
+R_308,The Medina Tribune,"November 15, 1894","November 02, 1894",U.S.,NY,Medina,The Young Ladies of the Choir,Presbyterian Church,n/a,n/a,n/a,n/a,y,Provides the answers to the eBOF provided in R_307,,NYS Historical Newspapers or Fulton
+R_309,The New Rochelle Pioneer,"May 20, 1893","May 24, 1893",U.S.,NY,New Rochelle,The Ladies of the St. John's Methodist Episcopal Church,Church parlor,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_310,The New Rochelle Pioneer,"May 27, 1893","May 24, 1893",U.S.,NY,New Rochelle,The Ladies of the St. John's Methodist Episcopal Church,Church parlor,n/a,n/a,n/a,"""good attendance""",n,References the same event as R_309,,NYS Historical Newspapers or Fulton
+R_311,The Newark Courier,16-Feb-11,21-Feb-11,U.S.,NY,Newark,n/a,"Residence of George Shirley, 51 West Miller street",George Shirley,10 cents,n/a,n/a,n,"""A prize will be given for the best conundrum""",,NYS Historical Newspapers or Fulton
+R_312,The Newark Courier,"November 21, 1895","November 26, 1895",U.S.,NY,Newark,W.S.L. of the Universalist Church,Church parlor,n/a,n/a,n/a,n/a,n,"""European plan""",,NYS Historical Newspapers or Fulton
+R_313,The Northern Observer Massena,"April 12, 1893","April 17, 1893",U.S.,NY,Louisville,n/a,M.E. Church basement,n/a,25 cents,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_314,The Northern Observer Massena,"January 18, 1893","January 20, 1893",U.S.,NY,Helena,n/a,Residence of Dave Nevin,Dave Nevin,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_315,The Northern Tribune Gouverneur,"March 03, 1897","March 01, 1897",U.S.,NY,Gouverneur,The ladies of the Presbyterian Society,n/a,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_316,The Northern Tribune Gouverneur,"November 09, 1898","November 09, 1898",U.S.,NY,Gouverneur,The Ladies of the Maccabees,n/a,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_317,The Ogdensburg Advance and St. Lawrence Weekly Democrat,"August 06, 1896","August 06, 1896",U.S.,NY,Richville,The Good Templars,Merithew Hall,Rev. H.P. Forbes,n/a,n/a,n/a,n,Newspaper is highly corrupt,,NYS Historical Newspapers or Fulton
+R_318,The Ogdensburg Advance and St. Lawrence Weekly Democrat,"August 13, 1896","August 06, 1896",U.S.,NY,Richville,The Good Templars,Merithew Hall,Rev. H.P. Forbes; Rev. C. E. Witts; Horace White,n/a,n/a,n/a,n,References the same event as R_317,,NYS Historical Newspapers or Fulton
+R_319,The Ogdensburg Advance and St. Lawrence Weekly Democrat,21-Dec-11,15-Dec-11,U.S.,NY,Potsdam,Professor L.K. Russel,"Residence of Prof. L.K. Russel of the Tech, lawrence ave",Professor L.K. Russel,n/a,n/a,n/a,y,"Not a classical CS but a chemistry one, using conundrums from chemistry to describe menus. References the same event as R_125, R_195",,NYS Historical Newspapers or Fulton
+R_320,The Ogdensburg Advance and St. Lawrence Weekly Democrat,9-Feb-00,9-Feb-00,U.S.,NY,Helena,The Aid Society,School House hall,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_321,The Ogdensburg Advance and St. Lawrence Weekly Democrat,7-Mar-01,8-Mar-01,U.S.,NY,Depeyster,The Epworth League,n/a,n/a,n/a,n/a,n/a,n,Features prizes as well,,NYS Historical Newspapers or Fulton
+R_322,The Ogdensburg Advance and St. Lawrence Weekly Democrat,"November 04, 1897","October 29, 1897",U.S.,NY,Morristown,The Ladies' Altar Guild of Christ's Episcopal church,Chapman's Hall,n/a,n/a,n/a,"""well attended""",n,,,NYS Historical Newspapers or Fulton
+R_323,The Ogdensburg Journal,25-Feb-02,26-Feb-02,U.S.,NY,Ogdensburg,The Junior Endeavor Society of the Baptist Church,Church parlors,n/a,25 cents,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_324,The Ogdensburg Journal,26-Feb-02,26-Feb-02,U.S.,NY,Ogdensburg,The Junior Endeavor Society of the Baptist Church,Church parlors,n/a,25 cents,n/a,n/a,n,References the same event as R_323,,NYS Historical Newspapers or Fulton
+R_325,The Ogdensburg Journal,"January 24, 1899","January 31, 1899",U.S.,NY,Depeyster,The Young Ladies' Mission Circle,Residence of George Rounds,George Rounds,n/a,n/a,n/a,n,"References the same event as R_196 (2) Contains ""mite boxes"" that will be opened",,NYS Historical Newspapers or Fulton
+R_326,The Ogdensburg Journal,5-Mar-01,8-Mar-01,U.S.,NY,Depeyster,The Epworth League,Residence of J. Wesley Walker,J. Wesley Walker,n/a,n/a,n/a,n,References the same event as R_197,,NYS Historical Newspapers or Fulton
+R_327,The Ogdensburg Journal,"November 08, 1899","November 08, 1899",U.S.,NY,Ogdensburg,n/a,Baptist Church,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_328,The Ogdensburg Journal,"October10,1911","October14,1911",U.S.,NY,Morley,n/a,Grange Hall,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_329,The Ogdensburg Journal,11-Oct-10,21-Oct-10,U.S.,NY,Madrid,Madrid Grange No. 962,n/a,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_330,The Ogdensburg Journal,25-Oct-10,21-Oct-10,U.S.,NY,Madrid,Madrid Grange No. 962,n/a,Worthy Master Fulington; Mrs. B. Hesselgrave; Mrs. H. E. Partch,n/a,n/a,~30,n,References the same event as R_329,,NYS Historical Newspapers or Fulton
+R_331,The Ogdensburg Journal,21-Sep-09,6-Oct-09,U.S.,NY,Dekalb Junction,The Ladies' Missionary society of the Presbyterian church,Church parlors,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_332,The Plattsburgh Sentinel,"April 08, 1892","~April 08, 1892",U.S.,NY,Sarnac,n/a,n/a,n/a,n/a,~16$ USD,n/a,n,,,NYS Historical Newspapers or Fulton
+R_333,The Plattsburgh Sentinel,15-Apr-10,n/a,U.S.,NY,Plattsburgh,n/a,n/a,n/a,n/a,n/a,n/a,y,"(1) Not an actual event but details the CS practice with a menu and answers; (2) This section is also quoted in a CAnada newspaper that talks about another version of the church supper in which each dish is labled by states: ""different parts of Uncle Sam's domain""",,NYS Historical Newspapers or Fulton
+R_334,The Plattsburgh Sentinel,"February 05, 1892","February 05, 1892",U.S.,NY,Plattsburgh,The Ladies of the M.E. Church,Church parlors,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_335,The Plattsburgh Sentinel,"February 19, 1892","February 26, 1892",U.S.,NY,Plattsburgh,The Ladies' Aid Society of the First Congregational church of Peru,Residence of Mr. F. C. Cate,Mr. F. C. Cate,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_336,The Plattsburgh Sentinel,"January 15, 1892","January 22, 1892",U.S.,NY,Mooers,The Ladies' Aid Society of the M.E. church,Church parlors,n/a,20 cents,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_337,The Plattsburgh Sentinel,"March 11, 1892","March 17, 1892",U.S.,NY,Mooers,The M.E. Church Society of Mooers Forks,Town Hall,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_338,The Plattsburgh Sentinel,3-May-07,26-Apr-07,U.S.,NY,West Chazy,The Young Men of the Epworth League,Residence of R. H. Carroll,R. H. Carroll,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_339,The Plattsburgh Sentinel,9-Nov-00,9-Nov-00,U.S.,NY,Isle La Motte,The Ladies' Home Missionary Society,Vestry,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_340,The Pokeepsie Evening Enterprise,28-Apr-03,29-Apr-03,U.S.,NY,Pokeepsie,Y.P.S.C.E. of the Ebenezer Baptist church,226 Union Street,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_341,The Port Jervis Union,"May 13, 1892","May 17, 1892",U.S.,NY,Matamoras,The United Chrisitan Workers/ The young ladies of the Evangelical church,Residence of Mr. and Mrs. Nate Smith,Mr. and Mrs. Nate Smith,15 cents,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_342,The Port Jervis Union,"May 15, 1892","May 17, 1892",U.S.,NY,Matamoras,The United Chrisitan Workers/ The young ladies of the Evangelical church,Residence of Mr. and Mrs. Nate Smith,Mr. and Mrs. Nate Smith,15 cents,n/a,n/a,n,References the same event as R_341,,NYS Historical Newspapers or Fulton
+R_343,The Port Jervis Union,"May 18, 1892","May 17, 1892",U.S.,NY,Matamoras,The United Chrisitan Workers of the Hope Evangelical church/ The young ladies of the Evangelical church,Residence of Mr. and Mrs. Nate Smith,Mr. and Mrs. Nate Smith,15 cents,19$ USD,n/a,n,References the same event as R_341 and R_342,,NYS Historical Newspapers or Fulton
+R_344,The Port Jervis Union,22-May-23,18-May-23,U.S.,NY,Port Jervis,The Willing Workers of the Church,Reformed Church basement,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_345,The Post Ellicottville,14-Oct-08,31-Oct-08,U.S.,NY,Five Points,The Grange,Residence of Joe Schuppenhauer,Joe Schuppenhauers,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_346,The Post Ellicottville,"September 22, 1897","September 23, 1897",U.S.,NY,Delevan,Grace Hive I.O.T.M.,Tempest hall,n/a,free,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_347,The Potsdam Herald-recorder,19-Mar-09,30-Mar-09,U.S.,NY,North Stockholm,n/a,Residence of Hermon A. Lewis,Hermon A. Lewis,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_348,The Rushville Chronicle,22-Feb-07,22-Feb-07,U.S.,NY,Benton Center,The Ladies' Aid Society of the Baptist church,Church parlors,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_349,The Suffolk County News Sayville,"October 18, 1895","October 11, 1895",U.S.,NY,Patchogue,The Ladies of the Congregational Aid society,Church,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_350,The Sun New York,"April 24, 1893",n/a,U.S.,NY,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n,Joke about CS from the Buffalo Courier,,NYS Historical Newspapers or Fulton
+R_351,The Watertown Herald,25-Feb-05,24-Feb-05,U.S.,NY,Copenhagen,The Epworth League Society of the M.E. church,Church parlors,n/a,n/a,n/a,n/a,n,A Washington birthday social - more Americanesque,,NYS Historical Newspapers or Fulton
+R_352,The Watertown Herald,"October 31, 1891","November 05, 1891",U.S.,NY,LaFargeville,The Ladies,Lingenfelters Hall,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_353,The Whitesville News,"December 12, 1895","December 13, 1895",U.S.,NY,Harrison Valley,The Ladies of the Methodist church,Parsonage,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_354,The Whitesville News,12-Mar-03,6-Mar-03,U.S.,NY,Greenwood,The Ladies of the Christian Church,Residence of Denzel Freeland,Denzel Freeland,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_355,The Wyoming County Herald,25-Nov-10,"~November 24, 1910",U.S.,NY,Java,n/a,n/a,n/a,n/a,n/a,90,n,,,NYS Historical Newspapers or Fulton
+R_356,Ticonderoga Sentinel,23-Nov-16,24-Nov-16,U.S.,NY,Crown Point,The Shining Light club,Chapel,n/a,25 cents,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_357,Ticonderoga Sentinel,30-Nov-16,24-Nov-16,U.S.,NY,Crown Point,The Shining Light club,Chapel,n/a,25 cents,n/a,n/a,n,References the same event as R_356,,NYS Historical Newspapers or Fulton
+R_358,Ticonderoga Sentinel,"October 06, 1892","~October 05, 1892",U.S.,NY,Crown Point,n/a,n/a,n/a,n/a,~18$ USD,"""few""",n,,,NYS Historical Newspapers or Fulton
+R_359,Ticonderoga Sentinel,13-Oct-27,26-Oct-27,U.S.,NY,Crown Point,The Mary Elizabeth class,M.E. church Social hall,n/a,n/a,n/a,n/a,n,"""and stocking social""",,NYS Historical Newspapers or Fulton
+R_360,Ticonderoga Sentinel,"October 27, 1892","November 2, 1892",U.S.,NY,Ticonderoga,n/a,n/a,n/a,n/a,n/a,n/a,n,"Also mentions an ""animated library""",,NYS Historical Newspapers or Fulton
+R_361,Tri-states Union Port Jervis,"April 06, 1899","April 03, 1899",U.S.,NY,Montague,The Ladies' Aid of the Reformed Church,n/a,n/a,n/a,18$ USD,n/a,n,,,NYS Historical Newspapers or Fulton
+R_362,Tri-states Union Port Jervis,29-Feb-12,23-Feb-12,U.S.,NY,Montague,The Ladies' Aid of the M.E. Church,Residence of Mrs. Jas. A. Rundle,Mrs. Jas. A. Rundle,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_363,Tri-states Union Port Jervis,"March 30, 1899","April 7, 1899",U.S.,NY,Montague,The Ladies' Aid of the Reformed Church,n/a,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_364,Tri-states Union Port Jervis,"May 19, 1892","May 17, 1892",U.S.,NY,Matamoras,The United Chrisitan Workers/ The young ladies of the Evangelical church,Residence of Mr. and Mrs. Nate Smith,Mr. and Mrs. Nate Smith,15 cents,n/a,n/a,n,"References the same event as R_341, R_342, R_343",,NYS Historical Newspapers or Fulton
+R_365,Tri-states Union Port Jervis,8-Nov-00,2-Nov-00,U.S.,NY,Galilee,The Epworth League,n/a,n/a,n/a,n/a,"""well attended""",n,,,NYS Historical Newspapers or Fulton
+R_366,Watertown Re-union,27-Dec-02,2-Jan-03,U.S.,NY,Sanfords Corners,The Sunday school class No. 7,Residence of Francis Herrick,Francis Herrick,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_367,Watertown Re-union,"February 10, 1892","February 10, 1892",U.S.,NY,Plessis,The young people,M. Church prayer room,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_368,Watertown Re-union,11-Mar-08,13-Mar-08,U.S.,NY,Plessis,The M.E. Ladies' Aid society,Residence of Mrs. B. Ostrander,Mrs. B. Ostrander,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_369,Watertown Re-union,17-Mar-00,20-Mar-00,U.S.,NY,Barnes Corners,The Grangers of the Villiage,Grange hall,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_370,Watertown Re-union,"May 30, 1896","May 23, 1896",U.S.,NY,Barnes Corners,The Grangers of the Villiage,Grange hall,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_371,Watertown Re-union,7-Nov-14,2-Nov-14,U.S.,NY,Chaumont,The men's social,Independent Order of Odd Fellows dining room,n/a,n/a,~15.5$ USD,"""largely attended""",n,,,NYS Historical Newspapers or Fulton
+R_372,Watertown Times,"December 02, 1891","December 01, 1891",U.S.,NY,Watertown,The ladies of the Grace church,"Residence of Mrs. Eilas Cooper, Clinton street",Mrs. Elias Cooper,n/a,n/a,n/a,y,Offers an explanation of the menu with an eBOF and solutions.,,NYS Historical Newspapers or Fulton
+R_373,Watertown Times,"November 03, 1891","November 05, 1891",U.S.,NY,LaFargeville,n/a,Lingenfelters Hall,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_374,Watertown Times,"November 10, 1891","November 05, 1891",U.S.,NY,LaFargeville,n/a,Lingenfelters Hall,n/a,n/a,~37$ USD,n/a,n,References the same event as R_373,,NYS Historical Newspapers or Fulton
+R_375,Westfield Republican,"February 15, 1893","February 17, 1893",U.S.,NY,Westfield,n/a,M.E. Church,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_376,Westfield Republican,20-Feb-07,"~February 19, 1907",U.S.,NY,Westfield,n/a,n/a,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_377,Westfield Republican,10-May-05,13-May-05,U.S.,NY,Westfield,The Ladies Auxiliary of the West Portland cemetery,Odd Fellows' Hall,n/a,n/a,n/a,n/a,n,,,NYS Historical Newspapers or Fulton
+R_378,Westfield Republican,17-May-05,13-May-05,U.S.,NY,Westfield,The Ladies Auxiliary of the West Portland cemetery,Odd Fellows' Hall,n/a,n/a,25$ USD,n/a,n,References the same event as R_377,,NYS Historical Newspapers or Fulton
+R_379,Wyoming County Times Warsaw,"April 12, 1894","April 3, 1894",U.S.,NY,Lamont,The Endeavor club,n/a,n/a,n/a,10$ USD,n/a,n,,,NYS Historical Newspapers or Fulton
+R_380,Wyoming County Times Warsaw,5-Feb-08,31-Jan-08,U.S.,NY,Dale,n/a,Residence of Mr. and Mrs. Henry Sierk,Mr. and Mrs. Henry Sierk; Miss Blanche Choate; Mary Sierk; Glenna Mallison; Anna Mallison; Mrs. Florence Thomson; Florence Chase,n/a,n/a,~73,n,,,NYS Historical Newspapers or Fulton
+R_381,Wyoming County Times Warsaw,"March 17, 1892","March 11, 1892",U.S.,NY,North Java,n/a,Lockwood hall,Miss Nettie Torrey; Miss Almy Torrey; Guy Merville; ,n/a,n/a,n/a,y,,,NYS Historical Newspapers or Fulton
+R_382,Westfield Republican,"February 8, 1893","February 17, 1893",U.S.,NY,Westfield,n/a,M.E. Church,n/a,n/a,n/a,n/a,n,References the same event as R_375,,NYS Historical Newspapers or Fulton
