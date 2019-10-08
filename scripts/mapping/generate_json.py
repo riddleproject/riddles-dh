@@ -43,8 +43,8 @@ def make_json(row):
 
 	# The conundrum event took place in [LOCATION], as advertised by [NEWSPAPER] on [DATE]. ([ARCHIVE])
 	description = 'The conundrum event took place in <strong>' + str(row['Location']) +\
-				  '</strong>, as advertised by <strong>' + row['Newspaper'] + '</strong> on <strong>' +\
-				  '</strong>. ' + row['Archive']
+				  '</strong>, as advertised by <strong>' + row['Newspaper'] + '</strong> on <strong>' +row['Date'].strftime('%B %d, %Y')+\
+				  '</strong>. ' + row['Archive'] + "."
 	
 	body = {
 		"type": "Feature",
