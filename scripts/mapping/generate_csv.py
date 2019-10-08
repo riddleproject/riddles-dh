@@ -1,3 +1,5 @@
+# combine 5 csvs together containing data, clean up the csvs, and generate a set of coordinates for the csv
+
 import pandas as pd
 import json
 from datetime import datetime

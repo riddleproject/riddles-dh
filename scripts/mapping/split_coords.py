@@ -1,3 +1,5 @@
+# split coordinates from original CSV into two columns and add them to the CSV
+
 import pandas as pd
 import numpy as np
 
@@ -7,29 +9,17 @@ meta=meta.dropna(axis=1,how='all')
 
 def make_coord(coord, archive):
 	if coord is np.nan or coord is None:
-		return None
+		return None,None
 	coordinates = (coord[:-1])[1:].split(',')
 	coordinates = [float(coord) for coord in coordinates]
 	if (coordinates[0] > -10):
 		if archive != 'British Newspaper Archives':
-			return None
+			return None,None
 	if (coordinates[1] < 15):
-		return None
-	return [coordinates[1], coordinates[0]]
+		return None,None
+	return (coordinates[1], coordinates[0])
 
-latitudes = []
-longitudes = []
-for x, y in zip(meta['Coordinates'],meta['Archive']):
-	coords = make_coord(x,y)
-	if coords is None:
-		latitudes.append(None)
-		longitudes.append(None)
-		continue
-	latitudes.append(coords[0])
-	longitudes.append(coords[1])
-
-meta['Latitude'] = latitudes
-meta['Longitude'] = longitudes
+meta['Latitude'], meta['Longitude'] = zip(*meta.apply(lambda row: make_coord(row['Coordinates'],row['Archive']), axis=1).tolist())
 
 del meta['Coordinates']
 

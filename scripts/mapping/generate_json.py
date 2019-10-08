@@ -1,9 +1,11 @@
+# convert csv of geo data into a geojson file encoding the same information
+
 import json
 import pandas as pd
 from datetime import datetime
 import numpy as np
 
-meta = pd.read_csv("/Users/ndrezn/OneDrive - McGill University/Github/riddles-project/workset/mapping/new/complete_W.csv")
+meta = pd.read_csv("/Users/ndrezn/OneDrive - McGill University/Github/riddles-project/workset/mapping/new/complete.csv")
 
 meta = meta.dropna(subset=['Coordinates', 'Date'])
 
@@ -38,8 +40,11 @@ def make_json(row):
 	
 	host = str(row['Organization_Hosting'])
 
-	description = 'This conundrum from ' + str(row['Archive']) + ' was published in <strong>' + str(row['Location']) +\
-				  '</strong> by <strong>' + str(row['Newspaper']).title() + "</strong> on <strong>" + str(date.strftime('%B %d, %Y')) + "</strong>."
+
+	# The conundrum event took place in [LOCATION], as advertised by [NEWSPAPER] on [DATE]. ([ARCHIVE])
+	description = 'The conundrum event took place in <strong>' + str(row['Location']) +\
+				  '</strong>, as advertised by <strong>' + row['Newspaper'] + '</strong> on <strong>' +\
+				  '</strong>. ' + row['Archive']
 	
 	body = {
 		"type": "Feature",
