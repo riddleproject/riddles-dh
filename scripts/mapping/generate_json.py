@@ -39,12 +39,14 @@ def make_json(row):
 	date = row['Date']
 	
 	host = str(row['Organization_Hosting'])
-
+	archive = row['Archive']
+	if 'LOC' in archive:
+		archive = 'Chronicling America'
 
 	# The conundrum event took place in [LOCATION], as advertised by [NEWSPAPER] on [DATE]. ([ARCHIVE])
-	description = 'The conundrum event took place in <strong>' + str(row['Location']) +\
-				  '</strong>, as advertised by <strong>' + row['Newspaper'] + '</strong> on <strong>' +row['Date'].strftime('%B %d, %Y')+\
-				  '</strong>. ' + row['Archive'] + "."
+	description = 'The Conundrum Event took place in <strong>' + str(row['Location']) +\
+				  '</strong>, as advertised by <strong>' + row['Newspaper'].title() + '</strong> on <strong>' +row['Date'].strftime('%B %d, %Y')+\
+				  '</strong>. (' + archive + ")"
 	
 	body = {
 		"type": "Feature",
