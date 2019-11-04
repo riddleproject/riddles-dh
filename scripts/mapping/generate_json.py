@@ -5,7 +5,7 @@ import pandas as pd
 from datetime import datetime
 import numpy as np
 
-meta = pd.read_csv("/Users/ndrezn/OneDrive - McGill University/Github/riddles-project/workset/mapping/new/complete.csv")
+meta = pd.read_csv("/Users/ndrezn/OneDrive - McGill University/Github/riddles-project/workset/mapping/new/Complete_Menus_Oct29.csv")
 
 meta = meta.dropna(subset=['Coordinates', 'Date'])
 
@@ -43,11 +43,19 @@ def make_json(row):
 	if 'LOC' in archive:
 		archive = 'Chronicling America'
 
+	has_menu = 0
+	if row['MENU'] is not np.nan:
+		has_menu = 1
+
 	# The conundrum event took place in [LOCATION], as advertised by [NEWSPAPER] on [DATE]. ([ARCHIVE])
+	
 	description = 'The Conundrum Event took place in <strong>' + str(row['Location']) +\
 				  '</strong>, as advertised by <strong>' + row['Newspaper'].title() + '</strong> on <strong>' +row['Date'].strftime('%B %d, %Y')+\
 				  '</strong>. (' + archive + ")"
-	
+	if has_menu:
+		description = 'The Conundrum Event took place in <strong>' + str(row['Location']) +\
+				  '</strong>, as advertised by <strong>' + row['Newspaper'].title() + '</strong> on <strong>' +row['Date'].strftime('%B %d, %Y')+\
+				  '</strong>.<br><br>The menu for the event is: '+ str(row['MENU']) + ' (' + archive + ")"
 	body = {
 		"type": "Feature",
 		"properties": {
@@ -58,6 +66,7 @@ def make_json(row):
 			'Comments': str(row['Notes']),
 			"Year": date.year,
 			"Type": type_to_int(row['Archive']),
+			'has_menu': has_menu,
 			'description': str(description)
 		},
 		"geometry":
