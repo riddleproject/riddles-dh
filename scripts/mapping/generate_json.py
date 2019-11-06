@@ -5,7 +5,7 @@ import pandas as pd
 from datetime import datetime
 import numpy as np
 
-meta = pd.read_csv("/Users/ndrezn/OneDrive - McGill University/Github/riddles-project/workset/mapping/new/Complete_Menus_Oct29.csv")
+meta = pd.read_csv("/Users/ndrezn/OneDrive - McGill University/Github/riddles-project/workset/mapping/new/Complete_Menus.csv")
 
 meta = meta.dropna(subset=['Coordinates', 'Date'])
 
@@ -15,14 +15,14 @@ meta = meta.sort_values(by=['Archive'])
 
 def type_to_int(string):
 	types = ['BAnQ', 'British Columbia Historical Newspapers','British Newspaper Archives','LOC Conundrum Social',\
-			"LOC Conundrum Supper", "LOC Conundrum Tea", 'NYS Historical Newspapers or Fulton']
+			"LOC Conundrum Supper", "LOC Conundrum Tea", 'NYS Historical Newspapers or Fulton', 'Enigmatic Bill of Fare']
 	return types.index(string)
 
 def make_coord(coord, archive):
 	coordinates = (coord[:-1])[1:].split(',')
 	coordinates = [float(coord) for coord in coordinates]
 	if (coordinates[0] > -10):
-		if archive != 'British Newspaper Archives':
+		if archive not in ['British Newspaper Archives', 'Enigmatic Bill of Fare']:
 			return None
 	if (coordinates[1] < 15):
 		return None
@@ -50,11 +50,11 @@ def make_json(row):
 	# The conundrum event took place in [LOCATION], as advertised by [NEWSPAPER] on [DATE]. ([ARCHIVE])
 	
 	description = 'The Conundrum Event took place in <strong>' + str(row['Location']) +\
-				  '</strong>, as advertised by <strong>' + row['Newspaper'].title() + '</strong> on <strong>' +row['Date'].strftime('%B %d, %Y')+\
-				  '</strong>. (' + archive + ")"
+				  '</strong>, as advertised by <strong>' + str(row['Newspaper']).title() + '</strong> on <strong>' +row['Date'].strftime('%B %d, %Y')+\
+				  '</strong>. (' + str(archive) + ")"
 	if has_menu:
 		description = 'The Conundrum Event took place in <strong>' + str(row['Location']) +\
-				  '</strong>, as advertised by <strong>' + row['Newspaper'].title() + '</strong> on <strong>' +row['Date'].strftime('%B %d, %Y')+\
+				  '</strong>, as advertised by <strong>' + str(row['Newspaper']).title() + '</strong> on <strong>' +row['Date'].strftime('%B %d, %Y')+\
 				  '</strong>.<br><br>The menu for the event is: '+ str(row['MENU']) + ' (' + archive + ")"
 	body = {
 		"type": "Feature",
