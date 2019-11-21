@@ -34,7 +34,7 @@ meta['Coordinates'] = meta.apply(lambda row: make_coord(row['Coordinates'],row['
 meta = meta.dropna(subset=['Coordinates', 'Date'])
 
 
-def make_json(row):
+def make_json(row, i):
 	coordinates = row['Coordinates']
 	date = row['Date']
 	
@@ -49,13 +49,15 @@ def make_json(row):
 
 	# The conundrum event took place in [LOCATION], as advertised by [NEWSPAPER] on [DATE]. ([ARCHIVE])
 	
-	description = 'The Conundrum Event took place in <strong>' + str(row['Location']) +\
+	description = '<div style=\'background-color:"#F5F5DC"\'>The Conundrum Event took place in <strong>' + str(row['Location']) +\
 				  '</strong>, as advertised by <strong>' + str(row['Newspaper']).title() + '</strong> on <strong>' +row['Date'].strftime('%B %d, %Y')+\
-				  '</strong>. (' + str(archive) + ")"
+				  '</strong>. (' + str(archive) + ")</div>"
 	if has_menu:
-		description = 'The Conundrum Event took place in <strong>' + str(row['Location']) +\
+		description = '<div style=\'background-color:"#F5F5DC"\'>The Conundrum Event took place in <strong>' + str(row['Location']) +\
 				  '</strong>, as advertised by <strong>' + str(row['Newspaper']).title() + '</strong> on <strong>' +row['Date'].strftime('%B %d, %Y')+\
-				  '</strong>.<br><br>The menu for the event is: '+ str(row['MENU']) + ' (' + archive + ")"
+				  '</strong>.' +\
+				 "<div id=\"menu"+i+"\" style='display:none'><br><br>" + str(row['MENU']) + "</div>"+\
+				 "<br><br><a href=# onclick=\"showHideMenu('menu"+i+"', 'button"+i+"')\" id='button"+i+"'>Show menu</a></div>"
 	body = {
 		"type": "Feature",
 		"properties": {
@@ -79,8 +81,8 @@ def make_json(row):
 	return body
 
 jsons = []
-for index,row in meta.iterrows():
-	jsons.append(make_json(row))
+for i,row in meta.iterrows():
+	jsons.append(make_json(row, str(i)))
 
 
 final = {
