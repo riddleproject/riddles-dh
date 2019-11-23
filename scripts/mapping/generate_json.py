@@ -5,17 +5,14 @@ import pandas as pd
 from datetime import datetime
 import numpy as np
 
-meta = pd.read_csv("/Users/ndrezn/OneDrive - McGill University/Github/riddles-project/workset/mapping/new/Complete_Menus.csv")
+meta = pd.read_csv("/Users/ndrezn/OneDrive - McGill University/Github/riddles-project/workset/mapping/Complete_Menus.csv")
+meta = meta.dropna(subset=['Coordinates', 'Newspaper Issue Date'])
 
-meta = meta.dropna(subset=['Coordinates', 'Date'])
-
-meta['Date'] = [datetime.strptime(str(date), '%B %d, %Y') for date in meta['Date']]
 
 meta = meta.sort_values(by=['Archive'])
 
 def type_to_int(string):
-	types = ['BAnQ', 'British Columbia Historical Newspapers','British Newspaper Archives','LOC Conundrum Social',\
-			"LOC Conundrum Supper", "LOC Conundrum Tea", 'NYS Historical Newspapers or Fulton', 'Enigmatic Bill of Fare']
+	types = list(meta['Archive'].unique())
 	return types.index(string)
 
 def make_coord(coord, archive):
@@ -30,13 +27,12 @@ def make_coord(coord, archive):
 
 meta['Coordinates'] = meta.apply(lambda row: make_coord(row['Coordinates'],row['Archive']), axis=1)
 
-
-meta = meta.dropna(subset=['Coordinates', 'Date'])
+meta = meta.dropna(subset=['Coordinates', 'Newspaper Issue Date'])
 
 
 def make_json(row, i):
 	coordinates = row['Coordinates']
-	date = row['Date']
+	date = row['Newspaper Issue Date']
 	
 	host = str(row['Organization_Hosting'])
 	archive = row['Archive']
@@ -50,11 +46,11 @@ def make_json(row, i):
 	# The conundrum event took place in [LOCATION], as advertised by [NEWSPAPER] on [DATE]. ([ARCHIVE])
 	
 	description = '<div style=\'background-color:"#F5F5DC"\'>The Conundrum Event took place in <strong>' + str(row['Location']) +\
-				  '</strong>, as advertised by <strong>' + str(row['Newspaper']).title() + '</strong> on <strong>' +row['Date'].strftime('%B %d, %Y')+\
+				  '</strong>, as advertised by <strong>' + str(row['Newspaper']).title() + '</strong> on <strong>' +date+\
 				  '</strong>. (' + str(archive) + ")</div>"
 	if has_menu:
 		description = '<div style=\'background-color:"#F5F5DC"\'>The Conundrum Event took place in <strong>' + str(row['Location']) +\
-				  '</strong>, as advertised by <strong>' + str(row['Newspaper']).title() + '</strong> on <strong>' +row['Date'].strftime('%B %d, %Y')+\
+				  '</strong>, as advertised by <strong>' + str(row['Newspaper']).title() + '</strong> on <strong>' +date+\
 				  '</strong>.' +\
 				 "<div id=\"menu"+i+"\" style='display:none'><br><br>" + str(row['MENU']) + "</div>"+\
 				 "<br><br><a href=# onclick=\"showHideMenu('menu"+i+"', 'button"+i+"')\" id='button"+i+"'>Show menu</a></div>"
@@ -66,7 +62,7 @@ def make_json(row, i):
 			"Host": str(host),
 			"Location": str(row['Location']),
 			'Comments': str(row['Notes']),
-			"Year": date.year,
+			"Year": datetime.strptime(str(date), '%B %d, %Y').year,
 			"Type": type_to_int(row['Archive']),
 			'has_menu': has_menu,
 			'description': str(description)
