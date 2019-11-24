@@ -13,6 +13,7 @@ meta = meta.sort_values(by=['Archive'])
 
 def type_to_int(string):
 	types = list(meta['Archive'].unique())
+	print(types)
 	return types.index(string)
 
 def make_coord(coord, archive):
