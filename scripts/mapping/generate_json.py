@@ -5,7 +5,7 @@ import pandas as pd
 from datetime import datetime
 import numpy as np
 
-meta = pd.read_csv("/Users/ndrezn/OneDrive - McGill University/Github/riddles-project/workset/mapping/Complete_Menus.csv")
+meta = pd.read_csv("/Users/ndrezn/OneDrive - McGill University/Github/riddles-dh/workset/mapping/Complete_Menus.csv")
 meta = meta.dropna(subset=['Coordinates', 'Newspaper Issue Date'])
 
 
@@ -13,7 +13,6 @@ meta = meta.sort_values(by=['Archive'])
 
 def type_to_int(string):
 	types = list(meta['Archive'].unique())
-	print(types)
 	return types.index(string)
 
 def make_coord(coord, archive):
@@ -53,7 +52,7 @@ def make_json(row, i):
 		description = '<div style=\'background-color:"#F5F5DC"\'>The Conundrum Event took place in <strong>' + str(row['Location']) +\
 				  '</strong>, as advertised by <strong>' + str(row['Newspaper']).title() + '</strong> on <strong>' +date+\
 				  '</strong>.' +\
-				 "<div id=\"menu"+i+"\" style='display:none'><br><br>" + str(row['MENU']) + "</div>"+\
+				 "<div id=\"menu"+i+"\" style='display:none; overflow-y: auto;' ><br><br>" + str(row['MENU']) + "</div>"+\
 				 "<br><br><a href=# onclick=\"showHideMenu('menu"+i+"', 'button"+i+"')\" id='button"+i+"'>Show menu</a></div>"
 	body = {
 		"type": "Feature",
@@ -88,6 +87,6 @@ final = {
   }
 
 
-path = "/Users/ndrezn/OneDrive - McGill University/Github/nathaliecookehathi.github.io/data.geojson"
+path = "/Users/ndrezn/OneDrive - McGill University/Github/riddleproject.github.io/data.geojson"
 with open(path, 'w') as outfile:
 	json.dump(final, outfile)
