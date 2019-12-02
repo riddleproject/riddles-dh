@@ -49,11 +49,11 @@ def make_json(row, i):
 				  '</strong>, as advertised by <strong>' + str(row['Newspaper']).title() + '</strong> on <strong>' +date+\
 				  '</strong>. (' + str(archive) + ")</div>"
 	if has_menu:
-		description = '<div style=\'background-color:"#F5F5DC"\'>The Conundrum Event took place in <strong>' + str(row['Location']) +\
+		description = '<div style="overflow-y: auto;""><div style=\'background-color:"#F5F5DC"\'>The Conundrum Event took place in <strong>' + str(row['Location']) +\
 				  '</strong>, as advertised by <strong>' + str(row['Newspaper']).title() + '</strong> on <strong>' +date+\
 				  '</strong>.' +\
-				 "<div id=\"menu"+i+"\" style='display:none; overflow-y: auto;' ><br><br>" + str(row['MENU']) + "</div>"+\
-				 "<br><br><a href=# onclick=\"showHideMenu('menu"+i+"', 'button"+i+"')\" id='button"+i+"'>Show menu</a></div>"
+				 "<div id=\"menu"+i+"\" style='display:'block';'><br><br>" + str(row['MENU']) + "</div>"+\
+				 "<br><br><a href=# onclick=\"showHideMenu('menu"+i+"', 'button"+i+"')\" id='button"+i+"'>Show menu</a></div></div>"
 	body = {
 		"type": "Feature",
 		"properties": {
