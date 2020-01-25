@@ -1,0 +1,292 @@
+,Unnamed: 0,UN,Riddle,Answer,BOFs containing riddle,Number of times used,Dish,Notes,Hints,BOF_Appearance_Number
+0,0,UR_1,The Ornamental part of the Head,Hare (Hair),BOF_13; BOF_1; BOF_2; Y3202620781; DX1901678851; BB3206029243; BA3200055553; Y3200665511; DX1901245378; BOF_8; BOF_9; BOF_12; BOF_14; ,,Main / Second / Vegetables,,,13.0
+1,1,UR_2,The Divine / Immortal Part of Man (Boiled / Fried),Heart / Sole,BOF_13; BOF_2; BOF_6; BOF_7; Y3202620781; U0108582201; CW0124558740; DX1901678851; Z2001239391; BB3206029243; CEMMIP364981254; Y3200665511; DX1901245378; CW0114771776; BOF_8; BOF_9; BOF_10; BOF_14; BOF_15; BOF_16; BOF_17; BOF_18; BOF_19; ,,Main / Second / Vegetables,,,23.0
+2,2,UR_3,A Tailor's Implement / Iron / Tool / Weapon / Practice(?) / Prerequisites,Goose,BOF_13; BOF_1; GT3016100102; CKUEYG670970773; GT3012297379; HJVZYZ447202786; GT3003085809; BOF_11; BOF_12; BOF_14; ,,Main / Second / Vegetables,,,10.0
+3,3,UR_4,A Blockhead (Hashed),Calves-Head,BOF_13; BOF_1; BOF_2; BOF_7; CW0124558740; DX1901678851; Z2001239391; DX1901245378; CW0114771776; BOF_9; BOF_10; BOF_15; BOF_16; BOF_17; BOF_18; BOF_19; ,,Main / Second / Vegetables,,,16.0
+4,4,UR_5,The Grand Seignors Dominions,Turkey,BOF_13; BOF_1; BOF_2; BOF_6; BOF_7; Y3202620781; U0108582201; CW0124558740; DX1901678851; Z2001239391; BB3206029243; CEMMIP364981254; Y3200665511; DX1901245378; CW0114771776; BOF_8; BOF_9; BOF_10; BOF_11; BOF_12; BOF_14; BOF_15; BOF_16; BOF_17; BOF_18; BOF_19; ,,Main / Second / Vegetables,,,26.0
+5,5,UR_6,A Lean Wife,Spare-Rib,BOF_13; BOF_1; BOF_2; Y3202620781; U0108582201; CKUEYG670970773; DX1901678851; BB3206029243; HJVZYZ447202786; CEMMIP364981254; Y3200665511; DX1901245378; BOF_8; BOF_9; BOF_14; ,,Main / Second / Vegetables,,,15.0
+6,6,UR_7,An Unruly Member (garnished with perpetual motion),Tongue (currant?),BOF_13; BOF_2; BOF_7; U0108582201; Z2001239391; BB3206029243; BA3200055553; CEMMIP364981254; Y3200665511; DX1901245378; CW0114771776; BOF_8; BOF_9; BOF_10; BOF_14; BOF_15; BOF_16; BOF_17; BOF_18; BOF_19; ,,Main / Second / Vegetables,,,20.0
+7,7,UR_8,A Sign of the Zodiac (buttered),Fish / Buttered Crab,BOF_13; BOF_1; BOF_2; BOF_6; BOF_7; Y3202620781; U0108582201; CW0124558740; DX1901678851; Z2001239391; BB3206029243; CEMMIP364981254; Y3200665511; DX1901245378; CW0114771776; BOF_8; BOF_9; BOF_10; BOF_14; BOF_15; BOF_16; BOF_17; BOF_18; BOF_19; ,,Main / Second / Vegetables,,,24.0
+8,8,UR_9,"The Earth, and a thing of Small Value",Ground-nut,BOF_13; ,,Main / Second / Vegetables,,,1.0
+9,9,UR_10,A Tailor's Plunder / Delight,Cabbage,BOF_13; BOF_2; DX1901678851; BB3206029243; Y3200665511; DX1901245378; BOF_8; BOF_9; BOF_14; ,,Main / Second / Vegetables,,,9.0
+10,10,UR_11,"A Dish made of Indian Corn, and Several Apartments in a House",Mushrooms,BOF_13; ,,Main / Second / Vegetables,,,1.0
+11,11,UR_12,"Equal in Number, and Odd Ends",Parsnips,BOF_13; BOF_1; BOF_14; ,,Main / Second / Vegetables,,,3.0
+12,12,UR_13,"An Iron Vessel, and Eight / Two Ciphers",Potatoes,BOF_13; BOF_1; BOF_14; ,,Main / Second / Vegetables,,,3.0
+13,13,UR_14,Marks of Contempt,Turnips,BOF_13; BOF_14; ,,Main / Second / Vegetables,,,2.0
+14,14,UR_15,"The Work of a Spider, and Long Life / Old Age",Spinach,BOF_13; BOF_1; BOF_14; ,,Main / Second / Vegetables,,,3.0
+15,15,UR_16,A Thing of No Consequence / Something Hardly Worth a Thought,Trifle,BOF_13; BOF_1; BOF_2; Y3202620781; U0108582201; CKUEYG670970773; DX1901678851; BB3206029243; HJVZYZ447202786; Y3200665511; DX1901245378; BOF_8; BOF_9; BOF_14; ,,Main / Second / Vegetables,,,14.0
+16,16,UR_17,The Title of a Bird,Pea-Bird,BOF_13; ,,Main / Second / Vegetables,,,1.0
+17,17,UR_18,To Conquer,Beet,BOF_13; ,,Main / Second / Vegetables,,,1.0
+18,18,UR_19,"The Drink / Food of the Gods, and (the Shell of a Melon | the Outside Skin)",Nectarine,BOF_13; BOF_1; U0108582201; DX1901678851; BB3206029243; CEMMIP364981254; DX1901245378; BOF_9; BOF_14; ,,Dessert,,,9.0
+19,19,UR_20,A Dutch Prince / (in a Pudding) / (sincere),Orange / Orange Pudding,BOF_13; BOF_1; BOF_6; BOF_7; Y3202620781; U0108582201; CW0124558740; CKUEYG670970773; DX1901678851; Z2001239391; BB3206029243; HJVZYZ447202786; CEMMIP364981254; DX1901245378; CW0114771776; BOF_9; BOF_10; BOF_11; BOF_14; BOF_15; BOF_16; BOF_17; BOF_18; BOF_19; ,,Dessert,,,24.0
+20,20,UR_21,Married Folks / People,Pears,BOF_13; BOF_1; Y3202620781; DX1901678851; BA3200055553; DX1901245378; BOF_9; BOF_12; BOF_14; ,,Dessert,,,9.0
+21,21,UR_22,A Musical Instrument,Cymball / Hautboy,BOF_13; BOF_1; Y3202620781; DX1901678851; BB3206029243; DX1901245378; BOF_9; BOF_14; ,,Dessert,,,8.0
+22,22,UR_23,"Colorless, and the Seat of Life / Seat of Affliction",White-heart,BOF_13; BOF_1; BOF_14; ,,Dessert,,,3.0
+23,23,UR_24,"To Fret, and Eve's Temptation",Pineapple,BOF_13; Y3202620781; BA3200055553; DX1901245378; BOF_9; BOF_12; ,,Dessert,,,6.0
+24,24,UR_25,"A Domestic Fowl / Foolish bird, and the Product of a Hedge",Gooseberry,BOF_13; BOF_1; Y3202620781; BB3206029243; CEMMIP364981254; DX1901245378; BOF_9; BOF_14; ,,Dessert,,,8.0
+25,25,UR_26,"A Defense, and a Nut",Walnut,BOF_13; BOF_1; BOF_14; ,,Dessert,,,3.0
+26,26,UR_27,"The First Temptation, and a Light Breeze / Blasts of Air",Apple-puff,BOF_13; BOF_2; BOF_6; BOF_7; Y3202620781; U0108582201; CW0124558740; DX1901678851; DX1901678851; Z2001239391; BB3206029243; CEMMIP364981254; Y3200665511; DX1901245378; CW0114771776; BOF_8; BOF_9; BOF_10; BOF_11; BOF_15; BOF_16; BOF_17; BOF_18; BOF_19; ,,Dessert,,,24.0
+27,27,UR_28,An Instrument of Torture,Whip,BOF_13; BOF_14; ,,Dessert,,,2.0
+28,28,UR_29,What England Never Will Be,Floating Island,BOF_13; BOF_14;  ,,Dessert,,,3.0
+29,29,UR_30,A Running Stream,Currants,BOF_13; Y3202620781; DX1901245378; BOF_9; BOF_12; BOF_14; ,,Dessert,,,6.0
+30,30,UR_31,"A Part of the Body, and Nuts",Chestnuts,BOF_13; ,,Dessert,,,1.0
+31,31,UR_32,A Sailor's Desire / Joy / Habitation / Welcome Prospect,Port,BOF_13; BOF_1; BOF_2; U0108582201; BB3206029243; BA3200055553; CEMMIP364981254; BOF_9; BOF_14; ,,Drinks,,,9.0
+32,32,UR_33,A Small / Low Tree,Shrub,BOF_13; BOF_6; BB3206029243; BOF_9; BOF_14; ,,Drinks,,,5.0
+33,33,UR_34,(The Produce of an Animal with) Merry Andrews,Syllabub / Punch,BOF_13; BB3206029243; BOF_9; BOF_14; ,,Drinks,,,4.0
+34,34,UR_35,A High Mountain,Teneriffe,BOF_13; ,,Drinks,,,1.0
+35,35,UR_36,Counterfeit / Unreal / Pretended Agony / Suffering ,Champagne,BOF_13; BOF_1; U0108582201; GT3016100102; CKUEYG670970773; BB3206029243; BA3200055553; HJVZYZ447202786; CEMMIP364981254; GT3003085809; BOF_9;  BOF_12; BOF_14; ,,Drinks,,,13.0
+36,36,UR_37,A City / town of Portugal,Lisbon?,BOF_13; BOF_1; BOF_9; BOF_14; ,,Drinks,,,4.0
+37,37,UR_38,An Island in the Atlantic Ocean,Madeira,BOF_13; BOF_1; BOF_2; BOF_9; BOF_12; BOF_14; ,,Drinks,,,6.0
+38,38,UR_39,Adam's Ale,Water,BOF_13; BOF_14; ,,Drinks,,,2.0
+39,39,UR_40,An Island in the Northern Ocean,,BOF_1; ,,,,,1.0
+40,40,UR_41,Some Hundreds of Thousands (Pounds) (in ????),"Plums (From Wiki: (archaic) A handsome fortune or property; formerly, in cant language, the sum of £100,000 sterling, or a person possessing it.)",BOF_1; BOF_7; Y3202620781; CW0124558740; CKUEYG670970773; Z2001239391; HJVZYZ447202786; CW0114771776; BOF_10; BOF_14; BOF_15; BOF_16; BOF_17; BOF_18; BOF_19; ,,,,,15.0
+41,41,UR_42,Busy Bodies,Medlars,BOF_1; BOF_5; BOF_7; CW0124558740; Z2001239391; CW0114771776; BOF_10; BOF_15; BOF_16; BOF_17; BOF_18; BOF_19; ,,,,,12.0
+42,42,UR_43,A Game / The top of milk and nuts  ( / food for Squirrels),,BOF_1; U0108582201; DX1901678851; BB3206029243; ,,Dessert,,,4.0
+43,43,UR_44,The Seat of Life,Heart?,BOF_1; ,,Main / Second / Vegetables,,,1.0
+44,44,UR_45,(A _ Widower and the) (sauce of the) Staff of Life,Something-Bread?,BOF_1; U0108582201; DX1901678851; BB3206029243; CEMMIP364981254; Y3200665511; BOF_8; ,,Main / Second / Vegetables,,,7.0
+45,45,UR_46,A Province / Dukedom in France,Burgundy,BOF_1; U0108582201; CKUEYG670970773; BB3206029243; HJVZYZ447202786; CEMMIP364981254; BOF_9; ,,Drinks,,,7.0
+46,46,UR_47,A Soldier's Habitation (with a Pretty Girl in it),"Tent (with a toast in it) - From Wiki: (archaic) A kind of wine of a deep red color, chiefly from Galicia or Malaga in Spain",BOF_2; U0108582201; CW0124558740; CKUEYG670970773; Z2001239391; BB3206029243; BA3200055553; HJVZYZ447202786; CEMMIP364981254; CW0114771776; BOF_9; BOF_10;  BOF_14; BOF_15; BOF_16; BOF_17; BOF_18; BOF_19; ,,Drinks,,,18.0
+47,47,UR_48,A Soldier's Desire,Tent?,BOF_1; ,,Drinks,,,1.0
+48,48,UR_49,"The Opposite to Nature, a Vowel and Suffocation",Artichoke (Art-i-choke),BOF_2;,,Drinks,,,2.0
+49,49,UR_50,A Celebrated Singer,"Possibly Laura Honey, based on assumed dates",BOF_2;,,,,,2.0
+50,50,UR_51,Acids,Lemons?,BOF_2;,,,,,2.0
+51,51,UR_52,Sham Fish,Cod? (from the informal British cod for not authentic or fake),BOF_2;,,,,,2.0
+52,52,UR_53,Two Letters,,BOF_2;,,,,,2.0
+53,53,UR_54,Part of a Girl's Name and a Boy,,BOF_2;,,,,,2.0
+54,54,UR_55,"A Chamber, ???? Utensil an ???? Part of the Human Body",,BOF_2;,,,,,2.0
+55,55,UR_56,"The title those doves, which (as poets declare) / 
+Drew the chariot of Venus, do commonly bear ; / 
+Toss'd up in a high season'd soup may be seen, /
+If you move off the lid of that cover'd tureen.",Turtle-soup?,BOF_4;,,Main / Second / Vegetables,,,2.0
+56,56,UR_57,"Of Denmarks fam'd Prince take at least the full half, /
+And match it along with the joint of the calf, /
+You'll then meet with food that your stomach may suit, /
+So take knife and fork, with freedom fall to't. ",Ham-?,BOF_4;,,Main / Second / Vegetables,,,2.0
+57,57,UR_58,"The engine of mischief, with dug of a cow, /
+And taylor's delight, are delicious you know. ",Tongue Udder and Cabbage: https://www.rte.ie/lifestyle/food/2016/1014/824158-lords-and-ladles/,BOF_4;,,Main / Second / Vegetables,Possible variation of UR_10,,2.0
+58,58,UR_59,"Some one hundred thousands we'll mix, and well bake, /
+And furnish a pudding which few will forsake. ","Plum-pudding - Plums (From Wiki: (archaic) A handsome fortune or property; formerly, in cant language, the sum of £100,000 sterling, or a person possessing it.)",BOF_4;,,Main / Second / Vegetables,Interesting variation of UR_41,,2.0
+59,59,UR_60,"A priest of the Jews, with the first and the last /
+Of Thomas, or Titus, will mend this repast. ",Rabits (Rabit-ts),BOF_4;,,Main / Second / Vegetables,,,2.0
+60,60,UR_61,"Well roasted, behold the Grand Seignior's domain! /
+Adorn'd like Lord Mayor with a mighty fine chain! /
+Made of sauce, and some periods descriptive of time, /
+To make up a dish most undoubtedly prime. ",Turkey an Sausage (Sauce-age),BOF_4;,,Main / Second / Vegetables,Interesting variation of UR_1,,2.0
+61,61,UR_62,"A breakfast, conjoin'd to a letter in love, /
+If properly dress'd will agreeable prove. ",Teal (Tea-l) - A type of Duck,BOF_4;,,Main / Second / Vegetables,,,2.0
+62,62,UR_63,"What ships are compos'd of, and Peter's rebuke, /
+Make a dainty oft found in the dish of a Duke. ",Woodcock,BOF_4;,,Main / Second / Vegetables,,,2.0
+63,63,UR_64,"A late Speaker's name, with three-fourths of a bard, /
+Will give what I think is well worth your regard. ",Something rt-ard,BOF_4;,,Main / Second / Vegetables,,,2.0
+64,64,UR_65,"A thing of no moment, -- and what Students wear, /
+Conclude this division of your bill of fare. ",Trifle-something?,BOF_4;,,Main / Second / Vegetables,,,2.0
+65,65,UR_66,"What stops up our streams, and imprisons our tides /
+When winter, that stern, rigid tyrant presides ; /
+With what ever fixes the worth of a jest /
+Supply a dish suited to every guest. ",Ice-cream,BOF_4;,,Dessert,,,2.0
+66,66,UR_67,"All that month, but one letter, whose prolific show'rs /
+Are said to produce an abundance of flow'rs ; /
+With some little mansions where poverty dwells, /
+Afford you a fruit which in flavor excells. ",Apricots,BOF_4;,,Dessert,,,2.0
+67,67,UR_68,"What the sorrowful do, and that delusive bait /
+By which our first parents determin'd our fate. ",Pineapple,BOF_4;,,Dessert,Interesting variation of UR_24,,2.0
+68,68,UR_69,"To me add half London, and then you'll produce /
+A fruit full of flavor, and excellent juice. ",Melon,BOF_4;,,Dessert,,,2.0
+69,69,UR_70,"Impertinent fellows--and what have no peer ; /
+A mark on the cards, and those things which the fair /
+In dressing must fix almost every where. ",,BOF_4;,,Dessert,,,2.0
+70,70,UR_71,"The name which (covered by someone's finger) has been often apply'd /
+Makes all we at (covered by finger) time to provide ; /
+Our liquors excepted, which soon to your view, /
+On side-board arrang'd all in order we'll shew. ",,BOF_4;,,Dessert,,,2.0
+71,71,UR_72,"An Irish Viscount, with the last of his name /
+Before to that mark of distinction he came. ",,BOF_4;,,Drinks,,,2.0
+72,72,UR_73,"A hill of great height, and an elegant dress /
+In which ladies often their fancy express. ",,BOF_4;,,Drinks,,,2.0
+73,73,UR_74,"The life of the show(made sifting of flow'r, /
+With what all must do) not too sweet, nor too sour. ",,BOF_4;,,Drinks,,,2.0
+74,74,UR_75,"What Samson was call'd, an insect whose care /
+To man is a lesson- to which add an R. /
+Next say how diminutive things are describ'd, /
+And take all but what we to Samson ascrib'd.",Something-Bar?,BOF_4;,,Drinks,,,2.0
+75,75,UR_76,"The gesture of man, or of ships the resort: /
+What we always have, and yet give nothing for't. ",Port / Water,BOF_4;,,Drinks,,,2.0
+76,76,UR_77,"What all things have been, and the personal I, /
+Adding one-half rare, will compleat this supply. ",Madeira? Mad-i-ra,BOF_4;,,Drinks,,,2.0
+77,77,UR_78,"The Prince of a See too, toss'd up in a tankard, /
+Will serve you at last when perhaps you have drank hard.",Water?,BOF_4;,,Drinks,,,2.0
+78,78,UR_79,"The hinder part of a man's legs, with the whole of his upper part boil'd; accompanied with the language of a lamb, and what a school boy is obliged to do with his lesson.","Calf's head, and ?",BOF_4;,,,,,2.0
+79,79,UR_80,Two different sorts of the same species of fish joined -- in a fruit pye.,,BOF_4;,,,,,2.0
+80,80,UR_81,"What the head of a woman is seldom said not to have; /
+and what every bird is known to proceed from – in sauce.",Tongue and Eggs,BOF_4;,,,,,2.0
+81,81,UR_82,"The place where we are sometimes supposed to have a grumbling, metamorphosed into a celebrated Infernal.",,BOF_4;,,,,,2.0
+82,82,UR_83,"What we are said to do when we separate, and the uppermost part of a house.",,BOF_4;,,,,,2.0
+83,83,UR_84,"A false step, with the first or the last letter in eye.",,BOF_4;,,,,,2.0
+84,84,UR_85,"The name of a worm, used to catch trouts, and two thirds of the modern Yorick.",,BOF_4;,,,,,2.0
+85,85,UR_86,The Prince of the puppets made of a dwarf tree.,,BOF_4;,,Drinks,,,2.0
+86,86,UR_87,The highest note in the common scale of music revers'd.,Ale,BOF_4;,,Drinks,,,2.0
+87,87,UR_88,That without which no ship can possibly receive motion.,Water,BOF_4;,,Drinks,,,2.0
+88,88,UR_89,The name of one of the chaste Susannah's false accusers made into wine.,something-wine,BOF_4;,,Drinks,,,2.0
+89,89,UR_90,"The first part of neglect, and we that are now present.","Negus (Negus is the name of a drink made of wine, often port, mixed with hot water, oranges or lemons, spices and sugar)",BOF_4;,,Drinks,,,2.0
+90,90,UR_91,The Name of a Grass Field / Watery Field,Mead,BOF_4; CKUEYG670970773; HJVZYZ447202786; ,,Drinks,,,3.0
+91,91,UR_92,A Character in ye Beaux Stra,Chjerry or Foigard (Foie Gras),BOF_5;,,Dessert,,,2.0
+92,92,UR_93,Couples,Pears,BOF_5; BOF_7; CW0124558740; Z2001239391; CW0114771776; BOF_10; BOF_15; BOF_16; BOF_17; BOF_18; BOF_19; ,,Dessert,Technically the same as UR_21,,11.0
+93,93,UR_94,French for Apple and A Red Stone,Pomegranate,BOF_5;,,Dessert,,,2.0
+94,94,UR_95,Sombre Music,,GT3003085809; ,,Main / Second / Vegetables,,Some type of Fish,1.0
+95,95,UR_96,(Melancholy Soup with) Crooked Sarah / Sally,Celery (Sal-Awry) ,BOF_6; BOF_7; Y3202620781; CW0124558740; CKUEYG670970773; Z2001239391; HJVZYZ447202786; CW0114771776; BOF_10; BOF_11; BOF_15; BOF_16; BOF_17; BOF_18; BOF_19; ,,Main / Second / Vegetables,,,15.0
+96,96,UR_97,Roasted Furrows,Partridges,BOF_6; BOF_7; CW0124558740; Z2001239391; CW0114771776; BOF_10; BOF_11; BOF_15; BOF_16; BOF_17; BOF_18; BOF_19; ,,Main / Second / Vegetables,,,12.0
+97,97,UR_98,Cutlets Undressed,Rabbits (Raw-bits),BOF_6; BOF_7; CW0124558740; Z2001239391; CW0114771776; BOF_10; BOF_15; BOF_16; BOF_17; BOF_18; BOF_19; ,,Main / Second / Vegetables,,,11.0
+98,98,UR_99,Pride Reverse in a Pie,Humble Pye,BOF_6; BOF_7; CW0124558740; Z2001239391; CW0114771776; BOF_10; BOF_15; BOF_16; BOF_17; BOF_18; BOF_19; ,,Main / Second / Vegetables,,,11.0
+99,99,UR_100,The Leg of a Corn Cutter Boiled with Diamond Weights,Leg of Mutton and Carrots,BOF_6; CW0124558740; Z2001239391; CW0114771776; BOF_10; BOF_15; BOF_16; BOF_17; BOF_18; BOF_19; ,,Main / Second / Vegetables,,,10.0
+100,100,UR_101,Venus's Guides,Turtles/Doves/Pigeons,BOF_6; BOF_7; CW0124558740; Z2001239391; CW0114771776; BOF_10; BOF_15; BOF_16; BOF_17; BOF_18; BOF_19; ,,Main / Second / Vegetables,,,11.0
+101,101,UR_102,The Loss of a Wife and the Gain of a Husband in Jelly,,BOF_6; BOF_7; CW0124558740; Z2001239391; CW0114771776; BOF_10; BOF_15; BOF_16; BOF_17; BOF_18; BOF_19; ,,Dessert,,,11.0
+102,102,UR_103,Sorrowful Apples with Bad Wives Around Them,Pineapple-?,BOF_6; BOF_7; CW0124558740; Z2001239391; CW0114771776; BOF_10; BOF_15; BOF_16; BOF_17; BOF_18; BOF_19; ,,Dessert,,,11.0
+103,103,UR_104,A Mischievous Animal or Vowel and what is Given to Physicians,,BOF_6; ,,Drinks,,,1.0
+104,104,UR_105,A Door Keeper,,BOF_6; ,,Drinks,,,1.0
+105,105,UR_106,A Snare,,BOF_6; ,,Drinks,,,1.0
+106,106,UR_107,Half a Large Glass,,BOF_6; ,,Drinks,,,1.0
+107,107,UR_108,Removed for a Soldier's Staff,Pike (type of fish),BOF_7; Z2001239391; BOF_10; BOF_15; BOF_17; ,,Main / Second / Vegetables,,,5.0
+108,108,UR_109,Move Jack,Sturgeon (Stir John),BOF_7; CW0124558740; Z2001239391; CW0114771776; BOF_10; BOF_11; BOF_15; BOF_16; BOF_17; BOF_18; BOF_19; ,,Main / Second / Vegetables,,,11.0
+109,109,UR_110,Cow's Provender with Half Gooseberrys,,BOF_7; CW0124558740; Z2001239391; CW0114771776; BOF_10; BOF_15; BOF_16; BOF_17; BOF_18; BOF_19; ,,Dessert,,,10.0
+110,110,UR_111,The Reward of a Soldier in Cream,,BOF_7; CW0124558740; Z2001239391; CW0114771776; BOF_10; BOF_15; BOF_16; BOF_17; BOF_18; BOF_19; ,,Dessert,,,10.0
+111,111,UR_112,The Joke of a Puppet Show Made with Torture,?-whip?,BOF_7; CW0124558740; Z2001239391; CW0114771776; BOF_10; BOF_15; BOF_16; BOF_17; BOF_18; ,,Drinks,,,9.0
+112,112,UR_113,A Bottle of Hill-Top,Mountain,BOF_7; U0108582201; CW0124558740; Z2001239391; CW0114771776; BOF_10; BOF_15; BOF_16; BOF_17; BOF_18; BOF_19; ,,Drinks,,,11.0
+113,113,UR_114,A Bottle of Bag,Sack?,BOF_7; CW0124558740; Z2001239391; CW0114771776; BOF_10; BOF_15; BOF_16; BOF_17; BOF_18; BOF_19; ,,Drinks,,,10.0
+114,114,UR_115,A Bottle of Torbay,Port,BOF_7; CW0124558740; Z2001239391; CW0114771776; BOF_10; BOF_15; BOF_16; BOF_17; BOF_19; ,,Drinks,,,9.0
+115,115,UR_116,A Side of Grace-Cup of Lamentable Clothing,,BOF_7; CW0124558740; Z2001239391; CW0114771776; BOF_10; BOF_15; BOF_16; BOF_17; BOF_18; ,,Drinks,,,9.0
+116,116,UR_117,The (first) Ruin of Man (for a Sauce),Apple? / Apple Sauce?,Y3202620781; U0108582201; CKUEYG670970773; DX1901678851; BB3206029243; HJVZYZ447202786; CEMMIP364981254; CEMMIP364981254; BOF_8; ,,Main / Second / Vegetables,,,9.0
+117,117,UR_118,"A Large Vessel, and to Transgress, Changing a Letter",,Y3202620781,,Main / Second / Vegetables,,,1.0
+118,118,UR_119,"A kitchen utensil, the foundation of learning / a vowel and part of the foot",Potatoes,Y3202620781; BOF_12; ,,Main / Second / Vegetables,Technically the same as UR_13,,2.0
+119,119,UR_120,The Fruit / Food of Israel (Garnished with Perpetual Motion),,Y3202620781; DX1901678851,,,,,2.0
+120,120,UR_121,"The Sixteenth Letter, and Everyone / each",Peach,Y3202620781; DX1901678851; BB3206029243;  ,,,,,4.0
+121,121,UR_122,The Stalk of Wheat and (What is seen in the Hedges | a Wild Fruit | the autumnal beauty of the woods),something(husk?)-berries,Y3202620781; U0108582201; DX1901678851; BB3206029243; CEMMIP364981254; ,,,,,5.0
+122,122,UR_123,Sauce of Little Creatures,,U0108582201; DX1901678851; BB3206029243; CEMMIP364981254; Y3200665511; BOF_8; ,,Main / Second / Vegetables,,,6.0
+123,123,UR_124,Imitation (Reptile) Soup ,Mock Turtle Soup,U0108582201; GT3016100102; DX1901678851; BB3206029243; CEMMIP364981254; GT3003085809; Y3200665511; BOF_8; ,,Main / Second / Vegetables,,,8.0
+124,124,UR_125,A Young Simpleton,,U0108582201; BB3206029243; CEMMIP364981254; Y3200665511; BOF_8; ,,Main / Second / Vegetables,,,5.0
+125,125,UR_126,Sauce of Soft Grease,,U0108582201; DX1901678851; BB3206029243; CEMMIP364981254; Y3200665511; BOF_8; ,,Main / Second / Vegetables,,,6.0
+126,126,UR_127,The Most Becoming Head-Dress,Hare? (Hair),U0108582201; CEMMIP364981254; ,,Main / Second / Vegetables,,,2.0
+127,127,UR_128,"To Grieve, and the Origin of Grief",,U0108582201; DX1901678851; BB3206029243; CEMMIP364981254; ,,Dessert,,,4.0
+128,128,UR_129,"A Material Part of a House, and what Grows in Hedges / in the Woods",,U0108582201; BB3206029243; CEMMIP364981254; ,,Dessert,,,3.0
+129,129,UR_130,A Cell,,U0108582201; BB3206029243; CEMMIP364981254; ,,Drinks,,,3.0
+130,130,UR_131,"(The Produce of a Useful Animal, and) an Amusing Periodical",Punch?,U0108582201; CEMMIP364981254; BOF_12; ,,Drinks,,,3.0
+131,131,UR_132,A Long Tree,,U0108582201; CEMMIP364981254; ,,Drinks,This should be distinct from UR_33,,2.0
+132,132,UR_133,A Foreign Country,Turkey?,U0108582201; DX1901678851; GT3012297379; BB3206029243; CEMMIP364981254; Y3200665511; BOF_8; ,,,,,7.0
+133,133,UR_134,A Well-Powdered Head,,U0108582201; DX1901678851; BB3206029243; CEMMIP364981254; Y3200665511; BOF_8; ,,,,,6.0
+134,134,UR_135,Roots of Israel,,U0108582201; BB3206029243; CEMMIP364981254; Y3200665511; BOF_8; ,,,Unsure if this is identical to UR_120,,5.0
+135,135,UR_136,Stewed Upstarts,,U0108582201; DX1901678851; BB3206029243; CEMMIP364981254; Y3200665511; BOF_8; ,,,,,6.0
+136,136,UR_137,The Capital of a Forgien Country,Lisbon?,U0108582201; BB3206029243; CEMMIP364981254; ,,Drinks,I believe that this is technically the same as UR_37,,3.0
+137,137,UR_138,Useful Birds,,U0108582201; DX1901678851; BB3206029243; CEMMIP364981254; Y3200665511; BOF_8; ,,,,,6.0
+138,138,UR_139,"A Female Employment, and a Constant Follower of Man",,U0108582201; DX1901678851; BB3206029243; CEMMIP364981254; Y3200665511; BOF_8; ,,,,,6.0
+139,139,UR_140,Some Sweet Warblors,,U0108582201; DX1901678851; CEMMIP364981254; Y3200665511; BOF_8; ,,,,,5.0
+140,140,UR_141,"A Stop in Music, and Wild Bird's Delight",,U0108582201; DX1901678851; BB3206029243; CEMMIP364981254; ,,,,,4.0
+141,141,UR_142,A Portuguese Island,Madeira,U0108582201; BB3206029243; CEMMIP364981254; ,,,Technically the same as UR_38,,3.0
+142,142,UR_143,The Largest Part of Sambo's Feet,Sole,GT3016100102; GT3003085809; ,,Main / Second / Vegetables,,Fish,2.0
+143,143,UR_144,What the Ram said to Harry,Halibut,GT3016100102; GT3003085809; ,,Main / Second / Vegetables,,Fish,2.0
+144,144,UR_145,An Express Label,Cod,GT3016100102; GT3003085809; ,,Main / Second / Vegetables,,Fish,2.0
+145,145,UR_146,A Universal Crown,Hare,GT3016100102; GT3003085809; ,,Main / Second / Vegetables,,Game,2.0
+146,146,UR_147,To Shrink from Danger,Quail,GT3016100102; GT3003085809; ,,Main / Second / Vegetables,,Game,2.0
+147,147,UR_148,Little Darlings,Deer,GT3016100102; GT3003085809; ,,Main / Second / Vegetables,,Game,2.0
+148,148,UR_149,A Genial English Author,Lamb,GT3016100102; GT3003085809; ,,Main / Second / Vegetables,,Roast Meat,2.0
+149,149,UR_150,The Country of the Crescent,Turkey?,GT3016100102; GT3003085809; ,,Main / Second / Vegetables,,Roast Meat,2.0
+150,150,UR_151,Adam's Wife in her Vigin State,Spare-Rib,GT3016100102; GT3003085809; ,,Main / Second / Vegetables,Technically the same as UR_6,,2.0
+151,151,UR_152,One of Noah's Sons,Ham,GT3016100102; GT3003085809; ,,Main / Second / Vegetables,,,2.0
+152,152,UR_153,Woman's Best Weapon,Tongue,GT3016100102; GT3003085809; BOF_12; ,,Main / Second / Vegetables,Technically the same as UR_7,,3.0
+153,153,UR_154,To Steal Mildly,Cabbage,GT3016100102; GT3003085809; ,,Main / Second / Vegetables,,Vegetables,2.0
+154,154,UR_155,Complete Upsets,Turnips,GT3016100102; GT3003085809; ,,Main / Second / Vegetables,,Vegetables,2.0
+155,155,UR_156,What Successful Candidates do this Fall,Beet,GT3016100102; GT3003085809; ,,Main / Second / Vegetables,,Vegetables,2.0
+156,156,UR_157,Two Kinds of Toes not Found on Man or Beast,Potatoes and Tomatoes,GT3016100102; GT3003085809; ,,Main / Second / Vegetables,,Vegetables,2.0
+157,157,UR_158,Pertaining to Regions Underground,Celery (Cell - adjective?),GT3016100102; GT3003085809; ,,,,Relishes,2.0
+158,158,UR_159,Elevated Felines,Catsup,GT3016100102; GT3003085809; ,,,,Relishes,2.0
+159,159,UR_160,Comical Performances,Pickles,GT3016100102; GT3003085809; ,,,,Relishes,2.0
+160,160,UR_161,Ludicrous Situations,Capers,GT3016100102; GT3003085809; ,,,,Relishes,2.0
+161,161,UR_162,What we would Say to Importunate Agents,Sago Pudding (Say Go),GT3016100102; GT3003085809; ,,,,Pudding,2.0
+162,162,UR_163,Exactly Perpendicular,Plum Pudding (plumb = perpendicular),GT3016100102; GT3003085809; ,,,,Pudding,2.0
+163,163,UR_164,The Mantle of Winter,Snow Pudding,GT3016100102; GT3003085809; ,,,,Pudding,2.0
+164,164,UR_165,What we do not Like to Say to our Creditors,Suet,GT3016100102; GT3003085809; ,,,,Pudding,2.0
+165,165,UR_166,To Walk in an Affected Manner,Mince,GT3016100102; GT3003085809; ,,,,Pie,2.0
+166,166,UR_167,Closely Related to the Rural Reservoir,Pumpkin (Pump-kin),GT3016100102; GT3003085809; ,,,,Pie,2.0
+167,167,UR_168,The Historian's Delight,Dates,GT3016100102; GT3003085809; ,,,,Fruits,2.0
+168,168,UR_169,Water in Motion,Currants,GT3016100102; GT3003085809; ,,,Technically the same as UR_30,Fruits,2.0
+169,169,UR_170,Small Shot (plural),Grapes,GT3016100102; GT3003085809; ,,,,Fruits,2.0
+170,170,UR_171,Happy Lovers,Pears,GT3016100102; GT3003085809; ,,,Technically the same as UR_21 and UR_93,Fruits,2.0
+171,171,UR_172,The Lover's Address to his Sweetheart,Madeira (my-dear),GT3016100102; GT3003085809; ,,Drinks,,Wines and Liquors,2.0
+172,172,UR_173,The Traveler's Haven,Port,GT3016100102; GT3003085809; ,,Drinks,,Wines and Liquors,2.0
+173,173,UR_174,A Couch of Death,Beer (Bier),GT3016100102; GT3003085809; ,,Drinks,,Wines and Liquors,2.0
+174,174,UR_175,The Briton's Address to his Queen,Ale,GT3016100102; GT3003085809; ,,Drinks,,Wines and Liquors,2.0
+175,175,UR_176,A Horse's Toilet,Curry,CKUEYG670970773; HJVZYZ447202786; ,,Main / Second / Vegetables,Answer Provided by Source,,2.0
+176,176,UR_177,What Furnishes the Best Conversation,Tongue of Brains (?),CKUEYG670970773; HJVZYZ447202786; ,,Main / Second / Vegetables,Answer Provided by Source,,2.0
+177,177,UR_178,A Stupid Man's Cry for Mercy,Asparagus (O spare a goose),CKUEYG670970773; HJVZYZ447202786,,Main / Second / Vegetables,Answer Provided by Source,,2.0
+178,178,UR_179,"A Street in Camden Town Boiled, and Something Immaterial Fried","Brill, Plaice, and Soles",CKUEYG670970773; HJVZYZ447202786; ,,Main / Second / Vegetables,Answer Provided by Source,,2.0
+179,179,UR_180,A Pattern Husband Roast,Lamb Roasted,CKUEYG670970773; HJVZYZ447202786; ,,Main / Second / Vegetables,Answer Provided by Source,,2.0
+180,180,UR_181,Woman's Glory (Soup),Hare,CKUEYG670970773; HJVZYZ447202786; ,,Main / Second / Vegetables,Answer Provided by Source,,2.0
+181,181,UR_182,Short Sarah and her young brother,Sallad (Sal-lad),CKUEYG670970773; HJVZYZ447202786; ,,Main / Second / Vegetables,Answer Provided by Source,,2.0
+182,182,UR_183,Some Young Females,Patties,CKUEYG670970773; HJVZYZ447202786; ,,Main / Second / Vegetables,Answer Provided by Source,,2.0
+183,183,UR_184,Dialogue Between the Kettle and the Cat,Bubble and Squeak,CKUEYG670970773; HJVZYZ447202786; ,,Main / Second / Vegetables,Answer Provided by Source,,2.0
+184,184,UR_185,Winter's Sport and a Weapon of War,Skate and Pike,CKUEYG670970773; HJVZYZ447202786; ,,Main / Second / Vegetables,Answer Provided by Source,,2.0
+185,185,UR_186,Removed for a Dish which Reminds a Cocknet of a Carriage Rut,A Loin of Veal (Line o' wheet),CKUEYG670970773; HJVZYZ447202786; ,,Main / Second / Vegetables,Answer Provided by Source,,2.0
+186,186,UR_187,Attendants on Royalty,Maids of Honour,CKUEYG670970773; HJVZYZ447202786; ,,Main / Second / Vegetables,Answer Provided by Source,,2.0
+187,187,UR_188,Practical Jokes and Cries,Larks and Quails,CKUEYG670970773; HJVZYZ447202786; ,,Main / Second / Vegetables,Answer Provided by Source,,2.0
+188,188,UR_189,Something Superior to Undeserved Commendation,Pudding (Solid pudding is better than empty praise),CKUEYG670970773; HJVZYZ447202786; ,,Main / Second / Vegetables,Answer Provided by Source,,2.0
+189,189,UR_190,An Old-fashioned Dandy,Macaroni,CKUEYG670970773; HJVZYZ447202786; ,,Main / Second / Vegetables,Answer Provided by Source,,2.0
+190,190,UR_191,Physic Snappish,Rhubarb Tart,CKUEYG670970773; HJVZYZ447202786; ,,Main / Second / Vegetables,Answer Provided by Source,,2.0
+191,191,UR_192,An Eastern Country / Our Ally (Stuffed and Roasted),Turkey,CKUEYG670970773; HJVZYZ447202786; ,,Main / Second / Vegetables,Answer Provided by Source,,2.0
+192,192,UR_193,"A Mineral, and the Best Part of a Jest",Ice Cream,CKUEYG670970773; HJVZYZ447202786; ,,Dessert,Answer Provided by Source,,2.0
+193,193,UR_194,Nothing Like Them,Nonpareils,CKUEYG670970773; HJVZYZ447202786; ,,Dessert,Answer Provided by Source,,2.0
+194,194,UR_195,What an Informer Does to his Friends,"Peaches (From Colins Dictionary: (intr except in obsolete uses) slang
+to inform against an accomplice)",CKUEYG670970773; HJVZYZ447202786; ,,Dessert,Answer Provided by Source,,2.0
+195,195,UR_196,Mischief-Makers,Medlars Fruit,CKUEYG670970773; HJVZYZ447202786; ,,Dessert,Answer Provided by Source,,2.0
+196,196,UR_197,The Capital of Tuscany,Florence,CKUEYG670970773; HJVZYZ447202786; ,,Drinks,Answer Provided by Source,,2.0
+197,197,UR_198,Dwelling of a Recluse / Country Recluse,Hermitage,CKUEYG670970773; HJVZYZ447202786; BOF_14; ,,Drinks,Answer Provided by Source,,3.0
+198,198,UR_199,The Attack of a Town,Jack,CKUEYG670970773; HJVZYZ447202786; ,,Drinks,Answer Provided by Source,,2.0
+199,199,UR_200,A High Hill,Mountain,CKUEYG670970773; BB3206029243; HJVZYZ447202786; CEMMIP364981254; BOF_14; ,,Drinks,Answer Provided by Source,,5.0
+200,200,UR_201,Station for Ships,Port,CKUEYG670970773; HJVZYZ447202786; ,,Drinks,Answer Provided by Source,,2.0
+201,201,UR_202,A Season of Wildness,Madeira,CKUEYG670970773; HJVZYZ447202786; ,,Drinks,Interesting variation of UR_31 and UR_77; Answer Provided by Source,,2.0
+202,202,UR_203,Great Riches-Interferers,Medlars Fruit?,DX1901678851,,Dessert,,,1.0
+203,203,UR_204,"A Substatial Thing, with What Grows in the Woods",,DX1901678851,,Dessert,,,1.0
+204,204,UR_205,A Silly Bird and the Autumnal Ornament of Trees,Goose-berry?,DX1901678851,,,Interesting variation of UR_25,,1.0
+205,205,UR_206,What a Gambler Risks,,GT3012297379,,,,,1.0
+206,206,UR_207,The Cursed Son,Ham,GT3012297379,,,,,1.0
+207,207,UR_208,An American General and Four-tenths of a British General's Name,,GT3012297379,,,,,1.0
+208,208,UR_209,The Destroyer of our Race,,GT3012297379,,,,,1.0
+209,209,UR_210,A Letter of the Alphabet,Pea? Eye? Tea?,GT3012297379,,,,,1.0
+210,210,UR_211,Resting Place for a Bird,,GT3012297379,,,,,1.0
+211,211,UR_212,A Color,Orange?,GT3012297379,,,,,1.0
+212,212,UR_213,An Emblem of Innocence,,GT3012297379,,,,,1.0
+213,213,UR_214,What a French Town is Noted For,,GT3012297379,,,,,1.0
+214,214,UR_215,A Bottle of Hyp,,Z2001239391; CW0114771776; BOF_10; BOF_15; BOF_16; BOF_17; BOF_18; ,,,,,7.0
+215,215,UR_216,A Neighbouring State,Scotch?,BB3206029243,,,,,1.0
+216,216,UR_217,Portion of a mountain range,,GT3003085809; ,,Main / Second / Vegetables,,Game,1.0
+217,217,UR_218,The Interior of a Sportsman,,BOF_11; ,,,,,1.0
+218,218,UR_219,A Female United to a Male,,BOF_11; ,,,,,1.0
+219,219,UR_220,An Act of Industry and what Occasions Wrinkles,,BOF_11; ,,,,,1.0
+220,220,UR_221,A Baronet,Sir Loin,BOF_11; ,,,,,1.0
+221,221,UR_222,A Part of your Shoes Stewed,Sole?,BOF_11; ,,,,,1.0
+222,222,UR_223,What Adam gave to Eve,Spare-Rib,BOF_11; ,,,,,1.0
+223,223,UR_224,Henry and what Denotes Partnerships,,BOF_11; ,,,,,1.0
+224,224,UR_225,One of the Twelve Tribes of Israel,Gad? (Goat),BOF_11; ,,,,,1.0
+225,225,UR_226,What is found in beds joined to Martha,,BOF_11; ,,,,,1.0
+226,226,UR_227,A Barren Waste and a Sportsman's Delight,,BOF_11; ,,,,,1.0
+227,227,UR_228,Russian Apples Sour,,BOF_11; ,,,,,1.0
+228,228,UR_229,A Beau,,BOF_11; ,,,,,1.0
+229,229,UR_230,What Idle People Do,Lark / Loaf,BOF_11; ,,,,,1.0
+230,230,UR_231,Satan,,BOF_11; ,,,,,1.0
+231,231,UR_232,Two Tailors,Parsnips,BOF_12; ,,Main / Second / Vegetables,Answer Provided by Source,,1.0
+232,232,UR_233,An Exquisite and the King of Beasts,Dandylion (dandy-lion),BOF_12; ,,Main / Second / Vegetables,Answer Provided by Source,,1.0
+233,233,UR_234,A Famous English Wit,Lamb,BOF_12; ,,Main / Second / Vegetables,Answer Provided by Source,,1.0
+234,234,UR_235,A Place Where Money is Made and Impudence,Mint-Sauce,BOF_12; ,,Main / Second / Vegetables,Answer Provided by Source,,1.0
+235,235,UR_236,"A Biped, and to Depart",Mangoes,BOF_12; ,,Main / Second / Vegetables,Answer Provided by Source,,1.0
+236,236,UR_237,A Biped from Noah's Ark,Ham,BOF_12; ,,Main / Second / Vegetables,Answer Provided by Source,,1.0
+237,237,UR_238,A Cold Substance and the Best of Everything,Ice Cream,BOF_12; ,,Dessert,Answer Provided by Source,,1.0
+238,238,UR_239,A Cure for Lazy Horses,Whips,BOF_12; ,,Dessert,Answer Provided by Source,,1.0
+239,239,UR_240,Part of a River in Pennsylvania,Brandy,BOF_12; ,,Dessert,Answer Provided by Source,,1.0
+240,240,UR_241,The Joint of an Animal,Hock,BOF_12; ,,Dessert,Answer Provided by Source,,1.0
+241,241,UR_242,"One-Third of Two, and a Firelock",Trifle,BOF_12; ,,Dessert,Answer Provided by Source,,1.0
+242,242,UR_243,Annual Stipend,,BOF_14,,Main / Second / Vegetables,,,1.0
+243,243,UR_244,Animal and vegetable,,BOF_14,,main / Second / Vegetables,,,1.0
+244,244,UR_245,Ghosts,Sole?,BOF_14,,Drinks,,,1.0
+245,245,UR_246,Motives,,BOF_14,,Dessert,,,1.0
+246,246,UR_247,Capital of Portugal,P - Pea (Soup),GT3003085809; GT3016100102; ,,,,,2.0
+247,247,UR_248,,,,,,,,1.0
+248,248,UR_249,,,,,,,,1.0
+249,249,UR_250,,,,,,,,1.0
+250,250,UR_251,,,,,,,,1.0
