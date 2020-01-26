@@ -14,7 +14,6 @@ df['Year'] = df.apply(lambda row: datetime.strptime(str(row['Newspaper Issue Dat
 y = "December 25, 2000"
 p = datetime.strptime(y, "%B %d, %Y").strftime('%j')
 print(p)
-exit()
 
 years = df['Year'].tolist()
 
@@ -50,10 +49,6 @@ print(m/o)
 print(n/m)
 
 
-
-
-
-exit()
 
 sns.distplot(df['Year'], kde=True, )
 plt.xlabel('Publication Year')
