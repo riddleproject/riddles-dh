@@ -5,6 +5,10 @@ import pandas as pd
 from datetime import datetime
 import numpy as np
 
+import seaborn as sns
+import matplotlib.pyplot as plt
+import matplotlib.dates as mdates
+
 meta = pd.read_csv("/Users/ndrezn/OneDrive - McGill University/Github/riddles-dh/workset/mapping/Complete_Menus.csv")
 meta = meta.dropna(subset=['Coordinates', 'Newspaper Issue Date'])
 
@@ -29,7 +33,7 @@ meta['Coordinates'] = meta.apply(lambda row: make_coord(row['Coordinates'],row['
 
 meta = meta.dropna(subset=['Coordinates', 'Newspaper Issue Date'])
 
-
+dts = []
 def make_json(row, i):
 	coordinates = row['Coordinates']
 	date = row['Newspaper Issue Date']
@@ -54,6 +58,9 @@ def make_json(row, i):
 				  '</strong>.' +\
 				 "<div id=\"menu"+i+"\" style='display:'block';'><br><br>" + str(row['MENU']) + "</div>"+\
 				 "<br><br><a href=# onclick=\"showHideMenu('menu"+i+"', 'button"+i+"')\" id='button"+i+"'>Show menu</a></div></div>"
+	
+	d = datetime.strptime(str(date),'%B %d, %Y').strftime('%j')
+	dts.append(d)
 	body = {
 		"type": "Feature",
 		"properties": {
@@ -63,6 +70,7 @@ def make_json(row, i):
 			"Location": str(row['Location']),
 			'Comments': str(row['Notes']),
 			"Year": datetime.strptime(str(date), '%B %d, %Y').year,
+			'Day': datetime.strptime(str(date),'%B %d, %Y').strftime('%j'),
 			"Type": type_to_int(row['Archive']),
 			'has_menu': has_menu,
 			'description': str(description)
@@ -80,6 +88,12 @@ jsons = []
 for i,row in meta.iterrows():
 	jsons.append(make_json(row, str(i)))
 
+
+sns.distplot(dts, kde=False)
+plt.xlabel('Day of the Year')
+plt.ylabel('% of riddles released')
+plt.title("Distribution of Riddles by Day of Publication")
+plt.show()
 
 final = {
   "type": "FeatureCollection",
