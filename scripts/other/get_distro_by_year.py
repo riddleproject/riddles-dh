@@ -48,10 +48,10 @@ print(n/o)
 print(m/o)
 print(n/m)
 
+yrs = df['Year'].tolist()
 
-
-sns.distplot(df['Year'], kde=True, )
+sns.distplot(yrs, kde=False )
 plt.xlabel('Publication Year')
-plt.ylabel('% of riddles released')
+plt.ylabel('# of riddle events')
 plt.title("Distribution of Riddles by Year of Publication")
 plt.show()

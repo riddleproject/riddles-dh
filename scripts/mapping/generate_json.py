@@ -13,6 +13,26 @@ meta = pd.read_csv("/Users/ndrezn/OneDrive - McGill University/Github/riddles-dh
 meta = meta.dropna(subset=['Coordinates', 'Newspaper Issue Date'])
 
 
+df= pd.DataFrame() 
+
+df['Date'] = ['1-2-99', '1-3-99', '1-7-98']
+df['Location'] = ['Kansas', 'Utah', 'Kentucky']
+df['People'] = [['Jeff', 'Jesse'], ['James'], ['Kris']]
+
+print(df)
+
+def at_party(row):
+	if row['Date'] == '1-2-99' and row['Location'] == 'Kansas':
+		return True
+	else:
+		return False
+
+party = df.apply(lambda row: at_party(row), axis=1)
+
+print(df)
+
+exit()
+
 meta = meta.sort_values(by=['Archive'])
 
 def type_to_int(string):
@@ -91,7 +111,7 @@ for i,row in meta.iterrows():
 
 sns.distplot(dts, kde=False)
 plt.xlabel('Day of the Year')
-plt.ylabel('% of riddles released')
+plt.ylabel('# of riddle events')
 plt.title("Distribution of Riddles by Day of Publication")
 plt.show()
 

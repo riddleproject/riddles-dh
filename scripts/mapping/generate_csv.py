@@ -29,8 +29,7 @@ def guess_date(string):
             	date -= pd.DateOffset(years=100)
             return date.strftime("%B %d, %Y")
         except ValueError:
-            continue
-    return np.nan
+            return np.nan
 
 
 meta=meta.dropna(axis=1,how='all')
